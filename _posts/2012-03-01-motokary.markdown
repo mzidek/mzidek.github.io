@@ -1,0 +1,15 @@
+---
+layout: post
+title: Den s motokárami
+joomla_id: 70
+joomla_url: motokary
+date: 2012-03-01 10:40:00.000000000 +01:00
+author: Martin Bohůn
+excerpt: '<p><span style="color: #000000;">Odpoledne u příležitosti Světového dne
+  hemofilie. Ve spolupráci s Radou ČSH uspořádala a sponzorovala firma Bayer - Schering
+  zastoupená Ing. Pavlínou Skýbovou.</span></p>'
+category: Hemofilické dny
+---
+<p><span style="color: #000000;">Odpoledne u příležitosti Světového dne hemofilie. Ve spolupráci s Radou ČSH uspořádala a sponzorovala firma Bayer - Schering zastoupená Ing. Pavlínou Skýbovou.</span></p>
+
+<p><code>[widgetkit id=18]</code></p>

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Den v ZOO Praha
+joomla_id: 69
+joomla_url: zoo-praha
+date: 2012-03-02 10:38:00.000000000 +01:00
+author: Martin Bohůn
+excerpt: '<p><span style="color: #000000;">Několik fotografií z pražské zoologické
+  zahrady, kam pozvala členy ČSH a Hemojunioru firma Novo Nordisk.</span></p>'
+category: Hemofilické dny
+---
+<p><span style="color: #000000;">Několik fotografií z pražské zoologické zahrady, kam pozvala členy ČSH a Hemojunioru firma Novo Nordisk.</span></p>
+
+<p><code>[widgetkit id=17]</code></p>

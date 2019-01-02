@@ -1,0 +1,14 @@
+---
+layout: post
+title: LHT 2011
+joomla_id: 55
+joomla_url: lht2011
+date: 2012-02-29 18:44:52.000000000 +01:00
+author: Petr Hasala
+excerpt: '<p><span style="color: #000000;">Poohlédnutí za letním hemofilickým táborem
+  v Ondrášově dvoře 2011 aneb <strong>Rok na vsi.</strong></span></p>'
+category: Dětské tábory
+---
+<p><span style="color: #000000;">Poohlédnutí za letním hemofilickým táborem v Ondrášově dvoře 2011 aneb <strong>Rok na vsi.</strong></span></p>
+
+<p>[widgetkit id=7]</p>

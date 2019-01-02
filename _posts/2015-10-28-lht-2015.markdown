@@ -1,0 +1,14 @@
+---
+layout: post
+title: LHT 2015
+joomla_id: 247
+joomla_url: lht-2015
+date: 2015-10-28 16:49:28.000000000 +01:00
+author: Martin Bohůn
+excerpt: '<p><span style="color: #000000;">Poohlédnutí za letním hemofilickým táborem
+  v Zubří na Vysočině - <strong>Putování s Malým princem.</strong></span></p>'
+category: Dětské tábory
+---
+<p><span style="color: #000000;">Poohlédnutí za letním hemofilickým táborem v Zubří na Vysočině - <strong>Putování s Malým princem.</strong></span></p>
+
+<p style="text-align: center;"><code>[widgetkit id=83]</code></p>

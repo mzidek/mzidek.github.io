@@ -1,0 +1,14 @@
+---
+layout: post
+title: LHT 2014
+joomla_id: 201
+joomla_url: lht-2014
+date: 2014-08-31 16:58:18.000000000 +02:00
+author: Martin Bohůn
+excerpt: '<p><span style="color: #000000;">Poohlédnutí za letním hemofilickým táborem
+  v Zubří na Vysočině - <strong>Pirátská plavba na ostrov Krakatic.</strong></span></p>'
+category: Dětské tábory
+---
+<p><span style="color: #000000;">Poohlédnutí za letním hemofilickým táborem v Zubří na Vysočině - <strong>Pirátská plavba na ostrov Krakatic.</strong></span></p>
+
+<p style="text-align: center;"><code>[widgetkit id=73]</code></p>

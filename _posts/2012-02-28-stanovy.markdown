@@ -1,0 +1,58 @@
+---
+layout: post
+title: Stanovy
+joomla_id: 16
+joomla_url: stanovy
+date: 2012-02-28 08:24:26.000000000 +01:00
+author: Petr Hasala
+excerpt: "<p><span style=\"color: #000000;\"><strong>Stanovy Českého svazu hemofiliků,
+  Volební řád, Organizační a jednací</strong><strong> řád ke stažení.</strong><br
+  /></span></p>\r\n<table style=\"width: 535px; height: 90px;\" border=\"1\">\r\n<tbody>\r\n<tr>\r\n<td
+  style=\"background-color: #ffffff; text-align: center;\"><strong>Název</strong></td>\r\n<td
+  style=\"background-color: #ffffff; text-align: center;\"><strong>Velikost     <br
+  /></strong></td>\r\n<td style=\"background-color: #ffffff; text-align: center;\"><strong>Stáhnout    
+  <br /></strong></td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #eef0ef;\"><a
+  href=\"images/dokumenty-pdf-doc/stanovy_2015/stanovy_ceskeho_svazu_hemofiliku.pdf\"
+  target=\"_blank\">Stanovy</a>                                        </td>\r\n<td
+  style=\"background-color: #eef0ef; text-align: center;\">100 Kb </td>\r\n<td style=\"background-color:
+  #eef0ef; text-align: center;\"><a href=\"images/dokumenty-pdf-doc/stanovy_2015/stanovy_ceskeho_svazu_hemofiliku.pdf\"
+  target=\"_blank\">pdf</a></td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color:
+  #ffffff;\"><a href=\"images/dokumenty-pdf-doc/stanovy_2015/volebni_rad_ceskeho_svazu_hemofiliku.pdf\"
+  target=\"_blank\">Volební řád</a></td>\r\n<td style=\"background-color: #ffffff;
+  text-align: center;\">100 Kb</td>\r\n<td style=\"background-color: #ffffff; text-align:
+  center;\"><a href=\"images/dokumenty-pdf-doc/stanovy_2015/volebni_rad_ceskeho_svazu_hemofiliku.pdf\"
+  target=\"_blank\">pdf</a></td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color:
+  #eef0ef;\"><a href=\"images/dokumenty-pdf-doc/stanovy_2015/organizacni_a_jednaci_rad_ceskeho_svazu_hemofiliku.pdf\"
+  target=\"_blank\">Organizační a jednací řád</a></td>\r\n<td style=\"background-color:
+  #eef0ef; text-align: center;\">100 Kb</td>\r\n<td style=\"background-color: #eef0ef;
+  text-align: center;\"><a href=\"images/dokumenty-pdf-doc/stanovy_2015/organizacni_a_jednaci_rad_ceskeho_svazu_hemofiliku.pdf\"
+  target=\"_blank\">pdf</a></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><span style=\"color:
+  #000000;\"> </span></p>"
+category: ČSH
+---
+<p><span style="color: #000000;"><strong>Stanovy Českého svazu hemofiliků, Volební řád, Organizační a jednací</strong><strong> řád ke stažení.</strong><br /></span></p>
+<table style="width: 535px; height: 90px;" border="1">
+<tbody>
+<tr>
+<td style="background-color: #ffffff; text-align: center;"><strong>Název</strong></td>
+<td style="background-color: #ffffff; text-align: center;"><strong>Velikost     <br /></strong></td>
+<td style="background-color: #ffffff; text-align: center;"><strong>Stáhnout     <br /></strong></td>
+</tr>
+<tr>
+<td style="background-color: #eef0ef;"><a href="images/dokumenty-pdf-doc/stanovy_2015/stanovy_ceskeho_svazu_hemofiliku.pdf" target="_blank">Stanovy</a>                                        </td>
+<td style="background-color: #eef0ef; text-align: center;">100 Kb </td>
+<td style="background-color: #eef0ef; text-align: center;"><a href="images/dokumenty-pdf-doc/stanovy_2015/stanovy_ceskeho_svazu_hemofiliku.pdf" target="_blank">pdf</a></td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;"><a href="images/dokumenty-pdf-doc/stanovy_2015/volebni_rad_ceskeho_svazu_hemofiliku.pdf" target="_blank">Volební řád</a></td>
+<td style="background-color: #ffffff; text-align: center;">100 Kb</td>
+<td style="background-color: #ffffff; text-align: center;"><a href="images/dokumenty-pdf-doc/stanovy_2015/volebni_rad_ceskeho_svazu_hemofiliku.pdf" target="_blank">pdf</a></td>
+</tr>
+<tr>
+<td style="background-color: #eef0ef;"><a href="images/dokumenty-pdf-doc/stanovy_2015/organizacni_a_jednaci_rad_ceskeho_svazu_hemofiliku.pdf" target="_blank">Organizační a jednací řád</a></td>
+<td style="background-color: #eef0ef; text-align: center;">100 Kb</td>
+<td style="background-color: #eef0ef; text-align: center;"><a href="images/dokumenty-pdf-doc/stanovy_2015/organizacni_a_jednaci_rad_ceskeho_svazu_hemofiliku.pdf" target="_blank">pdf</a></td>
+</tr>
+</tbody>
+</table>
+<p><span style="color: #000000;"> </span></p>

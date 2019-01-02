@@ -1,0 +1,120 @@
+---
+layout: post
+title: Template
+joomla_id: 3
+joomla_url: template
+date: 2011-01-07 15:01:30.000000000 +01:00
+author: Petr Hasala
+excerpt: "<h2>Warp5 Framework</h2>\r\n<p>This template is based on the Warp5 framework.
+  Warp5 is a fast and powerful template framework for Joomla that lets you create
+  sophisticated Joomla templates in no time. It provides a hybrid fluid-pixel grid
+  and all the elaborate functionalities that make our templates easy to edit, nice
+  to look at and super fast, in every browser. Visit the <a href=\"http://warp.yootheme.com\"
+  target=\"_blank\">Warp5 website</a> and take a look at all <a href=\"http://warp.yootheme.com/features\"
+  target=\"_blank\">the features...</a></p>\r\n<div class=\"floatbox\">\r\n<div class=\"float-left
+  width50\">\r\n<div class=\"correct-png ie6-zoom\" style=\"margin-right: 15px; padding-left:
+  60px; background: transparent url('images/yootheme/icon_menusystem.png') no-repeat
+  scroll 0 0;\">\r\n<h3 style=\"padding-top: 5px; margin-top: 0px;\">Menu System</h3>\r\n<p>The
+  menu system enhances Joomla's menu functions to create clearly arranged interfaces
+  even for comprehensive sites. <a href=\"http://warp.yootheme.com/menu-system\" target=\"_blank\">Learn
+  more...</a></p>\r\n</div>\r\n</div>\r\n<div class=\"float-left width50\">\r\n<div
+  class=\"correct-png ie6-zoom\" style=\"padding-left: 60px; background: transparent
+  url('images/yootheme/icon_modulesystem.png') no-repeat scroll 0 0;\">\r\n<h3 style=\"padding-top:
+  5px; margin-top: 0px;\">Module System</h3>\r\n<p>The module system provides a clear
+  grid for Joomla modules and a wide diversity of templates for module variations.
+  <a href=\"http://warp.yootheme.com/module-system\" target=\"_blank\">Learn more...</a></p>\r\n</div>\r\n</div>\r\n</div>\r\n<hr
+  class=\"dotted\" />\r\n<h2>Design and Styles</h2>\r\n<p>We included a lot of different
+  module and typography styles. So you can give your site a unique look and it will
+  also ease your work when setting up your content.</p>\r\n<div class=\"floatbox\">\r\n<div
+  class=\"float-left width50\">\r\n<div class=\"correct-png ie6-zoom\" style=\"margin-right:
+  15px; padding-left: 60px; background: transparent url('images/yootheme/icon_modulevariations.png')
+  no-repeat scroll 0 0;\">\r\n<h3 style=\"padding-top: 5px; margin-top: 0px;\">Module
+  Variations</h3>\r\n<p>This template comes with a wide variety of module stylings
+  in many different shapes and colours. Take a look at all the different <a href=\"index.php?option=com_content&amp;view=article&amp;id=48&amp;Itemid=58\">module
+  variations.</a></p>\r\n</div>\r\n</div>\r\n<div class=\"float-left width50\">\r\n<div
+  class=\"correct-png ie6-zoom\" style=\"padding-left: 60px; background: transparent
+  url('images/yootheme/icon_typography.png') no-repeat scroll 0 0;\">\r\n<h3 style=\"padding-top:
+  5px; margin-top: 0px;\">Typography</h3>\r\n<p>This templates delivers you sophisticated
+  typography and various stylings. Take a look at the <a href=\"index.php?option=com_content&amp;view=article&amp;id=46&amp;Itemid=55\">style
+  guide</a> about all possible HTML tag styles.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<hr
+  class=\"dotted\" />\r\n<h2>Installation and Customization</h2>\r\n<p>New to YOOtheme?
+  Don't worry! We provide a lot help to install and cutomize our tempaltes to get
+  you started right away with your web project.</p>\r\n<div class=\"floatbox\">\r\n<div
+  class=\"float-left width50\">\r\n<div class=\"correct-png ie6-zoom\" style=\"margin-right:
+  15px; padding-left: 60px; background: transparent url('images/yootheme/icon_installation.png')
+  no-repeat scroll 0 0;\">\r\n<h3 style=\"padding-top: 5px; margin-top: 0px;\">Installation
+  Package</h3>\r\n<p>We provide a full Joomla installation package with the demo content
+  of the website for this template. So you can take a look at how everything is set
+  up in the Joomla backend.</p>\r\n<div class=\"info\">Make sure you click \"Install
+  Sample Data\" during the installation process.</div>\r\n</div>\r\n</div>\r\n<div
+  class=\"float-left width50\">\r\n<div class=\"correct-png ie6-zoom\" style=\"padding-left:
+  60px; background: transparent url('images/yootheme/icon_fireworks.png') no-repeat
+  scroll 0 0;\">\r\n<h3 style=\"padding-top: 5px; margin-top: 0px;\">Sliced Image
+  Source Files</h3>\r\n<p>The editable fully sliced image source files of this template
+  are available as download. With them you can completely customise your template's
+  look to match your or your client's corporate identity.</p>\r\n<div class=\"info\">Adobe
+  Fireworks CS4 is required to edit the image source files.</div>\r\n</div>\r\n</div>\r\n</div>\r\n<hr
+  class=\"dotted\" />\r\n<h2>Compatibility and Help</h2>\r\n<p>This template is fully
+  compatible with all YOOtheme products like the <a href=\"http://tools.yootheme.com/\"
+  target=\"_blank\">YOOtools</a>, the <a href=\"http://zoo.yootheme.com/\" target=\"_blank\">ZOO</a>
+  and the <a href=\"http://teamlog.yootheme.com/\" target=\"_blank\">Teamlog extension</a>.
+  Learn more about how to install and set up a YOOtheme template and go to the <a
+  href=\"http://warp.yootheme.com/documentation\" target=\"_blank\" title=\"How to
+  install and set up a YOOtheme template\">Warp5 documentation</a>.</p>"
+category: Informace
+---
+<h2>Warp5 Framework</h2>
+<p>This template is based on the Warp5 framework. Warp5 is a fast and powerful template framework for Joomla that lets you create sophisticated Joomla templates in no time. It provides a hybrid fluid-pixel grid and all the elaborate functionalities that make our templates easy to edit, nice to look at and super fast, in every browser. Visit the <a href="http://warp.yootheme.com" target="_blank">Warp5 website</a> and take a look at all <a href="http://warp.yootheme.com/features" target="_blank">the features...</a></p>
+<div class="floatbox">
+<div class="float-left width50">
+<div class="correct-png ie6-zoom" style="margin-right: 15px; padding-left: 60px; background: transparent url('images/yootheme/icon_menusystem.png') no-repeat scroll 0 0;">
+<h3 style="padding-top: 5px; margin-top: 0px;">Menu System</h3>
+<p>The menu system enhances Joomla's menu functions to create clearly arranged interfaces even for comprehensive sites. <a href="http://warp.yootheme.com/menu-system" target="_blank">Learn more...</a></p>
+</div>
+</div>
+<div class="float-left width50">
+<div class="correct-png ie6-zoom" style="padding-left: 60px; background: transparent url('images/yootheme/icon_modulesystem.png') no-repeat scroll 0 0;">
+<h3 style="padding-top: 5px; margin-top: 0px;">Module System</h3>
+<p>The module system provides a clear grid for Joomla modules and a wide diversity of templates for module variations. <a href="http://warp.yootheme.com/module-system" target="_blank">Learn more...</a></p>
+</div>
+</div>
+</div>
+<hr class="dotted" />
+<h2>Design and Styles</h2>
+<p>We included a lot of different module and typography styles. So you can give your site a unique look and it will also ease your work when setting up your content.</p>
+<div class="floatbox">
+<div class="float-left width50">
+<div class="correct-png ie6-zoom" style="margin-right: 15px; padding-left: 60px; background: transparent url('images/yootheme/icon_modulevariations.png') no-repeat scroll 0 0;">
+<h3 style="padding-top: 5px; margin-top: 0px;">Module Variations</h3>
+<p>This template comes with a wide variety of module stylings in many different shapes and colours. Take a look at all the different <a href="index.php?option=com_content&amp;view=article&amp;id=48&amp;Itemid=58">module variations.</a></p>
+</div>
+</div>
+<div class="float-left width50">
+<div class="correct-png ie6-zoom" style="padding-left: 60px; background: transparent url('images/yootheme/icon_typography.png') no-repeat scroll 0 0;">
+<h3 style="padding-top: 5px; margin-top: 0px;">Typography</h3>
+<p>This templates delivers you sophisticated typography and various stylings. Take a look at the <a href="index.php?option=com_content&amp;view=article&amp;id=46&amp;Itemid=55">style guide</a> about all possible HTML tag styles.</p>
+</div>
+</div>
+</div>
+<hr class="dotted" />
+<h2>Installation and Customization</h2>
+<p>New to YOOtheme? Don't worry! We provide a lot help to install and cutomize our tempaltes to get you started right away with your web project.</p>
+<div class="floatbox">
+<div class="float-left width50">
+<div class="correct-png ie6-zoom" style="margin-right: 15px; padding-left: 60px; background: transparent url('images/yootheme/icon_installation.png') no-repeat scroll 0 0;">
+<h3 style="padding-top: 5px; margin-top: 0px;">Installation Package</h3>
+<p>We provide a full Joomla installation package with the demo content of the website for this template. So you can take a look at how everything is set up in the Joomla backend.</p>
+<div class="info">Make sure you click "Install Sample Data" during the installation process.</div>
+</div>
+</div>
+<div class="float-left width50">
+<div class="correct-png ie6-zoom" style="padding-left: 60px; background: transparent url('images/yootheme/icon_fireworks.png') no-repeat scroll 0 0;">
+<h3 style="padding-top: 5px; margin-top: 0px;">Sliced Image Source Files</h3>
+<p>The editable fully sliced image source files of this template are available as download. With them you can completely customise your template's look to match your or your client's corporate identity.</p>
+<div class="info">Adobe Fireworks CS4 is required to edit the image source files.</div>
+</div>
+</div>
+</div>
+<hr class="dotted" />
+<h2>Compatibility and Help</h2>
+<p>This template is fully compatible with all YOOtheme products like the <a href="http://tools.yootheme.com/" target="_blank">YOOtools</a>, the <a href="http://zoo.yootheme.com/" target="_blank">ZOO</a> and the <a href="http://teamlog.yootheme.com/" target="_blank">Teamlog extension</a>. Learn more about how to install and set up a YOOtheme template and go to the <a href="http://warp.yootheme.com/documentation" target="_blank" title="How to install and set up a YOOtheme template">Warp5 documentation</a>.</p>

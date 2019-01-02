@@ -1,0 +1,16 @@
+---
+layout: post
+title: 2. mezigenerační setkání 2014
+joomla_id: 209
+joomla_url: jezerka-2014
+date: 2014-12-02 09:01:14.000000000 +01:00
+author: Martin Bohůn
+excerpt: '<p style="text-align: justify;"><span style="color: #000000;">Další pokračování
+  úspěšného setkání s názvem Jsme tady pro vás, aneb povídání o všem co Vás ve spojitosti
+  s hemofilií zajímá. Fotografie z dalšího setkání hemofiliků všech věkových skupin,
+  jejich blízkých a přátel 19.-21. září v hotelu Jezerka v Seči ve východních Čechách.</span></p>'
+category: Workshopy
+---
+<p style="text-align: justify;"><span style="color: #000000;">Další pokračování úspěšného setkání s názvem Jsme tady pro vás, aneb povídání o všem co Vás ve spojitosti s hemofilií zajímá. Fotografie z dalšího setkání hemofiliků všech věkových skupin, jejich blízkých a přátel 19.-21. září v hotelu Jezerka v Seči ve východních Čechách.</span></p>
+
+<p style="text-align: center;"> <code>[widgetkit id=76]</code></p>

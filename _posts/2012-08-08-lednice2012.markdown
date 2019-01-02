@@ -1,0 +1,14 @@
+---
+layout: post
+title: Lednice 2012
+joomla_id: 106
+joomla_url: lednice2012
+date: 2012-08-08 20:15:25.000000000 +02:00
+author: Martin Bohůn
+excerpt: '<p><span style="color: #000000;">Fotografie z rekondičního pobytu dospělých
+  v Lednici 2012.</span></p>'
+category: Rekondice dospělých
+---
+<p><span style="color: #000000;">Fotografie z rekondičního pobytu dospělých v Lednici 2012.</span></p>
+
+<p><code>[widgetkit id=41]</code></p>

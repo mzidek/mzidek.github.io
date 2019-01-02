@@ -1,0 +1,14 @@
+---
+layout: post
+title: LHT 2009
+joomla_id: 53
+joomla_url: lht2009
+date: 2012-02-29 18:43:21.000000000 +01:00
+author: Petr Hasala
+excerpt: '<p><span style="color: #000000;">Poohlédnutí za letním hemofilickým táborem
+  v Ondrášově dvoře 2009 aneb <strong>Sanatorium Dr. Vápna.</strong></span></p>'
+category: Dětské tábory
+---
+<p><span style="color: #000000;">Poohlédnutí za letním hemofilickým táborem v Ondrášově dvoře 2009 aneb <strong>Sanatorium Dr. Vápna.</strong></span></p>
+
+<p>[widgetkit id=5]</p>

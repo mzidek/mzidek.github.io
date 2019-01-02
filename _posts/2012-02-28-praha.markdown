@@ -1,0 +1,58 @@
+---
+layout: post
+title: Praha
+joomla_id: 38
+joomla_url: praha
+date: 2012-02-28 15:46:56.000000000 +01:00
+author: Petr Hasala
+excerpt: "<h3 style=\"text-align: center;\"><strong>CCC = CENTRUM KOMPLEXNÍ PÉČE<br
+  /></strong></h3>\r\n<p style=\"text-align: center;\"><strong>Klinika dětské hematologie
+  a onkologie Fakultní nemocnice Motol</strong></p>\r\n<table style=\"background-color:
+  #ffffff;\" border=\"1\" align=\"center\">\r\n<tbody>\r\n<tr>\r\n<td><strong>Adresa</strong></td>\r\n<td><span
+  style=\"color: #000000;\">V Úvalu 84, 150 06 Praha 5</span></td>\r\n</tr>\r\n<tr>\r\n<td><span
+  style=\"color: #000000;\"><strong>Telefon</strong></span></td>\r\n<td><span style=\"color:
+  #000000;\">224436537 (07.00-15.00 hod.)</span><br /><span style=\"color: #000000;\">224436537
+  (15.00-07.00 hod.)</span></td>\r\n</tr>\r\n<tr>\r\n<td><strong>Odpovědný lékař</strong></td>\r\n<td><span
+  style=\"color: #000000;\">Vladimír Komrska</span></td>\r\n</tr>\r\n<tr>\r\n<td><strong>Email</strong></td>\r\n<td>vladimir.komrska@fnmotol.cz</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Ambulantní
+  sestra          </strong>    </td>\r\n<td><span style=\"color: #000000;\">Veronika
+  Čepeláková</span></td>\r\n</tr>\r\n<tr>\r\n<td><strong>Email</strong></td>\r\n<td>veronika.cepelakova@fnmotol.cz</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p> </p>\r\n<p
+  style=\"text-align: center;\"><iframe style=\"display: block; margin-left: auto;
+  margin-right: auto;\" src=\"http://maps.google.cz/maps?client=firefox-a&amp;channel=s&amp;hl=cs&amp;q=Fakultn%C3%AD+nemocnice+Motol&amp;lr=&amp;ie=UTF8&amp;hq=Fakultn%C3%AD+nemocnice+Motol&amp;hnear=&amp;radius=15000&amp;t=h&amp;brcurrent=5,0,0&amp;ll=50.073557,14.339926&amp;spn=0.00482,0.012875&amp;z=16&amp;iwloc=A&amp;output=embed\"
+  frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"600\"
+  height=\"350\"></iframe><br /><strong><span style=\"font-size: medium;\"><small><a
+  href=\"http://maps.google.cz/maps?client=firefox-a&amp;channel=s&amp;hl=cs&amp;q=Fakultn%C3%AD+nemocnice+Motol&amp;lr=&amp;ie=UTF8&amp;hq=Fakultn%C3%AD+nemocnice+Motol&amp;hnear=&amp;radius=15000&amp;t=h&amp;brcurrent=5,0,0&amp;ll=50.073557,14.339926&amp;spn=0.00482,0.012875&amp;z=16&amp;iwloc=A&amp;source=embed\"
+  style=\"color: #0000ff; text-align: left;\">Zvětšit mapu</a></small></span></strong></p>"
+category: Pro děti
+---
+<h3 style="text-align: center;"><strong>CCC = CENTRUM KOMPLEXNÍ PÉČE<br /></strong></h3>
+<p style="text-align: center;"><strong>Klinika dětské hematologie a onkologie Fakultní nemocnice Motol</strong></p>
+<table style="background-color: #ffffff;" border="1" align="center">
+<tbody>
+<tr>
+<td><strong>Adresa</strong></td>
+<td><span style="color: #000000;">V Úvalu 84, 150 06 Praha 5</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Telefon</strong></span></td>
+<td><span style="color: #000000;">224436537 (07.00-15.00 hod.)</span><br /><span style="color: #000000;">224436537 (15.00-07.00 hod.)</span></td>
+</tr>
+<tr>
+<td><strong>Odpovědný lékař</strong></td>
+<td><span style="color: #000000;">Vladimír Komrska</span></td>
+</tr>
+<tr>
+<td><strong>Email</strong></td>
+<td>vladimir.komrska@fnmotol.cz</td>
+</tr>
+<tr>
+<td><strong>Ambulantní sestra          </strong>    </td>
+<td><span style="color: #000000;">Veronika Čepeláková</span></td>
+</tr>
+<tr>
+<td><strong>Email</strong></td>
+<td>veronika.cepelakova@fnmotol.cz</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p style="text-align: center;"><iframe style="display: block; margin-left: auto; margin-right: auto;" src="http://maps.google.cz/maps?client=firefox-a&amp;channel=s&amp;hl=cs&amp;q=Fakultn%C3%AD+nemocnice+Motol&amp;lr=&amp;ie=UTF8&amp;hq=Fakultn%C3%AD+nemocnice+Motol&amp;hnear=&amp;radius=15000&amp;t=h&amp;brcurrent=5,0,0&amp;ll=50.073557,14.339926&amp;spn=0.00482,0.012875&amp;z=16&amp;iwloc=A&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="600" height="350"></iframe><br /><strong><span style="font-size: medium;"><small><a href="http://maps.google.cz/maps?client=firefox-a&amp;channel=s&amp;hl=cs&amp;q=Fakultn%C3%AD+nemocnice+Motol&amp;lr=&amp;ie=UTF8&amp;hq=Fakultn%C3%AD+nemocnice+Motol&amp;hnear=&amp;radius=15000&amp;t=h&amp;brcurrent=5,0,0&amp;ll=50.073557,14.339926&amp;spn=0.00482,0.012875&amp;z=16&amp;iwloc=A&amp;source=embed" style="color: #0000ff; text-align: left;">Zvětšit mapu</a></small></span></strong></p>

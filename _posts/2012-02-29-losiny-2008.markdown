@@ -1,0 +1,14 @@
+---
+layout: post
+title: Velké Losiny 2008
+joomla_id: 60
+joomla_url: losiny-2008
+date: 2012-02-29 18:44:52.000000000 +01:00
+author: Petr Hasala
+excerpt: '<p><span style="color: #000000;">Fotografie z rekondičního pobytu dospělých
+  ve Velkých Losinách 2008.</span></p>'
+category: Rekondice dospělých
+---
+<p><span style="color: #000000;">Fotografie z rekondičního pobytu dospělých ve Velkých Losinách 2008.</span></p>
+
+<p>[widgetkit id=9]</p>

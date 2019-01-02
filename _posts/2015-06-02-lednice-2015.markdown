@@ -1,0 +1,14 @@
+---
+layout: post
+title: Lednice 2015
+joomla_id: 233
+joomla_url: lednice-2015
+date: 2015-06-02 07:39:19.000000000 +02:00
+author: Martin Bohůn
+excerpt: '<p><span style="color: #000000;">Fotografie z rekondičního pobytu dospělých
+  v Lednici 2015.</span></p>'
+category: Rekondice dospělých
+---
+<p><span style="color: #000000;">Fotografie z rekondičního pobytu dospělých v Lednici 2015.</span></p>
+
+<p style="text-align: center;"><span>[widgetkit id=82]</span></p>

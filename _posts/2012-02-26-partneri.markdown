@@ -1,0 +1,58 @@
+---
+layout: post
+title: Naši partneři
+joomla_id: 12
+joomla_url: partneri
+date: 2012-02-26 12:31:41.000000000 +01:00
+author: Martin Bohůn
+excerpt: "<p style=\"text-align: center;\"><img src=\"images/loga/shire.jpg\" border=\"0\"
+  width=\"150\" height=\"44\" /><br /><a href=\"https://www.shire.com/\" target=\"_blank\"
+  title=\"Shire\">www.shire.com</a><a href=\"http://www.baxalta.com/index.page\" target=\"_blank\"
+  title=\"Baxalta\"><br /></a><span style=\"color: #000000;\">(dříve BAXTER)</span></p>\r\n<hr
+  />\r\n<p style=\"text-align: center;\"><img src=\"images/loga/cslbehring.jpg\" border=\"0\"
+  width=\"150\" height=\"50\" style=\"margin-left: 10px; margin-right: 10px;\" /><br
+  /><a href=\"http://www.cslbehring.com/\" target=\"_blank\" title=\"CSL Behring\">www.cslbehring.com</a></p>\r\n<hr
+  />\r\n<p style=\"text-align: center;\"><img src=\"images/loga/grifols.jpg\" border=\"0\"
+  width=\"150\" style=\"vertical-align: middle; margin-left: 10px; margin-right: 10px;\"
+  /><br /><a href=\"http://www.grifols.cz\" target=\"_blank\" title=\"Grifols\">www.grifols.cz</a></p>\r\n<hr
+  />\r\n<p style=\"text-align: center;\"><img src=\"images/loga/nn.jpg\" border=\"0\"
+  width=\"124\" height=\"88\" style=\"margin-left: auto; margin-right: auto; display:
+  block;\" /><a href=\"http://www.novonordisk.cz\" target=\"_blank\" title=\"Novo
+  Nordisk\">www.novonordisk.cz</a></p>\r\n<hr />\r\n<p style=\"text-align: center;\"><img
+  src=\"images/loga/octapharma.jpg\" border=\"0\" alt=\"\" /><br /><a href=\"http://www.octapharma.com\"
+  target=\"_blank\" title=\"Octapharma\">www.octapharma.com</a></p>\r\n<hr />\r\n<p
+  style=\"text-align: center;\"><a href=\"https://www.pfizer.cz/\" target=\"_blank\"
+  title=\"Pfizer\"><img src=\"images/loga/pfizer.png\" border=\"0\" alt=\"\" width=\"150\"
+  height=\"97\" /></a></p>\r\n<p style=\"text-align: center;\"><a href=\"https://www.pfizer.cz/\"
+  target=\"_blank\" title=\"Pfizer\">www.pfizer.cz</a></p>\r\n<hr />\r\n<p style=\"text-align:
+  center;\"> <img src=\"images/loga/roche.png\" border=\"0\" alt=\"\" width=\"184\"
+  height=\"95\" /></p>\r\n<p style=\"text-align: center;\"><a href=\"http://www.roche.cz/\"
+  target=\"_blank\" title=\"Roche s.r.o.\">www.roche.cz</a></p>\r\n<hr />\r\n<p style=\"text-align:
+  center;\"><img src=\"images/loga/sobi_orange_cmyk_3d.jpg\" border=\"0\" width=\"150\"
+  style=\"margin-left: auto; margin-right: auto; display: block;\" /></p>\r\n<p style=\"text-align:
+  center;\"><a href=\"http://www.sobi.com\" target=\"_blank\" title=\"Sobi\">www.sobi.com</a></p>\r\n<hr
+  />\r\n<p style=\"text-align: center;\"><img src=\"images/loga/sysmexx.jpg\" border=\"0\"
+  width=\"150\" height=\"47\" style=\"margin-left: auto; margin-right: auto; display:
+  block;\" /><a href=\"http://www.sysmex.cz\" target=\"_blank\" title=\"Sysmex\">www.sysmex.cz</a></p>"
+category: Informace
+---
+<p style="text-align: center;"><img src="images/loga/shire.jpg" border="0" width="150" height="44" /><br /><a href="https://www.shire.com/" target="_blank" title="Shire">www.shire.com</a><a href="http://www.baxalta.com/index.page" target="_blank" title="Baxalta"><br /></a><span style="color: #000000;">(dříve BAXTER)</span></p>
+<hr />
+<p style="text-align: center;"><img src="images/loga/cslbehring.jpg" border="0" width="150" height="50" style="margin-left: 10px; margin-right: 10px;" /><br /><a href="http://www.cslbehring.com/" target="_blank" title="CSL Behring">www.cslbehring.com</a></p>
+<hr />
+<p style="text-align: center;"><img src="images/loga/grifols.jpg" border="0" width="150" style="vertical-align: middle; margin-left: 10px; margin-right: 10px;" /><br /><a href="http://www.grifols.cz" target="_blank" title="Grifols">www.grifols.cz</a></p>
+<hr />
+<p style="text-align: center;"><img src="images/loga/nn.jpg" border="0" width="124" height="88" style="margin-left: auto; margin-right: auto; display: block;" /><a href="http://www.novonordisk.cz" target="_blank" title="Novo Nordisk">www.novonordisk.cz</a></p>
+<hr />
+<p style="text-align: center;"><img src="images/loga/octapharma.jpg" border="0" alt="" /><br /><a href="http://www.octapharma.com" target="_blank" title="Octapharma">www.octapharma.com</a></p>
+<hr />
+<p style="text-align: center;"><a href="https://www.pfizer.cz/" target="_blank" title="Pfizer"><img src="images/loga/pfizer.png" border="0" alt="" width="150" height="97" /></a></p>
+<p style="text-align: center;"><a href="https://www.pfizer.cz/" target="_blank" title="Pfizer">www.pfizer.cz</a></p>
+<hr />
+<p style="text-align: center;"> <img src="images/loga/roche.png" border="0" alt="" width="184" height="95" /></p>
+<p style="text-align: center;"><a href="http://www.roche.cz/" target="_blank" title="Roche s.r.o.">www.roche.cz</a></p>
+<hr />
+<p style="text-align: center;"><img src="images/loga/sobi_orange_cmyk_3d.jpg" border="0" width="150" style="margin-left: auto; margin-right: auto; display: block;" /></p>
+<p style="text-align: center;"><a href="http://www.sobi.com" target="_blank" title="Sobi">www.sobi.com</a></p>
+<hr />
+<p style="text-align: center;"><img src="images/loga/sysmexx.jpg" border="0" width="150" height="47" style="margin-left: auto; margin-right: auto; display: block;" /><a href="http://www.sysmex.cz" target="_blank" title="Sysmex">www.sysmex.cz</a></p>
