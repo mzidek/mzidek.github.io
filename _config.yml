@@ -24,6 +24,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Social icons
+show_social_icons: true
+github_username: someGithubUser
+twitter_username: someTwitterUser
+
 # Build settings
 permalink: :title/
 sass:
