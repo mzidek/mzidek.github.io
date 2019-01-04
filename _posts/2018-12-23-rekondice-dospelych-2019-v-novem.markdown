@@ -5,18 +5,16 @@ joomla_id: 358
 joomla_url: rekondice-dospelych-2019-v-novem
 date: 2018-12-23 16:01:52.000000000 +01:00
 author: Martin Bohůn
-excerpt: "<h4 style=\"text-align: justify;\"><strong><img src=\"images/fotogalerie/dospele-rekondice/rokytenka/rokytenka_04.jpg\"
-  border=\"0\" width=\"168\" height=\"100\" style=\"float: left; margin-left: 10px;
-  margin-right: 10px;\" /></strong><span style=\"color: #000000;\">Po třech letech
+excerpt: "Po třech letech
   v penzionu Ohrada jsme se rozhodli pro změnu. Tentokrát zavítáme do Orlických hor,
-  konkrétně do hotelu Rokytenka v Rokytnici v Orlických horách.</span></h4>\r\n<p
-  style=\"text-align: justify;\">Opět jde o objekt v pěkném prostředí, který bude
+  konkrétně do hotelu Rokytenka v Rokytnici v Orlických horách. Opět jde o objekt v pěkném prostředí, který bude
   rezervovaný pouze pro nás. K dispozici bude bazén, vířivka, sauna, herna, společenská
   místnost, salónek restaurace, venkovní prostranství vč. posezení a dětského hřiště.
-  Více informací o objektu naleznete na <strong><a href=\"https://www.rokytenka.cz/\"
-  title=\"Hotel Rokytenka\">www.rokytenka.cz</a></strong>. Z hotelu je to kousek na
+  Více informací o objektu naleznete na <a href=\"https://www.rokytenka.cz/\"
+  title=\"Hotel Rokytenka\">www.rokytenka.cz</a>. Z hotelu je to kousek na
   náměstí dvoutisícového městečka. V blízkém okolí je mnoho zajímavých míst, kam je
-  možné vyrazit na výlet.</p>"
+  možné vyrazit na výlet."
+image: /images/fotogalerie/dospele-rekondice/rokytenka/rokytenka_04.jpg
 category: Rekondice dospělých
 ---
 <h4 style="text-align: justify;"><strong><img src="images/fotogalerie/dospele-rekondice/rokytenka/rokytenka_04.jpg" border="0" width="168" height="100" style="float: left; margin-left: 10px; margin-right: 10px;" /></strong><span style="color: #000000;">Po třech letech v penzionu Ohrada jsme se rozhodli pro změnu. Tentokrát zavítáme do Orlických hor, konkrétně do hotelu Rokytenka v Rokytnici v Orlických horách.</span></h4>
