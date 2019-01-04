@@ -1,11 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
-  <body>
+{% include head.html %}
+
+<body>
+  <!-- <div class="container"> -->
     {% include header.html %}
     {% include banner.html %}
     {% include carousel.html %}
-    {{ content }}
+    <div class="row mt-sm-4 mt-md-0">
+        <div class="col-sm-12 col-md-8">
+            {{ content }}
+        </div>
+    
+        <div class="col-sm-12 col-md-4">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title</p>
+                    <a href="#" class="card-link">Another link</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     {% include footer.html %}
-  </body>
+  <!-- </div> -->
+</body>
+
 </html>
