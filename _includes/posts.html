@@ -5,16 +5,26 @@
         {% for post in paginator.posts %}
           <div>
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+            
             <p class="text-info lead">
               {{ post.date | date: "%b %-d, %Y" }}
             </p>
 
             <p>
+              <div class="row">
+              {% if post.featured-image %}
+              <div class = "col-sm-6 col-md-3">
+              {% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}
+              </div>
+              {% endif %}
+              <div class = "col">
               {% if post.summary %}
                 {{ post.summary }}
               {% else %}
                 {{ post.excerpt }}
               {% endif %}
+              </div>
+            </div>
             </p>
           </div>
         {% endfor %}

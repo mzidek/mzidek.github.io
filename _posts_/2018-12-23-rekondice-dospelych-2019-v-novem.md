@@ -1,22 +1,21 @@
 ---
-layout: post
-title: Rekondice dospělých 2019 v novém
+author: Martin Bohůn
+category: Rekondice dospělých
+date: 2018-12-23 15:01:52
+excerpt: Po třech letech v penzionu Ohrada jsme se rozhodli pro změnu. Tentokrát zavítáme
+  do Orlických hor, konkrétně do hotelu Rokytenka v Rokytnici v Orlických horách.
+  Opět jde o objekt v pěkném prostředí, který bude rezervovaný pouze pro nás. K dispozici
+  bude bazén, vířivka, sauna, herna, společenská místnost, salónek restaurace, venkovní
+  prostranství vč. posezení a dětského hřiště. Více informací o objektu naleznete
+  na www.rokytenka.cz. Z hotelu je to kousek na náměstí dvoutisícového městečka. V blízkém
+  okolí je mnoho zajímavých míst, kam je možné vyrazit na výlet.
+image: /images/fotogalerie/dospele-rekondice/rokytenka/rokytenka_04.jpg
 joomla_id: 358
 joomla_url: rekondice-dospelych-2019-v-novem
-date: 2018-12-23 16:01:52.000000000 +01:00
-author: Martin Bohůn
-excerpt: "Po třech letech
-  v penzionu Ohrada jsme se rozhodli pro změnu. Tentokrát zavítáme do Orlických hor,
-  konkrétně do hotelu Rokytenka v Rokytnici v Orlických horách. Opět jde o objekt v pěkném prostředí, který bude
-  rezervovaný pouze pro nás. K dispozici bude bazén, vířivka, sauna, herna, společenská
-  místnost, salónek restaurace, venkovní prostranství vč. posezení a dětského hřiště.
-  Více informací o objektu naleznete na <a href=\"https://www.rokytenka.cz/\"
-  title=\"Hotel Rokytenka\">www.rokytenka.cz</a>. Z hotelu je to kousek na
-  náměstí dvoutisícového městečka. V blízkém okolí je mnoho zajímavých míst, kam je
-  možné vyrazit na výlet."
-featured-image: images/fotogalerie/dospele-rekondice/rokytenka/rokytenka_04.jpg
-category: Rekondice dospělých
+layout: post
+title: Rekondice dospělých 2019 v novém
 ---
+
 <h4 style="text-align: justify;"><strong><img src="images/fotogalerie/dospele-rekondice/rokytenka/rokytenka_04.jpg" border="0" width="168" height="100" style="float: left; margin-left: 10px; margin-right: 10px;" /></strong><span style="color: #000000;">Po třech letech v penzionu Ohrada jsme se rozhodli pro změnu. Tentokrát zavítáme do Orlických hor, konkrétně do hotelu Rokytenka v Rokytnici v Orlických horách.</span></h4>
 
 <p style="text-align: justify;">Opět jde o objekt v pěkném prostředí, který bude rezervovaný pouze pro nás. K dispozici bude bazén, vířivka, sauna, herna, společenská místnost, salónek restaurace, venkovní prostranství vč. posezení a dětského hřiště. Více informací o objektu naleznete na <strong><a href="https://www.rokytenka.cz/" title="Hotel Rokytenka">www.rokytenka.cz</a></strong>. Z hotelu je to kousek na náměstí dvoutisícového městečka. V blízkém okolí je mnoho zajímavých míst, kam je možné vyrazit na výlet.</p>
@@ -30,4 +29,3 @@ category: Rekondice dospělých
 <p style="text-align: justify;">A kdy že se bude pobyt konat? Tradičně v květnu, tentokrát v <strong>termínu od 18. do 25. 5. 2019.</strong> Přihlašovat se můžete již nyní na prostřednictvím emailu <strong><a href="mailto:m.skorepa@hemofilici.cz">m.skorepa@hemofilici.cz</a></strong>, nebo tohoto <strong><a href="index.php/cs/?option=com_chronoforms&amp;chronoform=Prihlaska-rokytenka-2019" title="Rekondiční pobyt dospělých 2019 - přihlášky">online formuláře</a></strong>.</p>
 
 <p style="text-align: justify;">Na společné setkání se za organizátory těší Michal Skořepa.</p>
-
