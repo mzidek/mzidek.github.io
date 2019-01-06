@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 import glob
 import os
 
-path = '_posts_'
+path = '_posts'
 
 
 
@@ -24,19 +24,36 @@ def cleanhtml(raw_html):
     cleantext = re.sub(cleanr, '', raw_html)
     return cleantext
 
+def cleanwidget(raw_html):
+    cleanr = re.compile('[.*?]')
+    cleantext = re.sub(cleanr, '', raw_html)
+    return cleantext
+
 def cleanup_excerpt(filename):
+    print("Processing " + filename + "...", end='')
     post = frontmatter.load(filename)
+
+    if not 'excerpt' in post.keys():
+        return
+
     soup = BeautifulSoup(post['excerpt'], 'html.parser')
 
     image = soup.find('img')
     if image:
         post['featured-image'] = image.get('src')
 
+    soup = BeautifulSoup(post.content, 'html.parser')
+
+    for image in soup.find_all('img'):
+        print (image['src'])
+
     post['excerpt'] = soup.get_text()
+    post['excerpt'] = cleanwidget(post['excerpt'])
     with open(filename, mode='w', encoding="utf-8") as f:
         text = frontmatter.dumps(post)
         #print (text)
         f.write(text)
+        print("DONE")
 
 
 for filename in glob.glob(os.path.join(path, '*.md')):
