@@ -2,56 +2,10 @@
 author: Martin Bohůn
 category: Zápis z porad
 date: 2017-04-11 16:53:35
-excerpt: "Zápis z jednání Rady ČSH v Praze dne 342017\nPřítomni: M Bohůn, P Grim V
-  Dolejš, M Skořepa, V Tóth, P Slunský (předseda revizní komise)Omluvena: J KalábováZačátek
-  v 16:00 hodin, konec 18:15 hodin\nRada ČSH projednala:\n\nRada vzala na vědomí rezignaci
-  A Žídkové na funkci v Radě ČSH\nNa ministerstvo zdravotnictví je odevzdaná výroční
-  zpráva\nPrůzkum „Jak se žije českým hemofilikům“ uzavřen, vyplněno cca 100 dotazníků;
-  statistik dostal pokyn k vyhodnocení\nDne 532017 odeslán na SÚKL dopis s nesouhlasem
-  k negativnímu stanovisku k preparátu Elocta s prodlouženou dobou účinnosti; dáno
-  na vědomí ministru zdravotnictví\nHemofilický den v rámci oslav Světového dne hemofilie
-  proběhne v sobotu 2242017 v Zábavním parku Permonium v Oslavanech u Brna V těchto
-  dnech se dojednávají detaily celé akce, termín uzávěrky přihlášek 74, následně všichni
-  přihlášení obdrží email s podrobnějšími informacemi\nAkce „Společně o hemofilii“
-  která proběhla v předešlých letech v hotelu Jezerka a loni v Čestlicích, se v tomto
-  roce uskuteční (nejpravděpodobněji) ve dnech 13 - 14 října 2017 Při této příležitosti
-  proběhne i volební Valná hromada (konference) Místo bude upřesněno, bude zveřejněna
-  výzva k přihláškám pro kandidáty do Rady a Revizní komise ČSH\n31 května nebo 1
-  června proběhne v prostorách Poslanecké sněmovny Parlamentu ČR seminář s představiteli
-  odborných společností záchranářů a urgentní medicíny; ČSH tu bude společně s hematology
-  prezentovat specifické potřeby hemofiliků při zásazích záchranky\nV dubnu uskuteční
-  Světová hemofilická federace valnou hromadu prostřednictvím webu, svaz zastoupí
-  předseda\nŠkolení fyzioterapeutů pod patronací svazu proběhlo již v Ostravě, Plzni,
-  Ústí nad Labem, Olomouci, Praze Motole a naposled v Liberci\nRegionální seminář
-  pro členy svazu proběhne 265 v Ostravě v hotelu Imperial, ve výhledu jsou Plzeň,
-  Brno a Liberec\nZ účasti na setkání MZ ČR s pacientskými organizacemi 303 vyplynulo,
-  že se musí pro legislativu teprve definovat, co je pacientská organizace\nNa přelomu
-  ledna a února tr proběhla v americkém státě Arizona tradiční konference pod názvem
-  „North American camping conference of hemophilia organizations“ Svaz zde prezentoval
-  své aktivity a podílel se na programu společně s dalšími šesti kolegy z Evropy,
-  Austrálie a Nového Zélandu Celkově na akci zavítalo na 100 účastníků z celé Severní
-  Ameriky V budoucnu je možné, že se podobná akce uskuteční i v Evropě prostřednictvím
-  Evropského hemofilického konsorcia Evropští účastníci byli vyzváni, aby s EHC zahájili
-  jednání; americká strana nabídla finanční pomoc\nPředseda i místopředseda se zúčastnili
-  schůzky se společností ROCHE sro, na schůzce projednány možnosti spolupráce\nAktualizace
-  členské databáze co se týče emailových adres členů Vyjde výzva v dalším čísle Hemofilického
-  zpravodaje \n\nČlenské příspěvkyKontrolou zjištěno, že za 3 roky nezaplatilo 117
-  členů ani jednou – hrozí jim vyloučení Konferencí, do konce června 2017 ještě mohou
-  dluh uhradit K 342017 eviduje svaz 248 členů\nHemofilický zpravodajZpravodaj vyjde
-  v květnu – příspěvky dodat do 25 května emailem V Dolejšovi\nDětský tábor a rekondice
-  dospělých \n\n13 - 20 května se koná rekondice dospělých ve Vískách u Letovic, zájem
-  je velký;  nové ceny: členové svazu - hemofilici 1500,- Kč, členové - nehemofilici
-  2000,- Kč, děti účastníků (členů) do 15 let 2000,- Kč Ostatní plná cena Nižší příjmy
-  z účastnických poplatků se pokusíme zajistit sponzorskými příspěvky\nDětský letní
-  tábor proběhne tradičně v Zubří na Vysočině 1 - 15 července K datu uzávěrky přihlášeno
-  45 dětí, z toho 31 hemofiliků/von Willebrand Zdravotní garanci nese oddělení dětské
-  hematologie FN Brno Hlavní vedoucí tábora bude Vojtěch Horník\n\nRůzné\n\nStav financí
-  k 3132017: pokladna 3443,00 Kč; banka 1783030,24 Kč\nMZ přiznalo svazu na rok 2017
-  dotaci 267600,- Kč, z toho:                                         - Rekondiční
-  a edukační pobyty se zdravotním programem      168000,- Kč- Ediční činnost – Hemofilický
-  zpravodaj                                     40600,- Kč- Organizačně administrativní
-  servis                                           59000,- Kč\n\nZapsal: P SlunskýOvěřil:
-  V DolejšV Praze 342017\n "
+excerpt: 'Zápis z jednání Rady ČSH v Praze dne 342017
+
+  Přítomni: M Bohůn, P Grim V Dolejš, M Skořepa, V Tóth, P Slunský (předseda revizní
+  komise)Omluvena: J KalábováZačátek v 16:00 hodin, konec 18:15 hodin'
 featured-image: images/uvodnik-clanku-foto/zapis_rada.jpg
 joomla_id: 295
 joomla_url: zapis-z-jednani-rady-csh-03-04-2017

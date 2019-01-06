@@ -2,46 +2,16 @@
 author: Martin Bohůn
 category: Rady k léčbě
 date: 2018-08-30 03:52:50
-excerpt: "Jedním z hlavních úkolů svazu bylo zpracování jednotných postupů urgentní
-  medicíny k hemofilii či jiným krvácivým chorobám a návrhů příslušných identifikátorů\nPožadavky
-  jsme naplnili Český svaz hemofiliků a Hemojunior ve spolupráci se Zdravotní záchrannou
-  službou připravili pro všechny jedince s poruchou srážlivosti krve sadu speciálních
-  identifikátorů, které mohou zachránit život\n \n\n\nÚraz při sportovní aktivitě,
-  autonehoda, náhlá mozková příhoda, mohou přijít nečekaně a mít nedozírné následky
-  O to více, pokud se jedná člověka s poruchou srážlivosti krve\nRychlá a správně
-  mířená pomoc v podání krevního derivátu a transportu na příslušné hematologické
-  centrum Vám mohou zachránit život i v případě, že zůstanete v bezvědomí\nPokud pracovník
-  rychlé záchranné služby uvidí na Vašem zápěstí náramek s informací o zdravotním
-  stavu, najde označenou kartičku pojištěnce či identifikační průkaz osoby s vrozenou
-  poruchou krevního srážení, má za úkol postupovat dle speciálního manuálu a co nejrychleji
-  a bez okolků Vám aplikovat příslušný derivát a kontaktovat hematologické centrum\nTato
-  rychlá a správně mířená pomoc dosud nebyla samozřejmostí V případě, že tyto identifikátory
-  budete mít u sebe, pomůžete sobě i zdravotnímu personálu rozpoznat nutnost speciálního
-  přístupu\n\nTyto čtyři věci umí napomoci identifikovat, že se jedná o osobu s deficitem
-  srážlivosti krve a nasměřovat záchranu života tím správným směrem\n\nČlenové obou
-  spolků (řádně platící členské příspěvky) dostanou jeden balíček identifikátorů zdarma
-  (mimo poštovné), nečlenové za 200 Kč + poštovné Balíček identifikátorů obsahuje:
-  identifikační náramek, polep průkazky pojištěnce, identifikační průkaz osoby s poruchou
-  krevního srážení a termotašku Identifikátory lze objednávat i jednotlivě (např identifikační
-  průkaz již někteří vlastní) Každý člen Českého svazu hemofiliků či Hemojunioru má
-  nárok na jeden balíček identifikátorů zdarma V případě ztráty vám za poplatek necháme
-  vystavit nový identifikátor\n\n > Formulář pro objednání identifikátorů po kliknutí
-  zde <\n\n\nDoporučení pro urgentní stavy ke stažení (pdf) \n\n\nIdentifikátory pro
-  osoby s krvácivým onemocněním - letáček ke stažení (pdf) \n\nDíky spolupráci s firmou
-  BodyID můžete využít také volitelný online zdravotní profil Jde o službu, díky které
-  mohou záchranáři v případě nehody zjistit prostřednictvím internetu či SMS i dodatečné
-  informace, které se na identifikační náramek nevejdou: osobní údaje, kontakty na
-  osoby blízké, další informace o zdravotním stavu (alergie apod), předepsané léky
-  či jakoukoliv jinou volitelnou informaci Do online zdravotního profilu je možné
-  nahrávat také dokumenty, typicky lékařské zprávy Profil má pro použití v zahraničí
-  také anglickou verzi Standardní cena služby je 99 Kč/měsíc, hemofilikům nabízí BodyID
-  2 roky bezplatného používání Více informací na: wwwbodyidcz\nPraktické (volitelné)
-  doplňky, které můžete přidat na svůj náramek se slevou 30%:\nNáramky BODY ID tedy
-  mají ze strany svazu základní výše uvedenou podobu Nicméně pro ty z vás, kteří by
-  na náramek rádi umístili další informace, připravila společnost BodyID spoustu možností Podívejte
-  se na praktické příklady a jako členům Českého svazu hemofiliků a Hemojunioru poskytuje
-  BodyID slevu 30% z cen uvedených na eshopu \nVíce informací naleznete na https://wwwbodyidcom/cs/hemofilici/\nNebuďte
-  lhostejní k záchraně svého života!\n "
+excerpt: 'Jedním z hlavních úkolů svazu bylo zpracování jednotných postupů urgentní
+  medicíny k hemofilii či jiným krvácivým chorobám a návrhů příslušných identifikátorů
+
+  Požadavky jsme naplnili Český svaz hemofiliků a Hemojunior ve spolupráci se Zdravotní
+  záchrannou službou připravili pro všechny jedince s poruchou srážlivosti krve sadu
+  speciálních identifikátorů, které mohou zachránit život
+
+   
+
+'
 featured-image: images/fotogalerie/identifikatory/veci/img_9880.jpg
 joomla_id: 346
 joomla_url: identifikatory-osob-s-vrozenou-poruchou-krevniho-srazeni

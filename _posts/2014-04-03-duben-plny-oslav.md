@@ -7,41 +7,7 @@ excerpt: 'Oslavy Světového dne hemofilie se blíží, tady jsou bližší info
   Přímo v den „D“ ve čtvrtek 17 dubna projde částí Prahy průvod upozorňující na hemofilii
   Odstartuje z Palackého náměstí v 16:00 hod Tady najdete jasně červený a dobře viditelný
   stánek Průvod v čele s ambassadorkou Janou Doleželovou by měl trvat zhruba 50 minut
-  s vyvrcholením u kašny na Náměstí Kinských na Smíchově
-
-  Ta se červeně rozsvítí ve stejnou chvíli jako kašna na Moravském náměstí v Brně Všichni
-  účastníci průvodu se mohou těšit na hudební vystoupení dívčí kapely 5Angels, která
-  se stala uměleckým partnerem akce Děvčata mají za sebou vlastní muzikál, řadu tuzemských
-  i zahraničních vystoupení a duety s hvězdami jako Karel Gott či Michal David O občerstvení
-  se postará firma Čajová květina se svým mobilním Matcha Tea barem Návštěvníci v
-  něm budou moci ochutnat teplé i studené nápoje z tohoto BIO zeleného japonského
-  čaje, který je nabitý minerály, vitaminy a antioxidanty Oficiální konec programu
-  je plánován na 18:30 hod
-
-  Stále jsou v prodeji trička, šály či placky v symbolické červené barvě s logem „Podporuji
-  léčbu hemofilie“ prostřednictvím e-shopu wwwpodporujihemofilikycz Pokud už je máte,
-  nezapomeňte je sebou vzít 17 dubna Facebooková stránka Podporuji hemofiliky informuje
-  o novinkách, zákulisních informacích a fotkách z průběhu kampaně
-
-  O týden později, v sobotu 26 dubna, se členové svazu a Hemojunioru sejdou na jindřichohradecké
-  úzkorozchodné železnici Alespoň ti, kteří projevili zájem prostřednictvím přihlašovacího
-  formuláře na našich webových stránkách Se všemi, kteří tak učinili, počítáme, a
-  na jejich emailovou adresu jim v brzké době zašleme podrobnější informace Jelikož
-  jsme museli nahlásit konečné počty účastníků provozovateli, již není možné se dále
-  hlásit Děkujeme za pochopení
-
-  Oslavme tyto dny v co nejhojnějším počtu a připomeňme si společně Světový den hemofilie
-  Těšíme se na setkání
-
-  Související články:
-
-
-  Kampaň „Podporuji léčbu hemofilie“ odstartovala
-
-  Plnou parou vpřed
-
-
-   [widgetkit id=63]'
+  s vyvrcholením u kašny na Náměstí Kinských na Smíchově'
 featured-image: images/loga/whd_logo_web_en.jpg
 joomla_id: 183
 joomla_url: duben-plny-oslav

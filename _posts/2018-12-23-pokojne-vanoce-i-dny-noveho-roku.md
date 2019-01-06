@@ -9,33 +9,7 @@ excerpt: '
   Přejeme Vám i Vašim blízkým radostné a pokojné prožití vánočních svátků a do nového
   roku 2019 plnost zdraví, hojnost síly a odvahu radovat se z každé maličkosti i zdárně
   bojovat se všemi nesnázemi Díky za spolupráci a společné setkávání, které, pevně
-  věříme bude pokračovat i v nadcházejícím roce 
-
-  Připravované akce na rok 2019, u kterých již známe termín:
-
-
-  12 1 2019 - 4 společenský večer Českého svazu hemofiliků a Hemojunioru v hotelu
-  Alcron Radisson Blu Praha (více informací)
-
-
-
-  18 - 25 5 2019 - Rekondice dospělých hemofiliků v hotelu Rokytenka v Rokytnici v
-  Orlických horách (více informací)
-
-
-
-  3 - 17 8 2019 - Letní hemofilický tábor v RS Zubří u Nového Města na Moravě (více
-  informací)
-
-
-  Také nezapomeňte, že máte stále možnost objednávat si prostřednictvím našich stránek identifikátory
-  osob s krvácivým onemocněním K dispozici jsou Vám i některé nové publikace a edukační
-  materiály, jako například příručky nejen pro děti a dospělé s hemofilií, ale také
-  "táborový" kalendář na rok 2019 nebo Didaktická hemofilická trojhra Seznam všech
-  materiálů je soustředěn v sekci Dokumenty
-
-  Právě vyšlo i nové vydání Hemofilického zpravodaje, najdete ho pod tímto odkazemRada
-  Českého svazu hemofiliků, zs'
+  věříme bude pokračovat i v nadcházejícím roce '
 featured-image: images/uvodnik-clanku-foto/1%20stromecek.jpg
 joomla_id: 357
 joomla_url: pokojne-vanoce-i-dny-noveho-roku

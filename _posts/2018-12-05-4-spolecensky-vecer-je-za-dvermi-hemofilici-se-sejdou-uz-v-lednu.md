@@ -9,40 +9,7 @@ excerpt: 'Vážení přátelé, milí členové, čtyři jsou třeba roční obd
   Dovolte nám tedy, abychom vás jménem obou organizací pozvali na už 4 společenský
   večer Českého svazu hemofiliků a Hemojunioru, který se koná v sobotu 12 ledna 2019
   v pražském hotelu Alcron Radisson Blu Program začíná v 18:00, vstup do sálu bude
-  hostům umožněn od 17:15
-
-  K tanci a poslechu zahraje opět kapela Wocaties Band, jsme rádi, že se jim loňský
-  ročník tak líbil a že se na hemofilickou zábavu těší znovu Součástí programu bude
-  pochopitelně také oblíbená tombola a exkluzivně vystoupí David Řehák, kterého by
-  měl doplnit jeho bratr Jakub, hemofilik B Tato vzácná a velmi talentovaná dvojice
-  mladých mužů si připraví kromě kytar zřejmě i ukulele Pro hosty bude samozřejmě
-  připraveno občerstvení formou rautu, pivo, víno a nealko dostanou hosté zdarma Však
-  už to znáte
-
-  Při premiérovém ročníku v roce 2016 jsme nevěděli, jakou bude mít hemoples v Alcronu
-  budoucnost, jestli se povede a jestli se tato - v historii fungování obou organizací
-  výjimečná - akce uchytí Rozhodli jsme ji zorganizovat jako poděkování dlouholetým
-  sponzorům, významným sponzorům a lidem, kteří se o nás starají a pomáhají nám Ale
-  ze společenského večeru Českého svazu hemofiliků a Hemojunioru se stala hlavně příležitost
-  pro nás všechny se zase potkat a pobavit se v netradičních prostorách a v netradičním
-  oblečení Vzhledem k pozitivním ohlasům vznikla v hotelu Alcron hezká tradice Navíc
-  rok 2019 je speciální pro Hemojunior, který se dožije plnoletosti Funguje totiž
-  už od roku 2001
-
-  Důrazně upozorňujeme na to, že ke vstupu do hotelu je nutný společenský oděv
-
-  Pokud máte zájem se zúčastnit, vyplňte přihlášku pod tímto odkazem Vzhledem ke kapacitě
-  sálu 100 osob vám vstupenku zašleme až po zaplacení ceny 250 korun na účet 2109200873/2700 (do
-  poznámky uveďte celé jméno a "spoluúčast akce Alcron") Díky tomu by se mělo dostat
-  na všechny skutečné zájemce Děkujeme za pochopení a těšíme se opět na viděnou!
-
-  V případě jakýchkoliv dotazů, kontaktujte předsedu Hemojunioru (Michael Bereň, beren@hemojuniorcz,
-  721 738 541) Pokud byste chtěli přispět nějakou zajímavou věcí do tomboly, obraťte
-  se na Katku Altmanovou (katerinaaltmanova@seznamcz, 603 412 691), prosím
-
-  S uctivým pozdravem Michael Bereň, Hemojunior Martin Bohůn, Český svaz hemofiliků
-
-'
+  hostům umožněn od 17:15'
 featured-image: images/uvodnik-clanku-foto/radisson%202019.jpg
 joomla_id: 350
 joomla_url: 4-spolecensky-vecer-je-za-dvermi-hemofilici-se-sejdou-uz-v-lednu

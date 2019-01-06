@@ -7,37 +7,7 @@ excerpt: 'Druhý listopadový víkend patřil všem, kteří se chtěli dozvěd�
 
   Především získat informace o aktuálních změnách v sociální oblasti nebo poznat důležitost
   psychologického poradenství při zvládání problematiky tohoto onemocnění anebo se
-  setkat s přáteli a vyměnit si zkušenosti navzájem
-
-  Do příjemného prostředí hotelu Jezerka na břehu sečské přehrady přijalo pozvání
-  na sedm desítek členů organizací Českého svazu hemofiliků a Hemojunioru, jejich
-  rodinných příslušníků a partnerů Jak zmínil v úvodu Vladimír Dolejš, předseda ČSH,
-  jednalo se o dosud největší společnou akci a nyní již můžeme říci, že velmi zdařilou
-
-  Nabitý program provázel účastníky celé dva dny Po úvodní přednášce na téma „Profylaxe
-  od narození do pozdního věku“ měli možnost se seznámit se zásadními změnami v sociální
-  péči o osoby se zdravotním postižením v příštím roce a v roce 2015 Úvodní blok zakončilo
-  téma z oblasti psychologického poradenství Přednášky zaujaly účastníky natolik,
-  že souhlasili i se zkrácením přestávky, aby mohl být dán větší prostor diskuzi a
-  dotazům v následujících workshopech Všichni tak měli možnost probrat to, co je zajímalo
-  nejen s přítomnými odborníky, ale i mezi sebou navzájem
-
-
-  Diskuze pak pokračovala samozřejmě i po skončení oficiální části, ať již při sportovních
-  výkonech na bowlingu nebo ve velice příjemném prostředí místního wellness centra
-  Organizátoři akce mysleli i na naše nejmenší Aby rodiče mohli bez starostí o ně
-  absolvovat celý program, zastoupily je na potřebnou dobu „chůvy“, které dětem vytvořily
-  zajímavý program v místním dětském koutku
-
-  Na víkendový pobyt se podařilo zajistit i zkušené fyzioterapeutky, které se pravidelně
-  účastní rekondičních pobytů pořádaných ČSH a které, ať již odbornou konzultací nebo
-  cvičením, také přispěly ke zdařilému pobytu všech účastníků v Železných horách
-
-  Setkání v příjemném prostředí hotelu Jezerka mohl zorganizovat Český svaz hemofiliků
-  ve spolupráci s organizací Hemojunior především díky finanční podpoře společnosti
-  Baxter
-
-  [widgetkit id=60]'
+  setkat s přáteli a vyměnit si zkušenosti navzájem'
 featured-image: images/fotogalerie/workshopy/jezerka/jezerka_hotel.jpg
 joomla_id: 174
 joomla_url: slunecny-hemofilicky-vikend

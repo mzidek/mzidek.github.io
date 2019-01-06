@@ -13,7 +13,7 @@ excerpt: "Druhý ročník kampaně s názvem „Podporuji léčbu hemofilie“ s
   v prostorách stadionu Juliska na Praze 6 Viz přiložená pozvánka Bližší informace
   o programu sledujte na webu wwwpodporujihemofilikycz nebo na oficiální FB stránce
   kampaně Podporuji hemofiliky Oblečte se do červené a příjďte nás podpořit i Vy!
-  Věříme, že se sejdeme v co nejhojnějším počtu\n \n"
+  Věříme, že se sejdeme v co nejhojnějším počtu"
 featured-image: images/fotogalerie/kampane/podporuji_hemofilii/02%201024x576.jpg
 joomla_id: 227
 joomla_url: kampan-na-podporu-hemofiliku-vrcholi

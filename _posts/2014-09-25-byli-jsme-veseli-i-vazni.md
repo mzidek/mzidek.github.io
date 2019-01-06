@@ -9,68 +9,7 @@ excerpt: '… ale hlavně pro vás Tak se jmenoval druhý ročník setkání vš
 
   Znovu můžeme podnik nazvat „setkáním generací“ Věkový rozptyl obsáhl snad všechny
   kategorie a každému něco přinesl Opět s důrazem na užitečnost poskytnutých informací
-  doplněných příjemným prostředím, lákavým wellness a vlídným zacházením
-
-  Stalo se obyčejem, že pozvaní odborníci informují o novinkách a stavu svého oboru
-  Nebylo tomu jinak ani tady Ať už šlo o nové podpůrné argumenty hovořící pro profylaxi
-  podložené nejčerstvějšími čísly získanými právě u nás Výsledky různých studií ze
-  světa jsou známy dávno, teď můžeme velmi průkazně operovat i daty získanými v českých
-  centrech Prezentoval je brněnský dětský hematolog Jan Blatný a zároveň upozornil
-  na důležitost farmakokinetiky O této záležitosti jsme už na svazových stránkách
-  informovali dříve v únorovém článku „Projekt farmakokinetiky se rozjíždí“ a zároveň
-  jsme nabízeli zprostředkování testů Bohužel neprojevil zájem nikdo, ačkoliv sofistikované
-  měření časového průběhu odbourávání srážecích faktorů je nesmírně důležité a optimální
-  využití individuálních křivek má jednoznačný přínos pro úplně každého Tentokrát
-  si mohl nechat v Seči každý alespoň orientačně změřit, jak právě jeho organizmus
-  na podání faktoru reaguje Pohříchu i tady se našla jen hrstka zájemců, nápad organizátorů
-  na příliš úrodnou půdu nepadl Věčná škoda, že tak málo lidí chce mnohdy životně
-  důležité informace získat Nabídka svazu na zprostředkování farmakokinetiky ale trvá
-  dál
-
-  Hodně rodin dorazilo s dětmi všeho věku, určitě se jim hodilo povídání psycholožky
-  Petry Bučkové o výchově a jejích vývoje v různém věku potomků hemofilických rodin
-  Stejně jako před rokem fungovala jakási improvizovaná mateřská školka, kde se chůvičky
-  postaraly o to, aby děti rodiče při prezentacích a workshopech nerušily 
-
-  Velký zájem vzbudila prezentace lékaře brněnského Centra léčby bolesti Petra Štourače
-  Snažil se demytizovat představy o škodlivosti některých léků, o nichž panuje mylná
-  představa o návykovosti a zároveň potvrdil, že se zbytečnou bolestí se moderní medicína
-  dokáže vyrovnat poměrně snadno a rychle
-
-  Další rady jak zdárně působit při výchově na děti i rodiče, ale také jak správně
-  naložit s partnerskými vztahy v rodinách, jichž se potíže členů svazu dotýkají,
-  přinesla další témata Že se dají i velmi vážné věci pojmenovat a podat velmi zábavnou
-  formou, dokázala psycholožka a sexuoložka Laura Janáčková Však se dočkala ohlasu
-  v podobě velmi obsáhlé diskuse
-
-  Že rehabilitace hraje při odstraňování nejvážnějších potíží klíčovou roli, slyšeli
-  členové svazu a jejich partneři a další rodinní příslušníci, už mnohokrát Přesto
-  se zásadami málokdo řídí a znovu to zde připomněla jedna z nejrenomovanějších fyzioterapeutek
-  zájmové komunity Marie Katzerová
-
-  Zdaleka ale nešlo jen o teoretické přednášky, ke každému tématu následoval pro zájemce
-  workshop přibližující to, co se nestačilo osvětlit při prezentacích
-
-  Hostem byl také předseda Slovenského hemofilického združenia Jaroslav Janovec A
-  nejen on, přivezl s sebou slovenského stříbrného a bronzového medailistu ve stolním
-  tenisu z paralympijských her v Pekingu Miroslava Jambora Může být lepší příklad,
-  že i s takovou chorobou se dá úspěšně sportovat Jaro Janovec zase seznámil všechny
-  s tím, jak jejich organizace žije, co udělala a pro své členy ještě udělat hodlá
-   
-
-  Zkrátka – ukázalo se, že o podobné informace zájem je a pokud k nim přibude ještě
-  masáž, bazén, sauny, parní lázně, vířivky a další příjemnosti, přijde si každý na
-  své Hotel Jezerka patří mezi exkluzivní a vyhledávané cíle nejrůznějších kongresů,
-  školení, ale i relaxačních pobytů  Však tomu odpovídají i ceny O ně ale nebylo třeba
-  se starat, vše šlo – s výjimkou symbolické spoluúčasti 1000,- korun za jeden dospělý
-  doprovod - prostřednictvím svazu k tíži společnosti Baxter Jí – a konkrétně paní
-  Haně Hrubé – patří vřelý dík za vše, co bylo k dispozici Téměř 180 spokojených účastníků
-  hovoří za vše a už jsou pomalu na programu úvahy o programu na rok 2015
-
-  Rada už získala i některé náměty na vylepšení programu do budoucna, pokud jste tam
-  byli a napadá něco i vás, organizátoři si to rádi vyposlechnou nebo přečtou
-
-  [widgetkit id=76]'
+  doplněných příjemným prostředím, lákavým wellness a vlídným zacházením'
 featured-image: images/fotogalerie/workshopy/jezerka_2014/13.jpg
 joomla_id: 202
 joomla_url: byli-jsme-veseli-i-vazni

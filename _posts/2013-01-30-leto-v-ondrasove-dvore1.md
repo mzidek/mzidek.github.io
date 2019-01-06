@@ -2,28 +2,11 @@
 author: Martin Bohůn
 category: Dětské tábory
 date: 2013-01-30 14:06:50
-excerpt: "\nPojeďte s námi na náš tradiční tábor do Ondrášova dvora Tým vedoucích
-  a zdravotníků se už na vás těší Neváhejte se zasláním přihlášky, místa jsou opět
-  limitována Zvýhodněni budou samozřejmě hemofilici a jedinci s von Willebrandovou
-  chorobou \nTermín: 277-1082013\nKdo se tábora může zúčastnit Děti, které absolvovaly
-  nejméně první ročník povinné školní docházky Horní hranice věku je stanovena na
-  18 let Pro zájemce ze vzdálených končin naší republiky opět pojede autobus z pražské
-  FN Motol přímo do Ondrášova dvora S touto nabídkou lze počítat i při zpáteční cestě
-  z tábora\nCena: Kompletní cena za pobyt včetně stravy je PŘEDBĚŽNĚ stanovena na
-  3800,-Kč pro účastníky s hemofilií a von Willebrandovou chorobou, na 4600,-Kč pro
-  ostatní účastníky (sourozence a případně kamarády hemofiliků)\nJak se přihlásit
-  Závaznou přihlášku najdete na tomto místě a můžete ji nejpozději do 31 března vyplnit
-  online, dbejte na pečlivé uvedení všech údajů V případě odhlášení dítěte z tábora
-  kontaktujte neprodleně Martina Bohůna na tel 723 487 239 Podrobné informace o platbě
-  a táboře samotném budou rozeslány během května 2013 S přihláškami prosím neotálejte,
-  místa jsou opět limitována a upřednostníme hemofiliky a účastníky s von Willebrandovou
-  chorobou Všem, na koho se už nedostane se touto cestou omlouváme \nI letos uvítáme
-  náměty, nápady a přání k programu tábora Chceme, aby se děti na táboře cítily co
-  nejspokojeněji a prožily si jej podle svých představ Rovněž budeme rádi za jakýkoliv
-  finanční či věcný dar, kterým náš tábor obohatíte\nNa shledanou v Ondrášově dvoře!\nFotografie
-  z předešlých ročníků LHT najdete v rubrice FotogalerieO tom, jak tábor probíhal
-  v roce 2012 se můžete dočíst zde\n Video pořízené na dětském táboře v Ondrášově
-  dvoře v roce 2012\n\nZdroj: MEDITORIAL"
+excerpt: '
+
+  Pojeďte s námi na náš tradiční tábor do Ondrášova dvora Tým vedoucích a zdravotníků
+  se už na vás těší Neváhejte se zasláním přihlášky, místa jsou opět limitována Zvýhodněni
+  budou samozřejmě hemofilici a jedinci s von Willebrandovou chorobou '
 featured-image: images/uvodnik-clanku-foto/tabor.jpg
 joomla_id: 133
 joomla_url: leto-v-ondrasove-dvore1

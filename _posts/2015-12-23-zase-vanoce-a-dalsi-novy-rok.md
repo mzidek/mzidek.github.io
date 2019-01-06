@@ -10,18 +10,7 @@ excerpt: 'Je to takový obyčej, že si lidé vzájemně v tomto období přejí
   ve snaze o příjemný a klidný život, ve snaze předat co nejvíce užitečných rad a
   poznatků, ve snaze co nejlépe hájit zájmy svých členů Hodně se toho podařilo, ale
   leccos přes veškerou snahu nikoliv – inu, tak už to v životě bývá Věřte, že jsme
-  se snažili o maximum možného, že se Rada upřímně snažila udělat to nejlepší
-
-  Ujišťujeme vás, že tomu tak bude i v příštím roce, že úsilí nepoleví, že i nadále
-  budou hlavní cíle ty, které pomohou především členům
-
-  Užijte si teď klidné a krásné Vánoce, uzavřete s úspěchem právě končící rok a do
-  dalšího vykročte razantně, s pevnými cíli a hlavně v dobré pohodě a s co nejlepším
-  zdravím Obklopeni těmi nejbližšími, zahrnutí a zahrnující láskou, pochopením a tím
-  nejpříjemnějším, co si dovedete představit Těšíme se, že se budeme i v roce 2016
-  hojně potkávat a že se nám bude dařit plnit vše, co si nejvíc přejete
-
-  Vaše Rada ČSH'
+  se snažili o maximum možného, že se Rada upřímně snažila udělat to nejlepší'
 featured-image: images/uvodnik-clanku-foto/vanoce_2015.jpg
 joomla_id: 259
 joomla_url: zase-vanoce-a-dalsi-novy-rok

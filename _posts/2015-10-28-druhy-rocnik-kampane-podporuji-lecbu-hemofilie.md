@@ -11,11 +11,7 @@ excerpt: 'Fotografie pořízené v rámci kampaně "Podporuji léčbu hemofilie"
   Den před vyvrcholením kampaně se v Žižkovském divadle Járy Cimrmana uskutečnil dlouho
   připravovaný benefiční koncert spojený se křtem CD "Honza Roušar a hosté – věnováno
   Českému svazu hemofiliků" Honza Roušar, rovněž hemofilik, na projektu pracoval více
-  než dva roky a zapojil do něj mnoho umělců
-
-  [widgetkit id=79]
-
-  [widgetkit id=80]'
+  než dva roky a zapojil do něj mnoho umělců'
 joomla_id: 249
 joomla_url: druhy-rocnik-kampane-podporuji-lecbu-hemofilie
 layout: post

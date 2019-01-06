@@ -9,19 +9,7 @@ excerpt: 'Ministerstvu zdravotnictví dnes odešel dopis, ve kterém svaz podaru
   hemofiliků a jejich hemofilické artropatie donedávna stačilo doporučení hematologického
   pracoviště V seznamu totiž byla výslovně uvedena i hemofilická artropatie Ta však
   z nejnovější verze indikačního seznamu vypadla a zůstala jen artropatie obecně To
-  by mohlo mít závažné následky, zejména co do přístupnosti lázeňské léčby
-
-  Lázně jsou pro hemofiliky nesmírně důležité, na rozdíl od mnoha jiných případů není
-  jejich pobyt tam společenskou událostí, ale vysloveně nutností Svaz proto na ministerstvu
-  důrazně žádá vysvětlení změn indikačního seznamu a také návrat k dřívějšímu stavu
-
-  O dalším vývoji případu budeme informovat
-
-  Indikační seznam pro lázeňskou léčbu - nový návrh | |pdf
-
-  Indikační seznam pro lázeňskou léčbu - původní verze | |pdf
-
-'
+  by mohlo mít závažné následky, zejména co do přístupnosti lázeňské léčby'
 featured-image: images/symboly/cary.jpg
 joomla_id: 97
 joomla_url: svazova-rada-zada-na-ministerstvu-vysvetleni

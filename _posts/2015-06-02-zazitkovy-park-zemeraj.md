@@ -2,12 +2,8 @@
 author: Martin Bohůn
 category: Hemofilické dny
 date: 2015-06-02 06:55:14
-excerpt: 'Pořízené fotografie v rámci oslav Světového dne hemofilie v Zážitkovém parku
+excerpt: Pořízené fotografie v rámci oslav Světového dne hemofilie v Zážitkovém parku
   Zeměráj 2542015
-
-   
-
-  [widgetkit id=81]'
 joomla_id: 234
 joomla_url: zazitkovy-park-zemeraj
 layout: post

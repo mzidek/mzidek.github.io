@@ -11,14 +11,7 @@ excerpt: "\nČeský svaz hemofiliků ve spolupráci s hemofilickými centry při
   MUDr Vladimír Komrska, CSc z dětské hematologie v Motole, specializovaný ortopéd
   MUDr Petr Teyssler, PhD, fyzioterapeut zabývající se rehabilitací hemofiliků Martin
   Mužíček, DiS, v konkrétních případech poradí odbornice v sociální oblasti Mgr Marcela
-  Štáfová a další\nPoprvé se širší veřejnosti a hlavně klientům ÚHKT představí nový
-  elektronický systém výkazu spotřeba koncentrátů a jeho mobilní aplikace Přínosem
-  je možnost setkání mimo oficiální prostory ordinací při přátelském pohovoru\nZváni
-  jsou všichni členové ale i nečlenové ČSH, program, včetně občerstvení a večeře mají
-  zadarmo Totéž se týká vždycky jednoho doprovodu dospělého a rodičů dětí Využijte
-  takové možnosti, zatím se všechna podobná setkání v mnoha českých regionech setkala
-  s velkým úspěchem a hlavně – přinesla výsledky Přihlásit se můžete do 30 dubna telefonicky
-  na čísle 723 487 239, emailem info@hemofilicicz, případně vyplněním tohoto formuláře "
+  Štáfová a další"
 featured-image: images/fotogalerie/workshopy/ostrava-2014/03.jpg
 joomla_id: 272
 joomla_url: regionalni-seminar-v-praze

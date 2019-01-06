@@ -11,34 +11,7 @@ excerpt: 'Pravidelná květnová rekondice je už pro letošek minulostí Jak js
   potřebujeme, včetně společenských prostor, prostoru pro rehabilitaci, bazén i vířivky
   Včetně ubytování pod jednou střechou Komfort se tak zvýšil nejen organizátorům,
   kteří nemuseli každé ráno chystat snídaně, ale i účastníkům, neboť jim odpadly jakékoliv
-  docházky To jsme ocenili zejména ve dnech, kdy nám příliš nepřálo počasí
-
-  Změnou lokality se podařilo přilákat více zájemců s rodinami, dětem Ohrada nabídla
-  uzavřený objekt s hřištěm, trampolínou, pískovištěm a také svezení na koních Ostatně
-  ty osedlali i někteří dospělí
-
-  Program se opět odvíjel zejména od každodenní rehabilitace Všichni měli k dispozici
-  vířivky a bazén Provozovatelům penzionu se sice nepodařilo obstarat slíbený zvedák,
-  bazén však nebyl upřen nikomu Těm, kdo nebyli schopni sami do bazénu vlézt a zejména
-  z něho vylézt, byli připraveni pomoci místní svalovci, do i z bazénu je přesunuli
-  na židli
-
-  Doprovodný program představovaly zejména společenské hry a třídenní turnaj v ping-pongu
-  Ten potvrdil, že není vždycky důležité zvítězit, ale zúčastnit se Hodnotné ceny
-  totiž získali nejen medailisté, ale i ti na úplném chvostu pořadí
-
-  Přestože blízké okolí nenabízí tolik možností k procházkám jako Lednice, nebyli
-  jsme odkázáni jen na penzion V něm jsme sice absolvovali ještě exkurzi vlastního
-  pivovaru, k dalším výletům jsme však již vyrazili auty a navštívili mj letovický
-  zámek, punkevní jeskyně a také už tradiční bowling
-
-  Konverzace s většinou účastníků mne utvrdila, že volba místa se povedla a že náš
-  pobyt zde nebyl poslední, proto jsme si tu už rezervovali příští rok Zájemci si
-  tedy mohou rezervovat termín na dovolenou od 12 do 20 května 2017
-
-  Za organizátory se na další setkání těší Michal Skořepa 
-
-  [widgetkit id=95]'
+  docházky To jsme ocenili zejména ve dnech, kdy nám příliš nepřálo počasí'
 featured-image: images/uvodnik-clanku-foto/vsky%20u%20letovic%202016.jpg
 joomla_id: 278
 joomla_url: povedena-zmena-visky-u-letovic-rekondice-dospelych-hemofiliku

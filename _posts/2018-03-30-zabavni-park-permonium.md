@@ -2,14 +2,8 @@
 author: Martin Bohůn
 category: Hemofilické dny
 date: 2018-03-30 17:37:16
-excerpt: 'Pořízené fotografie v rámci oslav Světového dne hemofilie v Zábavním parku
+excerpt: Pořízené fotografie v rámci oslav Světového dne hemofilie v Zábavním parku
   Permonium® dne 2242017
-
-  [widgetkit id=101]
-
-  [widgetkit id=100]
-
-   '
 joomla_id: 327
 joomla_url: zabavni-park-permonium
 layout: post

@@ -2,12 +2,8 @@
 author: Martin Bohůn
 category: Hemofilické dny
 date: 2014-05-30 08:11:40
-excerpt: 'Pořízené fotografie v rámci oslav Světového dne hemofilie na jindřichohradecké
+excerpt: Pořízené fotografie v rámci oslav Světového dne hemofilie na jindřichohradecké
   úzkokolejce dne 2642014
-
-  [widgetkit id=66]
-
-  [widgetkit id=67]'
 joomla_id: 190
 joomla_url: jindrichohradecka-uzkokolejka
 layout: post

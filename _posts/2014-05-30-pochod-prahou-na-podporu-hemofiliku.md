@@ -2,10 +2,8 @@
 author: Martin Bohůn
 category: Kampaně
 date: 2014-05-30 19:44:22
-excerpt: 'Fotografie z pochodu na podporu hemofiliků v den oslav Světového dne hemofilie (17
+excerpt: Fotografie z pochodu na podporu hemofiliků v den oslav Světového dne hemofilie (17
   dubna 2014) za účasti ambasadorky Jany Doleželové 
-
-   [widgetkit id=64]'
 joomla_id: 192
 joomla_url: pochod-prahou-na-podporu-hemofiliku
 layout: post

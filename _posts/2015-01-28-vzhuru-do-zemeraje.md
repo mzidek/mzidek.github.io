@@ -9,29 +9,7 @@ excerpt: 'Kdo by nechtěl strávit pěkné chvíle v ráji, kde se skloubí rozm
 
   Přijeďte si vyzkoušet různé hry, hlavolamy, dobrodružné úkoly a nebo jen tak posedět
   a potkat se s novými či starými přáteli v reálně ztvárněném prostředí vesnice raného
-  středověku 
-
-  Do Zeměráje zve velké i malé dobrodruhy Český svaz hemofiliků ve spolupráci s Hemojuniorem
-  za podpory společnosti Novo Nordisk
-
-  Stačí jen vyplnit přihlášku nejpozději do 31 3 2015 a vypravit se 25 4 2015 do Kovářova
-  201 Občerstvení a program je zajištěný Sraz účastníků bude v 1000 hodin, všem přihlášeným
-  budou rozeslány informace začátkem měsíce dubna
-
-  Vše bude probíhat pod širým nebem, a proto se na setkání s přírodou nezapomeňte
-  pořádně vybavit teplým oblečením a pevnou obuví Areál je i pro hůře pohyblivé, běžně
-  jej navštěvují i vozíčkáři
-
-  Pokud by někdo uvítal možnost ubytování, nabízí se využití penzionu přímo v Kovářově
-  http://wwwpenzion-kovarovcz/, případně lze vybrat z široké nabídky ubytovacích kapacit
-  v okolí blízké Orlické přehrady Ubytování si zajišťuje každý individuálně
-
-  Těšíme se na Vás
-
-  http://wwwzemerajcz/https://wwwfacebookcom/ZemerajHemofilický den 25 4 2015 Zeměráj
-  - pozvánka v PDF
-
-'
+  středověku '
 featured-image: images/uvodnik-clanku-foto/zemeraj_1.jpg
 joomla_id: 217
 joomla_url: vzhuru-do-zemeraje

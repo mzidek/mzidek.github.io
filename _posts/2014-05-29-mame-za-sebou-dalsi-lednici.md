@@ -10,21 +10,7 @@ excerpt: 'Tedy už tradiční rekondiční pobyt dospělých s rehabilitací, pr
   zarmoucením musíme konstatovat opětovné snížení počtu účastníků a nezájem ze strany
   fyzioterapeutů Dlouhodobě jsme potřebu spolupráce s novými fyzioterapeuty avizovali,
   ale nikoho nového se nám získat nepodařilo O to více děkujeme Aleně a Nadě, že s
-  námi opět jely
-
-  Počet účastníků ovlivnilo mnoho faktorů, ale mrzí nás, že se letos neobjevil ani
-  jediný nový účastník To se za celou historii pravděpodobně ještě nestalo Věřím,
-  že příští rok (termín 15 - 23 května 2015) se to změní Rád bych vás vyzval k diskuzi
-  a návrhům, jak dál, proč se počet účastníků snižuje Co by právě vás přitáhlo a co
-  vás naopak odrazuje Budeme rádi za každý názor
-
-  Těší se na ně Michal Skořepa
-
-  Foto: Ondra Horký, Naďa Rafajová, Jarda Trefil, Monika a Zdenek Vojkůvkovi
-
-  [widgetkit id=68]
-
-   '
+  námi opět jely'
 featured-image: images/fotogalerie/dospele-rekondice/2014-lednice/p5200308%201280x960.jpg
 joomla_id: 188
 joomla_url: mame-za-sebou-dalsi-lednici

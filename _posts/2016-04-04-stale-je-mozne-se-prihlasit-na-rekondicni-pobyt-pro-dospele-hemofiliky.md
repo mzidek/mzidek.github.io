@@ -2,32 +2,12 @@
 author: Martin Bohůn
 category: Rekondice dospělých
 date: 2016-04-04 07:54:00
-excerpt: "Jak jste si již určitě všimli v plánu akcí, na letošní rok dochází ke změně
-  lokality rekondičního pobytu dospělých hemofiliků\nPo pěti letech v Lednici jsme
-  se rozhodli hledat jinou lokalitu, byť s tou stávající jsme byli velmi spokojeni
-  Změna nespočívá pouze ve volbě obce, ale též v tom, že poprvé nebudeme v lázeňském
-  městě \nHledali jsme objekt, kde bychom měli kompletní zázemí, včetně bazénu, prostoru
-  pro rehabilitaci i vhodný prostor společenský, s možností kompletního stravování
-  Toto všechno nabízí Penzion a wellness centrum Ohrada ve Vískách u Letovic – více
-  o tomto penzionu naleznete na webu wwwohradacz\nTermín pobytu je 13 až 20 května,
-  oproti minulým letům o den kratší, neboť do soboty vždy zůstávala pouze menší část
-  účastníku Zájemcům jsme však schopni zajistit pobyt do soboty či neděle\nV rámci
-  pobytu bude zajištěno ubytování ve 2-4 lůžkových pokojích (čtyřlůžkové pouze pro
-  rodiny), plná penze, možnost využívání bazénu ve vyhrazených časech (pro méně pohyblivé
-  bude zajištěna rampa pro vstup do bazénu), vířivé koupele a také nezbytná individuální
-  rehabilitace pro všechny hemofiliky Penzion dále nabízí pivní koupele, relaxační
-  masáže, jízdu na koních a další, viz výše uvedený web Objekt je vhodný i pro rodiny
-  s dětmi, naše členy tedy rádi přivítáme i s celou rodinou\nCena pro členy ČSH zůstává
-  shodná s loňskou, tedy 2000,- Kč za osobu za pobyt Nehemofiličtí členové nemají
-  v ceně vířivky a rehabilitaci Ostatní zájemci uhradí 550,- / den dospělí, 490,-
-  / den dítě (ubytování, plná penze, bazén) Úmyslně neuvádíme cenu celkovou, často
-  někteří účastníci neabsolvují celý pobyt Proto všechny přihlášené prosíme o uvedení
-  termínu, ve kterém se chtějí pobytu účastnit, tedy zda absolvují pobyt celý, nebo
-  od-do (tato informace není závazná, rádi bychom však měli předběžný přehled)\nPřihlásit
-  se můžete pomocí přihlašovacího formuláře zde, případně emailem na adrese mskorepa@hemofilicicz
-  Více informací k pobytu získáte na téže adrese\nVěříme, že změna lokality přiláká
-  nové zájemce o pobyt, a že zaplníme plnou kapacitu objektu, která je 40 osob\nZa
-  organizátory se na setkání s vámi těší Michal Skořepa"
+excerpt: 'Jak jste si již určitě všimli v plánu akcí, na letošní rok dochází ke změně
+  lokality rekondičního pobytu dospělých hemofiliků
+
+  Po pěti letech v Lednici jsme se rozhodli hledat jinou lokalitu, byť s tou stávající
+  jsme byli velmi spokojeni Změna nespočívá pouze ve volbě obce, ale též v tom, že
+  poprvé nebudeme v lázeňském městě '
 featured-image: images/uvodnik-clanku-foto/visky.jpg
 joomla_id: 260
 joomla_url: stale-je-mozne-se-prihlasit-na-rekondicni-pobyt-pro-dospele-hemofiliky

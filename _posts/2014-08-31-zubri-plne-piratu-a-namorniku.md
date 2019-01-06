@@ -10,69 +10,7 @@ excerpt: 'Po létech prožitých v Beskydských horách se náš tábor přesun
   rozdělení dětí a vedoucích do družstev pod vedením barona Butterbrota Von Marmelade
   Ten v tématickém prostředí popsal svůj životní boj s pirátem Wilkinsonem a pobídl
   všechny přítomné, aby mu pomohli najít cestu k pokladu, společně s příslibem prožití
-  dobrodružství na společné cestě
-
-  Tak jsme se ocitli mezi čtyřmi oddíly, nesoucí názvy Lodě, Kotvy, Kormidla a Ryby
-  Celý týden všichni poctivě bojovali a na konci zdárně zdolali starého zlověstného
-  piráta Odměnou jim bylo nalezení pokladu, ze kterého si každý něco odnesl
-
-  Jako každý rok, byla kromě celotáborové hry samozřejmostí profylaxe a rehabilitace
-  Nové děti se učily, jak si samostatně aplikovat faktory Starší děti aplikaci zkušeně
-  zvládaly samy a těm menším byly vzorem a podporou Pochvaly od zdravotníků byly velmi
-  četné a určitě zasloužené Z našich nejmladších postupně vyrůstají soběstační lidé
-  a samotné aplikace se jich bojí čím dál méně
-
-  V rámci rehabilitace jsme se opět soustředili jak na cvičení individuální tak i
-  skupinové Všechny děti si vyzkoušely každý den něco jiného, od overballů, přes gumy
-  až po velké míče a bosu Ani letos nechyběl, pro ty nejvytrvalejší, výlet s Nordic
-  Walkingovými holemi Tentokrát se šel okruh kolem tábora a Zuberského rybníka, který
-  byl zpestřen broděním přes mokrou louku a nečekanou svačinou v kukuřičném poli Výletníci
-  došli všichni v pořádku, trochu unaveni, ale stále s úsměvem na tváři
-
-  V průběhu tábora k nám přijížděly i vzácné návštěvy v podobě sponzorů, kterým tímto
-  děkujeme za vyjádřenou podporu, a těší nás, že si stále nacházejí čas, prostor i
-  prostředky pro spolupráci s hemofiliky Díky jednomu z nich si děti mohly užít celé
-  jedno odpoledne věnované Vylodění v Normandii, během něhož byla připravena hra,
-  zpestřena o autentická videa, vyprávění a dokonce i jízdou ve vojenském džípu Hned
-  v neděli k nám dorazila i PharmDr Jana Doleželová, se kterou proběhlo focení a seznámení
-  I jí patří velký dík za podporu kampaně, Podporuji léčbu hemofilie Překvapující,
-  ač ve výsledku příjemný, byl příjezd České televize, která o našem táboře natočila
-  reportáž Tu jste mohli vidět 19 srpna v programu Události v regionu Rázem se ze
-  všech na minutu staly mediální hvězdy
-
-
-  Abychom však čas netrávili jen v areálu, vydali jsme se jeden večer do nedaleké
-  Bystřice nad Pernštejnem, aby si děti užily vodu v místním bazénu Byla to příjemná
-  změna, neboť počasí nám letos trochu nepřálo a teplota se pohybovala velmi nízko
-  Zde proběhla klasická rehabilitace a následoval volný program, do kterého se naplno
-  zapojili i vedoucí Cestou do Zubří autobus poněkud umlkl, neboť osazenstvo bylo
-  příjemně unaveno z vodních radovánek Také jsme navštívili Tišnov, kde byla připravena
-  další etapová hra, pod vedením naší milé Jany Kalábové Za odměnu a dobře provedenou
-  práci dostal každý zmrzlinu a šlo se na film do Letního kina K večeři si děti opekly
-  buřt, zachumlaly se do spacáku a užívaly si letní filmový večer Po cestě do tábora
-  autobus opět utichl a téměř všichni usnuli Poklidný večer však oživila noční hra,
-  která děti po příjezdu čekala
-
-  Poslední táborový večer se nesl v duchu loučení, oslav vítězství družstev nad sebou
-  i nad samotným Wilkinsonem V průběhu večera se ukázaly i talenty v podobě muzikantů,
-  tanečníků a i když to byl jen týden, loučení bylo stejně těžké jako po klasických
-  14 dnech
-
-  Za nás pár slov závěrem - dětem patří velké dík a pochvala za to, jak umí být hodné,
-  snaživé a letos snad víc než jindy, sobě navzájem nápomocné Obdiv patří vedoucím,
-  doktorům a sestřičce za to, že mají stále plno sil a odhodlání věnovat se během
-  těchto pár dní v roce celému táboru  Oběma je nám ctí spolupracovat s celým tímto,
-  troufáme si říci, nejlepším týmem, který tvoří i naši skvělí kolegové z rehabilitace
-  Nakonec bychom chtěly poděkovat vedení Rekreačního areálu Zubří, že nám přechod
-  do jiného prostředí tak ulehčil a ve všem vyšel vstříc Budeme se těšit příští rok
-  opět na viděnou
-
-  Táňa VLKOVÁ a Bára PITŘÍKOVÁ, fyzioterapeutky
-
-  Zde si můžete prohlédnou několik fotografií z letošního tábora Všechny ostatní naleznete
-  na: http://hemofilikrajceidnescz/Foto: Katarína KURÁKOVÁ, Petr HRICKO
-
-  [widgetkit id=73]'
+  dobrodružství na společné cestě'
 featured-image: images/uvodnik-clanku-foto/img_5941%201280x853.jpg
 joomla_id: 200
 joomla_url: zubri-plne-piratu-a-namorniku

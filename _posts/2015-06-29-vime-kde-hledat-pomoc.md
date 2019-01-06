@@ -8,27 +8,7 @@ excerpt: 'Pravidelní čtenáři svazového webu a tištěného Zpravodaje to v�
   a nemá kolem sebe nikoho, kdo by zaskočil
 
   Pak je návštěva kvalifikované sestry pravým dobrodiním Podrobnější informace najdete
-  v tomto článku , případně v informačním letáku
-
-  Informací o službě je tedy dost – jenže kde ji hlesat, že Společnost Baxter, která
-  se o rozšíření povědomosti o nich i o jejich specializovaná školení ve všech regionech
-  zasloužila nejvíc, udělala další krok Shromáždila seznam všech agentur, které se
-  chtěly, ale také po školení mohou, do systému zapojit Stačí si otevřít stránky http://wwwprehledadpcz
-  a budete mít kompletní přehled o všech, jichž se to týká Jednoduchým filtrem se
-  dá vybrat konkrétní místo, zaškrtnout možnost léčivých přípravků a máte jasno
-
-  Ne všude je síť užitečných agentur dostatečně hustá, mnohde je soupis hodně chudý
-  A právě teď máte možnost na taková bílá místa na mapě republiky poukázat a svaz
-  se ve spolupráci s Baxterem bude snažit je vymazat Stačí dát na známé svazové kontakty
-  vědět, kde bota tlačí a budeme se snažit okamžitě hledat řešení v podobě nalezení
-  dalších agentur A samozřejmě je patřičně vyškolit, protože bez správných informací
-  od odborníků by to nefungovalo Ani nemohlo, agentura musí mít správný certifikát
-  a k němu jí dopomůže právě ČSH a Baxter
-
-  Projděte si seznam těch, které působí ve vašem okolí a pokud neuspějete, okamžitě
-  nás upozorněte Nikdy nevíte, kdy se může taková pomoc hodit Nezapomeňte, že proces
-  začlenění nové agentury do systému nějaký čas trvá a řešit vše až v okamžiku, kdy
-  bude potřeba akutní, se nemusí vyplatit'
+  v tomto článku , případně v informačním letáku'
 featured-image: images/uvodnik-clanku-foto/agentury%20dp.jpg
 joomla_id: 239
 joomla_url: vime-kde-hledat-pomoc

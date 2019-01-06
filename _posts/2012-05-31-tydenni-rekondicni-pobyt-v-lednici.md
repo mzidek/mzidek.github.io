@@ -7,33 +7,7 @@ excerpt: "V minulém týdnu proběhl další ročník rekondičního pobytu pro 
   se akce opět povedla, za což děkujeme účastníkům a zejména fyzioterapeutkám, které
   se o ně postarali Na rok 2013 již máme rezervovaný termín 17-25 května Zájemci tedy
   s velkým předstihem mohou plánovat dovolenou\nZa organizátory se na další ročník
-  těší Michal Skořepa\nPoděkování od účastníka pobytu\nPřed pár dny jsem se vrátil
-  z rekondičního pobytu pro hemofiliky v Lednici Jsem opět (jako každoročně) plný
-  dojmů a rád bych se s vámi o ně podělil\nTato akce se konala v termínu 18 – 26 5
-  v obecní ubytovně v Lednici Není to asi správné, ale považuji za samozřejmé, že
-  jsme byli ubytováni bezbariérově, bylo o nás postaráno  skvělým jídlem, měli jsme
-  možnost vyplnění volného času kulturním, společenským či sportovním vyžitím Důležitá,
-  nejen pro mě, byla nabídka lázeňských procedur, jako jsou: vířivka, hydromasáž,
-  jodobromová koupel, perličková koupel Člověk si zarelaxoval a zavznášel ve vodě,
-  pak přišel nebo přijel zpět do ubytovny Tam na něj čekaly jedny z nejlepších fyzioterapeutek,
-  které jsem měl kdy možnost v životě potkat: Naďa a Ála Tyto dvě šikovné (rehabky)
-  přispěly svým umem, citem a hlavně získanými  zkušenostmi s hemofiliky k tomu, že
-  se člověk mohl cítit skoro jako v ráji Trochu přeháním, ale skutečně s námi cvičily
-  to, o co jsme si řekli Bylo to velmi příjemné a po překonání počáteční bolesti se
-  člověk cítil skvěle (kdyby nás jen hladily, bylo by to jistě příjemnější, ale těžko
-  bychom něco rozhýbali) Cvičily jsme denně, ale nezaregistroval jsem jediný případ,
-  že by někdo říkal, že“toho cvičení bylo moc“ nebo dokonce kvůli cvičení že by si
-  někdo musel něco zaléčit Nerad bych přivedl někoho v omyl a aby si myslel, že jsme
-  všichni rozhýbali  všechny své postižené klouby Zázraky u hemofiliků se nedějí tak
-  často Za 9 dní pobytu nemůže nikdo nic podobného očekávat Ale je vědecky dokázáno:
-  když se hemofilik cítí dobře a nemá žádný stres, má i méně výronů Toto byl hlavní
-  důvod, proč jsem se zúčastnil já a mohu zodpovědně říci, že jsem udělal dobře, když
-  jsem bez váhání do Lednice jel\nJen krátký výčet nabídnutých možností: turnaj v kuželkách,
-  turnaj v Tantrixu, grilování, návštěva rakouských termálních lázní Laa, večery plných
-  spontánních vtipů, kulturní památky v Lednicko – Valtickém areálu\nZa to patří dík
-  skvělé partě hemofiliků, kteří se zúčastnili, zvláště Zdeňkovi a Rudovi – pilířům
-  naší party, již zmíněným rehabilitačním Nadě a Ále A tomu, který to vše pro ostatní
-  připravil, Michalovi Skořepovi \nVšem moc děkuji Bedřich Smrčka  \n[widgetkit id=41]\n "
+  těší Michal Skořepa"
 featured-image: images/uvodnik-clanku-foto/lednice_4_2012.jpg
 joomla_id: 101
 joomla_url: tydenni-rekondicni-pobyt-v-lednici

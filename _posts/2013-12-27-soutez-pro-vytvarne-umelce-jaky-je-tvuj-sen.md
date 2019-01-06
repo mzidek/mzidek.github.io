@@ -8,61 +8,7 @@ excerpt: "Tak zní název výtvarné soutěže, kterou připravila společnost O
   kategoriích Všechny výtvory budou vystaveny v květnu na Světovém hemofilickém kongresu
   v australském Melbourne A jak se zapojit Je to jednoduché Vytiskněte si šablonu
   obrázku, kterou spolu s pravidly naleznete v další části tohoto článku a nakreslete
-  svůj sen Hraje se o lákavé ceny\nOctapharma navíc slíbila, že ocení každého českého
-  kreslíře, který se soutěže zúčastní Obrázek pošlete, spolu s vyplněným registračním
-  formulářem, nejpozději do 31 března 2014, a to barevně naskenované v pdf na info@hemofilicicz
-  (preferovaný způsob), nebo poštou na adresu členky Rady ČSH: Mgr Jana Kalábová,
-  Kino Svratka, Brněnská 152, 666 01 Tišnov Na konci soutěže vystaví HFA každému soutěžícímu
-  diplom o účasti\n  Šablona obrázku, do kterého nakreslete svůj sen          Registrační
-  formulář \nPODMÍNKY A PRAVIDLA SOUTĚŽE\nHaemophilia Foundation Australia (HFA),
-  za finanční podpory společnosti Octapharma, je organizátorem celé akce HFA je výhradně
-  odpovědná za přijímání a zpracování osobních údajů, které jsou potřebné pro registraci
-  a vstup dítěte do soutěže\nKategorie a věkDo výtvarné soutěže se mohou přihlásit
-  děti ze všech členských zemí WFH, které spadají do jedné ze tří kategorií:\n\nKategorie
-  1: děti ve věku do 4 let\nKategorie 2: děti ve věku 5 až 8 let\nKategorie 3: děti
-  ve věku 9 až 11 let\n\nPouze jeden obrázek od každého dítěte bude přijat do soutěže Datum
-  uzavírky pro české kreslíře je 31 března 2014\nHarmonogram průběhu soutěže\n\n12
-  října 2013 – Začátek soutěže\n31 března 2014 – Konec soutěže pro české kreslíře\n21
-  dubna 2014 – Poslední den, kdy budou výkresy přijaty HFA\n11 - 13 května 2014 –
-  Výstava výkresů na WFH kongresu a hlasování\n14 května 2014 – Počítání hlasů, vyhlašování
-  výsledků a předání výher\n14 - 30 května 2014 – Vytištění diplomů za účast každému
-  soutěžícímu\n\nPosuzování a výsledky soutěže\nVýkresy budou hodnoceny hlasovacím
-  procesem, který proběhne při Světovém hemofilickém kongresu v Melbourne Všechny
-  výkresy budou umístěny na výstavním stánku Octapharmy Každý návštěvník bude přizván
-  k hlasování o nejlepší výkres každé kategorie\nHlasování\n\nÚčastníci kongresu,
-  kteří navštíví výstavní stánek Octapharmy budou přizváni k hlasování o nejlepší
-  výkres každé kategorie\nHlasovací lístky budou vloženy do hlasovacího boxu, který
-  bude pro tento účel zřízen\nHlasy budou sečteny na konci hlasování\nTři výkresy
-  v každé kategorii, které obdrží největší počet hlasů, se stanou vítězi první, druhé
-  a třetí ceny\n\nVyhlášení vítězů\nPo sečtení všech hlasů budou výsledky vyhlášeny
-  na výstavním stánku Octapharmy a to ve středu 14 května 2014 Zástupce HFA bude do
-  24 hodin kontaktovat každého vítěze telefonicky, emailem nebo poštou Seznam vítězů
-  bude k vidění od 14 května 2014 na webových stránkách HFA wwwhaemophiliaorgau a
-  rovněž na webu Octapharmy wwwoctapharmacom\nCeny pro vítěze každé kategorie jsou
-  následující:\n\n\n\n \nKategorie 1: Děti ve věku do 4 let\n\n\n1cena\nPoukázka ve
-  výši AU$200 do obchodu ”Toys r us” nebo do jiného dětského hračkářství nominovaného
-  ve vaší zemi\n\n\n2cena\nPoukázka ve výši AU$150 do obchodu ”Toys r us” nebo do
-  jiného dětského hračkářství nominovaného ve vaší zemi\n\n\n3cena\nPoukázka ve výši
-  AU$100 do obchodu ”Toys r us” nebo do jiného dětského hračkářstvínominovaného ve
-  vaší zemi\n\n\n\n \n\n\n\n       \nKategorie 2: Děti ve věku 5 až 8 let\n\n\n1cena\nPoukázka
-  na IPod Nano nebo Apple v odpovídající ceně + AU$50 poukázka na itunes Vše v celkové
-  částce AU$219\n\n\n2cena\nPoukázka na IPod Nano nebo Apple v odpovídající ceně +
-  AU$20 poukázka na itunes Vše v celkové částce AU$189\n\n\n3cena\nPoukázka na IPod
-  Nano nebo Apple v odpovídající ceně Celková částka AU$169\n\n\n\n \n\n\n\n    \nKategorie
-  3: Děti ve věku 9 až 11 let\n\n\n1cena\nPoukázka na IPod Nano nebo Apple v odpovídající
-  ceně + AU$50 poukázka na itunesVše v celkové částce AU$219\n\n\n2cena\nPoukázka
-  na IPod Nano nebo Apple v odpovídající ceně + AU$20 poukázka na itunesVše v celkové
-  částce AU$189\n\n\n3cena\nPoukázka na IPod Nano nebo Apple v odpovídající ceně Celková
-  částka AU$169\n\n\n\nCopyright (autorská práva) a práva k výkresůmVýkresy se nebudou
-  zasílat zpět soutěžícímu Výtvory budou ve vlastnictví HFA a společnosti Octapharma,
-  a mohou být použity k podpoře dalších soutěží Společnosti Octapharma nebudou poskytnuty
-  žádné osobní informace o soutěžících\nPřijaté výkresy do soutěže nejsou a nebudou
-  předmětem žádných autorských a distribučních práv a plateb\nHFAHaemophilia Foundation
-  Australia podléhá Národním Principům Ochrany Údajů (National Privacy Principles)
-  v souvislosti se Zákonem o Ochraně Osobních Údajů (Privacy Act) 1988 (Cth) (ve znění
-  pozdějších předpisů Změně Ochraně Osobních Údajů (Soukromý Sektor) Zákona 2000 (Cth))
-  V případě zájmu získání kopie Předpisu 19: Ochrana Osobních Údajů s datem 19102012,
-  kontaktujte prosím přímo HFA"
+  svůj sen Hraje se o lákavé ceny"
 featured-image: images/uvodnik-clanku-foto/sen_titulka.jpg
 joomla_id: 176
 joomla_url: soutez-pro-vytvarne-umelce-jaky-je-tvuj-sen

@@ -6,11 +6,7 @@ excerpt: "To asi každého, ale z unikátního průzkumu se můžete dozvědět
   hemofilikům v Čechách Alespoň těm, kteří na několik jednoduchých otázek anonymně
   odpověděli \nČSH už v loňském roce připravil rozsáhlou dotazníkovou akci, z jejíchž
   výsledků vyplynula řada velmi zajímavých poznatků Už jsme o nich průběžně informovali
-  jak ve Zpravodaji, tak i na webu\nKdo má zájem, může si rozsáhlé a profesionálními
-  statistiky zpracované tabulky stáhnout pomocí  pdf souboru případně o ně požádat
-  v tištěné podobě na známé svazové adrese info@hemofilicicz, nebo prostřednictvím
-  členů Rady ČSH\nPrůzkum vysoce ohodnotila řada českých, ale i zahraničních odborníků,
-  mnozí z nich se nechali inspirovat a připravují něco podobného i ve svých zemích"
+  jak ve Zpravodaji, tak i na webu"
 featured-image: images/uvodnik-clanku-foto/zajima_vas_jak_zijete.jpg
 joomla_id: 128
 joomla_url: zajima-vas-jak-zijete

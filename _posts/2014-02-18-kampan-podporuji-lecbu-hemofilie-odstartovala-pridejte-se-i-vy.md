@@ -7,35 +7,7 @@ excerpt: '
   Koncem ledna proběhla za hojné účasti médií na pražském Střeleckém ostrově tisková
   konference, která celou kampaň odstartovala Partnerem akce se stala společnost Baxter
   a nechyběla ani ambasadorka projektu, farmaceutka a Miss ČR pro rok 2004, PharmDr
-  Jana Doleželová
-
-  Na tiskové konferenci hovořil odborník na slovo vzatý, MUDr Jan Blatný, PhD, hematolog
-  a primář oddělení dětské hematologie Fakultní nemocnice Brno, který všem přítomným
-  popsal současnou situaci v léčbě a její trendy do budoucna O hemofilicích se díky
-  této akci mluvilo v několika celostátních televizích
-
-  [widgetkit id=62]
-
-  Pomoci můžete i vy
-
-  Zakoupením výrobků v symbolické červené barvě s logem „Podporuji léčbu hemofilie“
-  na webových stránkách wwwpodporujihemofilikycz přispějete na zlepšení kvality života
-  hemofiliků a usnadníte jim boj s tímto závažným onemocněním
-
-  Na facebookové stránce Podporuji hemofiliky najdete novinky, zákulisní informace
-  a fotky z průběhu kampaně Staňte se fanoušky a dejte vědět svým přátelům, že podporujete
-  hemofiliky i Vy
-
-  Přidejte se k pochodu za dobrou věc
-
-  Celá kampaň vyvrcholí 17 dubna na Světový den hemofilie, kdy se v Praze za účasti
-  ambasadorky Jany Doleželové uskuteční pochod na podporu hemofiliků Přijďte v tričku,
-  s šálou nebo plackou vyjádřit vaši podporu Výtěžek z prodeje benefičních předmětů
-  bude věnován pacientské organizaci Český svaz hemofiliků a sdružení Hemojunior Děkujeme,
-  že nejste lhostejní a pomáháte s námi!
-
-  Ti z vás, kteří se pochodu hodlají zúčastnit, ať nás kontaktují na info@hemofilicicz
-  nebo na telefonu 723 487 239 Těšíme se na vaši hojnou účast!'
+  Jana Doleželová'
 featured-image: images/banners/banner660x70.gif
 joomla_id: 180
 joomla_url: kampan-podporuji-lecbu-hemofilie-odstartovala-pridejte-se-i-vy

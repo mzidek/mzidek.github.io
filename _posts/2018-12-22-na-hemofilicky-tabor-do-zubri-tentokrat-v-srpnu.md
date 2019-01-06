@@ -7,57 +7,7 @@ excerpt: 'Aby svaz dostál své tradici, nesmí ani příští léto chybět „
 
   V roce 2019 se tábor uskuteční v srpnu, konkrétně mezi 3 a 17 srpnem 2019 v Rekreačním
   středisku Zubří u Nového Města na Moravě Opět proběhne pod vedením Vojtěcha Horníka
-  a za účasti známého týmu vedoucích a zdravotníků
-
-  Pobytový poplatek za tábor zůstane ve stejné výši jako v roce 2018, vytvořeny jsou
-  tři kategorie tak, aby byli co nejvíce zvýhodněni účastníci s hemofilií nebo von
-  Willebrandovou chorobou Výše poplatků je následující:
-
-
-  3300,-  Kč pro účastníky s hemofilií nebo von Willebrandovou chorobou
-
-  5300,-  Kč pro jejich sourozence
-
-  7560,-  Kč pro ostatní účastníky
-
-
-  V ceně je zahrnuto:
-
-
-  Doprava dětí z a do Prahy, v případě zájmu i Ostravy, Olomouce a Brna
-
-  Ubytování, strava (5x denně + celodenní pitný režim)
-
-  Základní úrazové pojištění
-
-  Doprava na výlety
-
-  Celkový chod tábora
-
-
-  Přihlašovat se lze elektronicky, vyplněním tohoto  formuláře Prosíme, abyste všechny
-  údaje v přihlášce vyplňovali pečlivě Do 14 dnů od odeslání formuláře očekávejte
-  e-mailem potvrzení, že jsme přihlášku zaevidovali V případě, že by Vám potvrzení
-  nepřišlo, ozvěte se prosím na e-mailovou adresu hornikvojta@gmailcom, případně na
-  tel 739 472 735 (Vojtěch Horník)
-
-  Termín pro podávání přihlášek je do 28 února 2019, nicméně pokud máte zájem se tábora
-  zúčastnit, s přihlašováním neotálejte
-
-  Tábora se mohou zúčastnit děti, které absolvovaly nejméně první třídu základní školy,
-  horní věková hranice je 18 let Připravujeme již tradičně společnou dopravu z Prahy
-  a v případě dostatečného zájmu i z Ostravy s případnými zastávkami na okraji Olomouce
-  a Brna Samozřejmě je možné dovézt své ratolesti do místa konání tábora osobně
-
-  Přihlášeným účastníkům budou podrobnější informace o táboře, dopravě, platbách apod
-  zaslány v průběhu dubna
-
-  V případě jakýchkoliv dotazů neváhejte kontaktovat hlavního vedoucího na výše uvedených
-  kontaktních údajích
-
-  Těšíme se na Vaši hojnou účast
-
-   '
+  a za účasti známého týmu vedoucích a zdravotníků'
 featured-image: images/uvodnik-clanku-foto/lht_2019.jpg
 joomla_id: 356
 joomla_url: na-hemofilicky-tabor-do-zubri-tentokrat-v-srpnu

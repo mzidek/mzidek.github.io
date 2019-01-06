@@ -7,32 +7,7 @@ excerpt: 'Už několik let probíhají v režii svazu regionální semináře s 
   hemofilií potýkají
 
   A také jejich partnerům, rodičům, přátelům – zkrátka všem, koho to zajímá V dubnu
-  se setkání uskuteční v Hluboké nad Vltavou
-
-  Vše je připraveno na 11 dubna v hotelu Podhrad, předpokládaný začátek v 1000 hodin
-  K dispozici bude konferenční místnost, malý salonek pro individuální setkání, možnost
-  ukázky individuální rehabilitace a řada dalších zajímavostí V případě zájmu se o
-  malé děti postarají profesionální chůvy
-
-  Informace přednesou odborníci na slovo vzatí, například specializovaný ortopéd z
-  motolské nemocnice v Praze MUDr Petr Teyssler, fyzioterapeutka zabývající se rehabilitací
-  hemofiliků v Brně Mgr Marie Katzerová, hematologové center pro děti a dospělé v
-  Českých Budějovicích MUDr Ivan Vonke a MUDr Pavel Timr a další Přínosem je možnost
-  setkání s nimi mimo oficiální prostory ordinací při přátelském pohovoru
-
-  Zváni jsou všichni členové ale i nečlenové ČSH/Hemojunioru, program, včetně občerstvení
-  a oběda mají zadarmo Totéž se týká vždycky jednoho doprovodu dospělého a rodičů
-  dětí
-
-  Využijte takové možnosti, zatím se všechna podobná setkání v mnoha českých regionech
-  setkala s velkým úspěchem a hlavně – přinesla výsledky Přihlásit se můžete do 20
-  března telefonicky na čísle 723 487 239, emailem info@hemofilicicz, případně vyplněním
-  tohoto formuláře
-
-  Bližší informace o posledním podniku v Ostravě neleznete pod tímto odkazem, případně
-  v sekci Naše akce - Workshopy naleznete ohlasy i z dalších krajů
-
-   '
+  se setkání uskuteční v Hluboké nad Vltavou'
 featured-image: images/fotogalerie/workshopy/ostrava-2014/02.jpg
 joomla_id: 224
 joomla_url: pozvanka-pro-vsechny-jihocechy

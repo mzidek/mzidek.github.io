@@ -8,44 +8,7 @@ excerpt: 'Pravidelný kongres Evropského hemofilického konsorcia hostil tentok
 
   Dvě úplně hlavní témata zněla: Farmakokinetika a Preparáty s prodlouženou dobou
   účinku K tomu obvyklá chvála profylaxe, ale také několik zmínek o důležitosti psychologické
-  stránce práce s rodinami i samotnými lidmi s hemofilií
-
-  Farmakokinetika je důležitým tématem i české komunity Už před časem jsme přinesli
-  podstatnou informaci (Projekt farmakokinetiky se rozjíždí) o této metodě měření
-  úbytku hladiny Faktoru VIII a Faktoru IX s tím, že ČSH nabízí zprostředkování takových
-  testů  Znovu se zevrubně o přínosné metodě mluvilo při setkání Jsme tady pro vás
-  v Seči (viz informace v článku Byli jsme veselí i vážní…), ale stále slova nepadají
-  na úrodnou půdu Evropští odborníci v Belfastu zjevně dokumentovali blahodárnost
-  farmakokinetiky a nabádali k jejímu šíření U nás není taková propagace třeba – alespoň
-  v Praze nebo Brně, kde ji nabízejí – ale mezi širší veřejností ano Svaz se snaží
-  nabízet to nejlepší, členové ale bohužel nereagují
-
-
-  Poněkud jinak je tomu s koncentráty srážecích faktorů s prodlouženou dobou účinku
-  Tady je svět na počátku, někde se ale takové preparáty už testují Včetně několika
-  českých pracovišť Prospěch mají přinést hlavně při hemofilii B, kdy se účinek prodlouží
-  až šestkrát U áčka jen zhruba 1,5 krát, i tak ale zaplaťpánbůh za redukci počtu
-  vpichů Za rok to může být třeba o padesát aplikací méně
-
-  Podstata spočívá v tom, že účinnou látku nesou tak zvané pegylované molekuly (PEG
-  = polyethylenglykol)  Potíž je právě s pegylací, protože ještě nefunguje tak dlouho,
-  aby bylo zřejmé, že je organizmus – tedy především játra – dokáže zlikvidovat zcela
-  bez škodlivých vlivů  Důležité ale je, že farmaceutický průmysl nespí a snaží se
-  vyvinout nová a účinnější léčiva
-
-  Do rodiny EHC přijalo plénum některé další členy a zajímavé bylo vystoupení předsedy
-  ruské asociace Ten poukázal na fakt, že EHC by mělo vybírat příští místa konferencí
-  tak, aby se tam bez obtíží a bez víz dostali právě i Rusové Obtíže momentálně spojené
-  s omezeními pro občany Ruska se už promítají i tady
-
-  Naši delegaci potěšilo, že ty tam jsou doby, kdy zástupci svazu hleděli na mnohé
-  projednávané body se závistí, nebo velké vzdálenosti Dnes jsme zcela rovnoprávnými
-  partnery vyspělého světa se vším všudy a máme k dispozici totéž co kdekoliv jinde
-
-  Delegáti určili za místo konference v roce 2016 norský Stavanger, příští rok se
-  všichni sejdou v Bělehradě 
-
-   '
+  stránce práce s rodinami i samotnými lidmi s hemofilií'
 featured-image: images/uvodnik-clanku-foto/logo_belfast.jpg
 joomla_id: 205
 joomla_url: cesko-porad-na-spici

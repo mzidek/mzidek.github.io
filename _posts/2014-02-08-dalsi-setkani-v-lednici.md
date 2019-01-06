@@ -6,22 +6,7 @@ excerpt: '
 
   Rekondice dospělých v Lednici proběhne v prakticky shodném termínu jako v minulých
   letech, konkrétně od 16 do 24 května Již nyní se můžete přihlásit, uzávěrku přihlášek
-  ohlásíme v případě naplnění kapacity
-
-  Vzhledem k nutnosti objednat procedury alespoň měsíc předem, je vhodné se přihlásit
-  do půlky dubna Po tomto termínu již nebude možné léčebné koupele zaručit Přihlásit
-  se je možné prostřednictvím tohoto formuláře, případně emailem na mskorepa@hemofilicicz
-  Do přihlášky uveďte osobní údaje a o jaké koupele máte zájem
-
-  Koupele budou od pondělí do pátku, na každý den je možné vybrat jednu ze tří variant
-  – perličková, vířivá, jodová Denně bude k dispozici individuální rehabilitace, obden
-  také bazén Cena pro hemofiliky - platící členy svazu - je 2900 Kč, pro ostatní zájemce
-  dle vybraných procedur asi 4500 Kč V ceně je zahrnuto ubytování, snídaně, oběd,
-  bazén, léčebné koupele a pro hemofiliky rehabilitace  
-
-  Na tento pobyt hledáme fyzioteraput(k)y
-
-  Za organizátory se na vás těší Michal Skořepa'
+  ohlásíme v případě naplnění kapacity'
 featured-image: images/banners/banner%20lednice.jpg
 joomla_id: 179
 joomla_url: dalsi-setkani-v-lednici

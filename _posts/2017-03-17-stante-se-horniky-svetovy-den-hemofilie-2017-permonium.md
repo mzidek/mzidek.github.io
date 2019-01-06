@@ -9,28 +9,7 @@ excerpt: '…a přijeďte oslavovat do Oslavan Srdečně zveme všechny členy �
 
   Vše se uskuteční v sobotu 22 dubna v areálu plném nevšedních scenérií, kulis a rekvizit,
   prostory skrývají tajemství stará miliony let Připravené jsou zajímavé atrakce,
-  moderní technologické vybavení a vůbec kvalitní zázemí
-
-
-  Aktivně tu mohou prožít chvíle odpočinku a zábavy příslušníci všech věkových kategorií,
-  tedy všichni členové obou našich organizací V dolech se odehrává interaktivní hra "Magic
-  Permon" s využitím moderních informačních technologií, na trase můžete zažít příběh
-  jednoho z šesti oslavanských permonů Velkou atrakcí je zrekonstruovaná čtyřicetimetrová
-  těžební věž Kukla, která kromě výhledu láká také na vyprávění o oslavanských pověstech
-
-  Program se bude podobat předešlým ročníkům hemofilických dnů, včetně drobného občerstvení
-  na uvítanou, oběda a v případě přízně počasí i odpoledního opékání špekáčků Zúčastnit
-  se mohou všichni členové ČSH a HJ i jejich rodinní příslušnicí - stejně jak tomu
-  bylo v předešlých ročnících hemofilických dnů  
-
-  Uzávěrka přihlášek je pátek 7 dubna, tak s nimi neotálejte a projevte zájem co nejdříve
-  prostřednictvím tohoto elektronického formuláře
-
-  Doporučujeme si vzít oblečení sportovnějšího charakteru, podrobný program dostanou
-  přihlášení účastníci včas
-
-
-   '
+  moderní technologické vybavení a vůbec kvalitní zázemí'
 featured-image: images/uvodnik-clanku-foto/permonium_2017.jpg
 joomla_id: 294
 joomla_url: stante-se-horniky-svetovy-den-hemofilie-2017-permonium

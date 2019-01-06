@@ -2,26 +2,11 @@
 author: Martin Bohůn
 category: Titulka
 date: 2014-12-22 07:45:00
-excerpt: "\nBlíží se okamžik Vánoc a změny letopočtu To jsou chvíle, kdy si lidé vzájemně
-  přejí hodně štěstí, zdraví a vůbec jen to nejlepší Také náš svaz chce přispět svou
-  troškou do mlýna a ke všem přáním se připojit\nVěřte, že naše přání vychází opravdu
-  ze srdce Není to jen formálnost gratulací, které si zhusta vyměňují na ulici i lidé,
-  kteří se ani moc neznají, prostě to říkají jen proto, že se něco takového v těchto
-  dnech sluší Budeme rádi, když si všichni členové, ale i jejich blízcí, příznivci
-  svazu, sponzoři – zkrátka sympatizanti, užijí nadcházející dny v klidu, míru, mezi
-  nejbližšími, s těmi, u nichž nacházejí oporu, porozumění a lásku To potřebují všichni,
-  zdaleka ne jen lidé nějakým způsobem spjatí s hemofilií, nebo dalšími nepříjemnými
-  chorobami srážení krve\nPopřejme si tedy vzájemně to, co si ostatní přejí, co jim
-  udělá radost, co jim pomůže ulehčit a zpříjemnit život Važme si každého dne bez
-  potíží, vzpomeňme na ty, kterým právě není v těchto okamžicích dopřáno štěstí snadného
-  života a přemýšlejme, čím jim můžeme být prospěšní\nBudeme se snažit i v příštím
-  roce dělat vše pro dobro členů i všech ostatních Držte nám palce, aby se vše podařilo
-  uskutečnit, abychom měli dobré nápady a energii je uvést do života My vám naopak
-  přejeme, abyste si Vánoce užili v klidu a přesně tak, jak to považujete za nejlepší
-  Ať je život vás všech krásný, plný lásky a pohody Tak hezké Vánoce a šťastný celý
-  následující nový rok\nJako malý dárek vám přinášíme rozšířené vydání hemofilického
-  zpravodaje, které je již na cestě všem členům ČSH Dále je možnost přihlásit se na
-  rekondici dospělých v Lednici a letní tábor v Zubří na Vysočině \nVaše rada ČSH\n "
+excerpt: '
+
+  Blíží se okamžik Vánoc a změny letopočtu To jsou chvíle, kdy si lidé vzájemně přejí
+  hodně štěstí, zdraví a vůbec jen to nejlepší Také náš svaz chce přispět svou troškou
+  do mlýna a ke všem přáním se připojit'
 featured-image: images/uvodnik-clanku-foto/pf 2015_1.jpg
 joomla_id: 211
 joomla_url: prejeme-vam-stastne-a-vesele

@@ -5,24 +5,7 @@ date: 2017-12-22 11:54:11
 excerpt: "Ani jsme se nenadáli a je tady opět vánoční čas Rok co rok se opakuje, přesto
   je vždy trochu jiný \nČím to je, že vánoce nezevšední, že se znovu ponoříme do jejich
   příprav, abychom je oslavili důstojně, pokojně a snad i v pohodě Snad tím, že právě
-  v této době pociťujeme víc než kdy jindy potřebu pospolitosti\nMnožství úkolů, které
-  před nás kladou vánoční svátky, dělá předvánoční dobu snad tou nejnáročnější v celém
-  roce: úklid, pečení cukroví, shánění dárků, rozeslání vánočních gratulací, příprava
-  Štědrovečerní večeře, a to vše při běžných každodenních povinností v zaměstnání
-  i v rodině\nZávěr roku přináší také možnost zamyslet se nad tím, co se v uplynulém
-  období podařilo nebo z čeho se naopak lze ponaučit pro příště Řada věcí se nepovedla
-  tak, jak jsme si mysleli, ale většinu jsme dokázali uskutečnit Rok 2017 byl pro
-  svaz ve znamení řady aktivit, nových výzev a několika změn O všem podstatném informují
-  průběžně webové stránky, průřez činností za poslední půlrok přináší i aktuální číslo
-  hemofilického zpravodaje\nBylo nám potěšením se s vámi setkávat při společných akcích,
-  na které bychom chtěli navázat i v roce příštím Díky také některým členům, kteří
-  se aktivním způsobem snaží zapojit do dění ČSH Ve společném úsilí určitě nepolevíme\nPřejeme,
-  aby vám Vánoce přinesly hodně radosti, pohodu v rodině i mezi blízkými a přáteli
-  Někteří se zamýšlí a stanovují nové cíle a předsevzetí, která bývají někdy velmi
-  odvážná a která si většinou stanovujeme s novoročním účinkem Přidejme k nim prosím
-  úctu ke svým bližním, toleranci a pochopení pro názory druhých a oproštění se od
-  všech malicherností, aby byl pro nás všechny každý den nastávajícího roku 2018 příjemně
-  prožitým\nŠťastné a veselé!\nRada ČSH\n"
+  v této době pociťujeme víc než kdy jindy potřebu pospolitosti"
 featured-image: images/uvodnik-clanku-foto/vanoce_2017_2.jpg
 joomla_id: 316
 joomla_url: svatecni-cas-nastava

@@ -12,46 +12,7 @@ excerpt: 'Světový den hemofilie si každoročně připomínáme od roku 1989 v
   zdravotníky, sousedy i dalšími a najít pochopení a podporu Během Světového dne hemofilie
   si lidé solidarizující s hemofiliky oblékají červenou barvu a členské organizace
   WFH se připojují k celosvětovému projektu „Rozsviťte červená světla“ Červená barva
-  je totiž symbolem tohoto krevního onemocnění
-
-  Moto letošního dne hemofilie je: „Sdílením znalostí a zkušeností jsme silnější“
-
-  Český svaz hemofiliků organizuje u příležitosti Světového dne hemofilie už řadu
-  let akce rozšiřující ve veřejnosti povědomí o hemofilii Nejinak je tomu i letos,
-  osvěta pomalu mění vnímání tohoto onemocnění Znalosti a vzdělávání jsou klíčovými
-  faktory pro silnější podporu lidí s vrozeným krvácivým onemocněním Matky, které
-  přivedou na svět hemofilika, se mnohdy setkávají s odsudky okolí S nepochopením
-  lékařů i svého okolí se někdy setkávají i ženy takzvané přenašečky hemofilie Kvůli
-  řadě mýtů a stigmatizaci má onemocnění značný vliv na psychiku Důležitým a hlavním
-  tématem letošního roku zůstává spolupráce se záchrannými službami a urgentními příjmy
-  Všem těmto záležitostem se svaz ve spolupráci se sesterským Hemojuniorem intenzivně
-  věnuje
-
-  Česká televize 2242018http://wwwceskatelevizecz/porady/1097181328-udalosti/218411000100422/video/615223
-
-  TV Barrandov 1742018https://wwwbarrandovtv/video/124590-nase-zpravy-17-4-2018 /reportáž
-  začíná od 12:27 minuty/
-
-  Týdenczhttps://wwwtydencz/rubriky/zdravi/ztrata-srazlivosti-krve-u-plodu-nema-byt-duvod-k-interrupci_475993html
-
-  PharmNewshttp://wwwpharmnewscz/cz/aktuality/10877/osveta-meni-vnimani-hemofilie-kvuli-rade-mytu-a-stigmatizaci-ma-onemocneni-znacny-vliv-na-psychiku
-
-  Medical Tribune CZhttps://wwwtribunecz/clanek/43193-hemofilie-diagnoza-nejpozdeji-do-druhych-narozenin
-
-  Český rozhlas 1742018http://wwwrozhlascz/radiozurnal/zaznamy/#/2018-04-17/13 /zprávy
-  ve 13:00 hodin/
-
-  Nové informační webové stránky
-
-  Pro lepší informovanost laické veřejnosti vytvořila společnost Roche ve spolupráci
-  s lékaři, psychology i samotnými hemofiliky edukační stránku wwwmenimehemofiliicz
-  Ta obsahuje nejen nejnovější poznatky o vzniku, průběhu a možnostech léčby tohoto
-  onemocnění, ale také sekci Mýty o hemofilii
-
-  Funkční je i nová podoba stránek http://wwwhemofiliecz, kterou provozuje společnost
-  Shire ty přinášejí informace o krvácivých onemocněních pro širší veřejnost
-
-'
+  je totiž symbolem tohoto krevního onemocnění'
 featured-image: images/loga/whd_2013.jpg
 joomla_id: 334
 joomla_url: sdilenim-znalosti-a-zkusenosti-jsme-silnejsi

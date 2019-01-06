@@ -5,13 +5,7 @@ date: 2015-01-22 11:48:52
 excerpt: "O účelnosti a prospěšnosti profylaxe nikdo dávno nepochybuje Ne každý ale
   úplně přesně ví, co si pod tím termínem představit \nProto přinášíme informační
   materiál Světové federace hemofilie WFH, který vše podstatné shrnuje Text si můžete
-  přečíst tady na webu, případně si ho stáhnout a vytisknout\nProfylaxe se stává standardem
-  nejen u dětí, ale i dospělých Útlá brožurka může posloužit nejen samotným našim
-  členům, ale třeba i stále se rozšiřujícímu počtu agentur domácí péče, které přicházejí
-  do domácností, aby pomohly tam, kde autoaplikace koncentrátu momentálně nebo trvale
-  nepřichází v úvahu\nVše je k dispozici tady, anebo můžete navštívit sekci Dokumenty
-  a podívat se, co všechno je členům svazu k dispozici Kdo si nedokáže informace vytisknout,
-  může vyplnit objednávkový formulář a my mu zašleme text poštou  "
+  přečíst tady na webu, případně si ho stáhnout a vytisknout"
 featured-image: images/uvodnik-clanku-foto/profylaxe.jpg
 joomla_id: 216
 joomla_url: prectete-si

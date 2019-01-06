@@ -12,20 +12,7 @@ excerpt: 'Když se člověk s hemofilií poraní, nekrvácí rychleji nebo více
   členové našeho svazu se z vlastní iniciativy odhodlali přiblížit život s hemofilií
   formou společného povídání, které proběhne v sobotu 2122017 od 1700 do 2200 hodin, v NãPLAVKA
   café & music bar v Hradci Králové Účast přislíbil i šéf místního hemofilického centra
-  Doc MUDr Petr Dulíček
-
-  Součástí programu bude prodejní výstava obrazů náchodského ateliéru AMAG a dětí
-  z Letního hemofilického tábora, ta potrvá v NáPLAVKA café celý prosinec Vernisáž
-  se uskuteční také první prosincovou sobotu v odpoledních hodinách Na benefičním
-  koncertu zahraje kapela Živý Jukebox Honzy Roušara Dobrovolným vstupným můžete podpořit
-  Český svazu hemofiliků ve snaze při jednotné identifikaci a informovanosti hemofiliků
-  při úrazech, a dalších akutních událostech
-
-  Zváni jsou úplně všichni, které dané téma zajímá a není pro ně překážkou vzdálenost
-  do Hradce Králové Místa je dost, vstupenky ani rezervace místa není nutná
-
-
-'
+  Doc MUDr Petr Dulíček'
 featured-image: images/uvodnik-clanku-foto/hemofilie%20titulka.jpg
 joomla_id: 310
 joomla_url: vite-co-je-hemofilie-sourozenci-vam-napovi

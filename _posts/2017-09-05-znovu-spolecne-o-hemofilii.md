@@ -11,36 +11,7 @@ excerpt: 'Srdečně zveme členy svazu i Hemojunioru na další ročník mezigen
   Kompletní odborný program je soustředěn na sobotu, začátek předpokládáme v 9:00
   a ukončení v 16:00 Přijet ale můžete už o den dříve, v hotelu bude k dispozici ubytování
   Zúčastnit se mohou v jakémkoliv počtu i nečlenové svazu, rozdílný je jen účastnický
-  poplatek
-
-   !!! Termín uzávěrky přihlášek je neděle 17září 2017 !!!
-
-  Letos dostanou víc prostoru individuální konzultace a workshopy v menších skupinkách
-  Znovu jsme pozvali odborníky na hematologii, fyzioterapii, psychologii a ortopedii,
-  ale pro praktické rady i zdravotní sestru Využijte tedy jejich přítomnosti a druhý
-  říjnový víkend si rezervujte Zájem můžete projevit už teď, přihlašovací formulář
-  je dispozici do 17 září pod tímto odkazem Po tomto datu se už přihlásit nebude možné
-
-  Poplatky zůstávají beze změn, členové ČSH a Hemojunioru zaplatí 500,- Kč, nečlenové
-  1000,- Kč, děti členů do 18 let mají přístup zdarma, děti nečlenů za 500,- Kč To
-  se týká jen těch, kdo využijí noclehu z pátku na sobotu Členové ČSH a Hemojunioru,
-  kteří v hotelu přespávat nebudou a zúčastní se jen sobotního odborného programu,
-  zaplatí 200,- Kč, nečlenové 400,- Kč, děti členů do 18 let mají vše zdarma, za děti
-  nečlenů je třeba zaplatit 200,- Kč Účastnický poplatek zahrnuje i celodenní občerstvení
-
-  Zašlete ho prosím na účet ČSH bankovním převodem nejpozději do 6 října V případě,
-  že do uvedeného data poplatek neuhradíte, budeme nuceni rezervace zrušit
-
-  Bankovní spojení:  UniCredit Bank Účet číslo: 2109200873/2700 Do zprávy pro příjemce
-  uveďte celé jméno a poznámku TOP HOTEL
-
-  V případě zájmu můžeme zprostředkovat prodloužené ubytování v Top hotelu i ze soboty
-  na neděli, případně na další dny Hotel si účtuje za jednolůžkový pokoj 2013,- Kč,
-  za dvoulůžkový 2243,- Kč, cena zahrnuje snídani a městský poplatek
-
-  Součástí setkání bude také sobotní výroční Konference ČSH, podle stanov tentokrát
-  volební Všichni členové svazu projednají důležité zásadní otázky a budou volit složení
-  Rady ČSH na další období Předpokládaný začátek konference je v 16:00 hod'
+  poplatek'
 featured-image: images/uvodnik-clanku-foto/spolecne%20o%20hemofilii_2017.jpg
 joomla_id: 302
 joomla_url: znovu-spolecne-o-hemofilii

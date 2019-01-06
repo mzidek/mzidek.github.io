@@ -7,34 +7,7 @@ excerpt: 'Po úspěšném loňském setkání s názvem „Jsme tady pro vás“
 
   Opět v krásném prostředí hotelu Jezerka v CHKO Železné hory u Sečské přehrady, opět
   s bohatým programem Jen s tím rozdílem, že si ho o jeden den prodloužíme Sejdeme
-  se už v pátek 19 září dopoledne a Jezerku opustíme v neděli 21 září
-
-  Přijeďte se dovědět něco nového, setkat se s přáteli i odborníky z řad lékařů, psychologů
-  a sociálních pracovníků Programem navážeme na workshopy z minulého roku, o malé
-  děti se ve speciálních koutcích postarají profesionální chůvy K dispozici bude samozřejmě
-  vyhlášené wellness s několika typy sauny, parních a aromatických lázní, masážemi
-  a dalšími atrakcemi, nudit se nebude nikdo Každý si najde, na co je zvyklý, anebo
-  vyzkouší v přátelském prostředí něco nového
-
-  Členové svazu i Hemojunioru s hemofilií nebo von Willebrandovou chorobou a děti
-  do osmnácti let mají všechno zdarma Rodinný příslušník nebo jiný dospělý doprovod
-  zaplatí symbolickou částku 1000,- Kč, podstatnou část nákladů na noclehy, jídlo
-  a provoz wellness doplatí ČSH Zájem o účast můžete projevit prostřednictvím této
-  přihlášky, ale pozor, nejpozději do 31 července 2014 Proto neotálejte, hotel Jezerka
-  není nafukovací a ne na všechny se musí dostat
-
-  Modelové situace:
-
-
-  jeden dospělý s hemofilií nebo vW a jedním doprovodem zaplatí 1000,- Kč
-
-  dítě s hemofilií nebo vW a jedním dospělým v doprovodu mají účast zdarma, každý
-  další dospělý si připlatí 1000,- Kč
-
-  čtyřčlenná rodina se dvěma dětmi a dvěma dospělými zaplatí 1000,- Kč
-
-
-  Vzpomínku na Jezerku 2013 naleznete v tomto článku'
+  se už v pátek 19 září dopoledne a Jezerku opustíme v neděli 21 září'
 featured-image: images/fotogalerie/workshopy/jezerka/snmek38%201024x576.jpg
 joomla_id: 198
 joomla_url: znovu-jsme-tady-pro-vas

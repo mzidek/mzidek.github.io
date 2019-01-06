@@ -10,31 +10,7 @@ excerpt: 'Světová zdravotnická orhanizace WHO označila virus zika za ohrože
   WHO odhaduje, že v tomto roce by mohly být zasaženy až čtyři miliony lidí na celém
   světě Je spojován s tisíci podezřelých případů vrozených vad v Brazílii Šíří se
   kousnutím infikovanými komáry Aedes aegypti, po němž se virus dostává do krevního
-  řečiště
-
-  Je relativně velký 40 nm s lipidovým obalem, a poskytuje tak vysokou pravděpodobnost,
-  že bude úspěšně inaktivován teplem, detergenty a nanofiltračními metodami používanými
-  při výrobě výroba léčivých přípravků z plazmy Včetně koncentrátů FVIII a FIX, přenos
-  infekce krevními složkami je tak spíše potenciální problém Případný přenos je možný
-  jen krví od dárců vracejících se z postižených oblastí Proto se odborníci domnívají,
-  že je vhodný dočasný odklad o 28 dnů u dárců, kteří cestovali do postižených oblastí
-
-  Virus byl poprvé objeven v lese Zika v Ugandě v roce 1947 a je běžný v Africe a
-  Asii V květnu 2015, se začal šířit z Brazílie do dnes 21 zemí v Jižní a Střední
-  Ameriky, Mexika a Karibiku 60 - 80% nakažených nemá žádné příznaky, většina ostatních
-  jen mírné Především trpí horečkou a bolestí svalů, vyrážkou a červenýma očima Existuje
-  ale velký problém v souvislosti s možným dopadem na těhotné ženy V minulém roce
-  zaznamenala Brazílie výrazný nárůst výskytu mikrocefalie (neobvykle malým mozkem)
-  u novorozenců s podezřením důsledku infekce virem Zika u těhotné matky
-
-  Došlo také ke zvýšení počtu případů syndromu Guillain-Barrém, pravděpodobně jako
-  imunitní odpovědi na virus Neoficiální zprávy hovoří o přenosu krevní transfuzí
-  a pohlavním stykem, případy viru zika jsou hlášeny z několika zemí u lidí, kteří
-  cestovali do postižených zemí, zejména Brazílie
-
-  Světová federace hemofilie (WFH) situaci sleduje a bude informovat okamžitě, jakmile
-  by se vyskytlo podezření na jakékoliv potenciální riziko viru Zika v koagulačních
-  derivátech vyrobených z plazmy'
+  řečiště'
 featured-image: images/uvodnik-clanku-foto/zika.jpg
 joomla_id: 265
 joomla_url: viru-zika-se-neni-treba-bat

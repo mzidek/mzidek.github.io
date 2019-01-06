@@ -8,24 +8,7 @@ excerpt: 'Panely s fotografiemi členů svazu i Hemojunioru s názvem „Každ
 
   Obrázky vznikly vloni a už se prezentovaly například v pražském obchodním domě Kotva
   a při několika dalších příležitostech O jejich vznik i instalaci výstavy se stará
-  firma Bayer, od níž tento nápad přišel
-
-  Včerejší vernisáže ve Fakultní nemocnici v Hradci Králové se zúčastnili všichni
-  vrcholní představitelé instituce, firmy Bayer a Českého svazu hemofiliků Hned první
-  den vzbudila expozice zájem mnoha příchozích Každá fotografie je opatřena příběhem
-  portrétovaného, bez popisku by byl dojem poloviční Obraz i text tak vypovídají spoustu
-  zajímavého o životě mladých i starších hemofiliků
-
-  [widgetkit id=34]
-
-  Výstavu připravenou k úternímu Světovému dni hemofilie můžete navštívit do 3042012
-  ve třetím patře pavilonu číslo 23 královéhradecké nemocnice Jejím dalším hostitelem
-  bude Fakultní nemocnice v Brně – Bohunicích a nakonec také v pražském Motole Další
-  podrobnější informace naleznete v těchto dokumentech
-
-  Tisková zpráva | |pdf
-
-  Propagační letáček výstavy | |pdf'
+  firma Bayer, od níž tento nápad přišel'
 featured-image: images/uvodnik-clanku-foto/vystava.jpg
 joomla_id: 91
 joomla_url: putovni-vystava-se-vydala-na-cesty

@@ -2,12 +2,8 @@
 author: Martin Bohůn
 category: Hemofilické dny
 date: 2016-04-26 10:57:11
-excerpt: 'Pořízené fotografie v rámci oslav Světového dne hemofilie na zámku Loučeň
+excerpt: Pořízené fotografie v rámci oslav Světového dne hemofilie na zámku Loučeň
   dne 2342016
-
-  [widgetkit id=90]
-
-  [widgetkit id=89]'
 joomla_id: 275
 joomla_url: zamek-loucen-oslavy-svetoveho-dne-hemofilie
 layout: post

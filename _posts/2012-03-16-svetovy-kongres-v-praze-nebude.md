@@ -5,39 +5,7 @@ date: 2012-03-16 07:02:36
 excerpt: 'Naděje na to, že bude v Praze světový hemofilický kongres v roce 2016 nebo
   2018, definitivně padla
 
-  Svazová rada dostala z kanadského centra nepříjemné rozhodnutí
-
-  Do závěrečného semifinále, o jehož vítězích rozhodoval výkonný výbor WFH v Kanadě,
-  se dostalo šest kandidátů: Kanada, USA, Mexiko, Skotsko, Irsko a ČR Dva museli vypadnout,
-  na letošním červencovém kongresu v Paříži budou delegáti všech členských zemí rozhodovat
-  hlasováním o definitivních pořadatelích vždycky ze dvouČlenové výboru v uplynulých
-  dnech rozhodli, že do pařížského hlasování pošlou USA (Miami), Kanadu (Montreal),
-  Mexiko (Guadalajara) a Skotsko (Glasgow) Vypadly Praha a Dublin
-
-  V oficiálním dopise se píše, že všichni kandidáti odvedli perfektní práci, rozhodování
-  bylo mimořádně těžké, ale je prostě takové Předseda Rady ČSH pak dostal ještě pár
-  osobních řádek od prezidenta WFH Marka Skinnera s vyjádřením lítosti nad rozhodnutím,
-  protože Praha předložila skvělou kandidaturu To je sice hezké, ale málo platné
-
-  Rozhodnutí je poněkud překvapivé, hlavně v tom, že podle předpokladů se měla u obou
-  termínů utkat vždycky města z Ameriky a Evropy, podle zákulisních informací měli
-  všichni za to, že v roce 2016 vyhraje některé americké město a o dva roky později
-  evropské V zájmu střídání kontinentů, protože teď bude Paříž a za dva roky australská
-  Melbourne Takhle to má Glasgow prakticky jisté, protože těžko se bude kongres pořádat
-  dva roky po sobě v Americe
-
-  Pro náš svaz je to obrovská škoda Nejen z prestižních důvodů, ale i finančních,
-  protože tak mamutí podnik, jehož se účastní kolem 4000 delegátů, přináší pořadatelské
-  federaci značný ekonomický prospěch Tak snad někdy příště, letos se v říjnu uskuteční
-  v Praze kongres evropské úrovně (EHC), což rovněž není špatné
-
-  Rada svazu by chtěla opravdu srdečně poděkovat dvěma institucím, které mají na přípravě
-  kandidatury skutečně lví podíl: Prague Convention Bureau a kongresové agentuře Czech-in
-  Oba útvary do toho vložily nemálo úsilí, ale i finančních prostředků, které přišly
-  takto vniveč Ale tak už to v kongresovém byznysu chodí a riziko podnikání je značné
-
-  Ještě jednou poděkování všem zúčastněným za desítky a desítky hodin práce, určitě
-  není všem dnům konec'
+  Svazová rada dostala z kanadského centra nepříjemné rozhodnutí'
 featured-image: images/foto-web/www.wfh.org.jpg
 joomla_id: 75
 joomla_url: svetovy-kongres-v-praze-nebude

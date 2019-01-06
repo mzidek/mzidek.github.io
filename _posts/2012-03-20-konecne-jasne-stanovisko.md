@@ -6,36 +6,7 @@ excerpt: 'Jak už dobře víte, ještě na starém webu jsme začali dopisován�
   o jeho rozhodování o domácí léčbě
 
   Protože jsme o vyjádření požádali také Ministerstvo zdravotnictví a Všeobecnou zdravotní
-  pojišťovnu, nechceme vám zůstat jejich reakce dlužni
-
-  Nejprve dopis od ministerstva zdravotnictví
-
-   MZpdf
-
-  Z dopisu tedy jednoznačně vyplývá, že SÚKL se dopustil hrubých chyb a jeho rozhodnutí
-  je protizákonné Verdikt je sice obalen mnohomluvným zdůvodněním, ale dá se předpokládat,
-  že to nejdůležitější je jasné – nic se měnit nebude O to víc udivuje, že oba ředitelé
-  – ten odvolaný i jeho dočasně jmenovaný nástupce – ještě před pár dny trvali na
-  svém
-
-  Požádali jsme o stanovisko také ředitele VZP Pavla Horáka, na něhož si hemofilici
-  rozhodně nemohli nikdy stěžovat Byl to právě on, kdo vždycky jejich zájmy hájil
-  I jeho reakce je poměrně obsáhlá a zcela se v ní neorientuje každý, to podstatné
-  najdeme v úvodu třetího odstavce
-
-   VZPpdf
-
-  Snad se tedy nic nezmění a SÚKL při novém projednávání případů bude postupovat správně
-  Lze se jen pozastavit nad tím, kolik lidí se muselo případem zabývat, kolik to stálo
-  energie i jistých nákladů
-
-  Související články:
-
-  Marnost nad marnost
-
-  Výměna názorů se SÚKLem
-
-  Myslí to SÚKL opravdu vážně'
+  pojišťovnu, nechceme vám zůstat jejich reakce dlužni'
 featured-image: images/uvodnik-clanku-foto/mz.jpg
 joomla_id: 78
 joomla_url: konecne-jasne-stanovisko

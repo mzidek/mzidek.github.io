@@ -10,26 +10,7 @@ excerpt: 'Svazová rada dostala z Bruselu kopii dopisu, jejž Evropské hemofil
   Kritéria pro přiznání akreditace stanovili na počátku odborníci velmi jednoznačně,
   všechny národní federace, jako je ČSH, podmínky dostaly a předaly je centrům I ČSH
   tak učinil a vyzval centra, která mají o mezinárodní akreditaci zájem, o zaslání
-  přihlášky
-
-  Evropská centra jsou také dvojí, jednak Comprehensive Care Center (CCC – respektive
-  teď ECCC) a Hemophilia Treatment Center (EHTC) Vyšší stupeň ECCC musí splňovat požadavek
-  například na dostupnost všech odborností, jako je chirurgie, stomatologie, ortopedie,
-  fyzioterapie a podobně ECCC také musí mimo jiné registrovat nejméně 40 těžkých hemofiliků
-  nebo nemocných von Willebrandovou chorobou, EHTC minimálně 10 lidí s těžkou hemofilií
-
-  V dopise ministru zdravotnictví EHC sděluje, že v Česku dostala akreditace čtyři
-  centra – ECCC pražský ÚHKT a brněnská a ostravská fakultní nemocnice, FN Plzeň může
-  užívat označení EHTC Statut evropského centra byl přiznán na základě vyplnění dotazníku,
-  nikdo z evropských orgánů pravdivost neověřoval, spoléhá se na pravdivost uvedených
-  údajů Jinak by zřejmě FN Brno statut nezískala, protože přes veškerou snahu ČSH
-  i brněnských hematologů tam stále nefunguje nesmírně důležitá ortopedie a její roli
-  supluje pražské hemofilické centrum
-
-  Součástí dopisu je i seznam všech 113 center z 31 zemí Seznam evropských akreditovaných
-  center
-
-  Seznámit se s ním může být při cestách po evropských zemích velmi užitečné  '
+  přihlášky'
 featured-image: images/uvodnik-clanku-foto/ehc-membership.jpg
 joomla_id: 251
 joomla_url: evropske-akreditace-center

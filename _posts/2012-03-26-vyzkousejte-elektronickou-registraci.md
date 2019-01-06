@@ -2,30 +2,14 @@
 author: Martin Bohůn
 category: Rady k léčbě
 date: 2012-03-26 08:03:18
-excerpt: "Už léta slibujeme možnost elektronického vykazování spotřeby koncentrátů
-  a online přístup k základním údajům Už je to tady, můžete si to vyzkoušet \nBrněnský
-  Institut biostatistiky a analýz připravil databázi, kterou mohou společně využívat
-  hemofilická centra a jejich klienti Je třeba, aby každý požádal své centrum o zavedení
-  a zpřístupnění registru Centrum sem zapíše všechny údaje, které vede běžně v kartě
-  Nejdůležitější na tom je, že každý bude mít přístup ke svým základním údajům kdekoliv
-  na světě\nBrněnský Institut biostatistiky a analýz připravil databázi, kterou mohou
-  společně využívat hemofilická centra a jejich klienti Je třeba, aby každý požádal
-  své centrum o zavedení a zpřístupnění registru Centrum sem zapíše všechny údaje,
-  které vede běžně v kartě Nejdůležitější na tom je, že každý bude mít přístup ke
-  svým základním údajům kdekoliv na světě\nVíme dobře, že leckdy bývá v případě nouze
-  těžká domluva s lékaři někde ve světě , ale i u nás doma Nemají prostě dostatek
-  informací Teď k identifikační kartičce, o kterou může požádat ČSH každý, přibude
-  ještě rozsáhlejší zdravotní záznam\nSamotným hemofilikům a pacientům s von Willebrandovou
-  chorobou pak nastává možnost vyplňovat spotřebu koncentrátů online na příslušném
-  elektronickém formuláři Tím odpadá nutnost vyplňovat ten papírový Každé centrum
-  tak bude mít průběžný přehled o spotřebě koncentrátů svých klientů Je to zase přiměje
-  k vyplňování podle skutečnosti a ne pak dopsat záznam hromadně při další návštěvě
-  centra pro další dávku derivátů\nJe to další krok k přiblížení se vyspělým zemím,
-  kde něco podobného funguje už dlouho Vyzkoušejte si to nahlédnutím na https://trialscbamunicz/trialdb2/interface_forms/login_cnhpasp,
-  kde se můžete se systémem seznámit blíže Přihlašovací údaje jsou následující: Login:
-  CNHP_PATIENT  Heslo: TEST \nK dispozici je i podrobný uživatelský manuál, který
-  zveřejňujeme i na našich stránkách mezi dalšími užitečnými odkazy v sekci Dokumenty,
-  a nebo si ho otevřete rovnou pod tímto odkazem"
+excerpt: 'Už léta slibujeme možnost elektronického vykazování spotřeby koncentrátů
+  a online přístup k základním údajům Už je to tady, můžete si to vyzkoušet 
+
+  Brněnský Institut biostatistiky a analýz připravil databázi, kterou mohou společně
+  využívat hemofilická centra a jejich klienti Je třeba, aby každý požádal své centrum
+  o zavedení a zpřístupnění registru Centrum sem zapíše všechny údaje, které vede
+  běžně v kartě Nejdůležitější na tom je, že každý bude mít přístup ke svým základním
+  údajům kdekoliv na světě'
 featured-image: images/symboly/klavesnice.jpg
 joomla_id: 81
 joomla_url: vyzkousejte-elektronickou-registraci

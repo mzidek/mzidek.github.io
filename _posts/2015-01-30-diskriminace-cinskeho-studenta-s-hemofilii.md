@@ -10,23 +10,7 @@ excerpt: '
   Teď už bývalý student chce údajně univerzitu zažalovat pro neoprávněnou diskriminaci
   Ta se brání poukazem na směrnici ministerstva školství z roku 2003, jež stanoví,
   že studenti mohou být pro závažné onemocnění krve, metabolizmu či revmatické potíže,
-  odmítnuti
-
-  Zheng Qing (není to jeho pravé jméno) přitom studuje žurnalistiku, kde mu hemofilie
-  v ničem nebrání Právní zástupce studenta uvedl, že taková směrnice se může uplatnit
-  jen v okamžiku, kdy někdo není schopen studia dokončit, anebo se sám o sebe starat
-
-  „To rozhodně případ mého klienta není, ale univerzita na něj vyvíjela soustavný
-  tlak už od září loňského roku,“ dodává právník Wang Qiushi, který žalobce před okresním
-  soudem v Pekingu zastupuje Není ovšem vůbec jisté, zda soud vezme žalobu v úvahu
-
-  Čína tak získala neslavný primát, protože ve světě žádný podobný případ zaznamenán
-  nebyl Hemofilické organizace z mnoha zemí celého světa u čínských orgánů proti nesmyslně
-  diskriminačnímu postupu univerzity protestují Připojily se i Český svaz hemofiliků
-  a Hemojunior a zaslaly čínskému velvyslanectví v Praze protestní dopisy
-
-  Také ČSH se připojil k mezinárodním protestům a zaslal čínskému velvyslanectví tento
-  dopis'
+  odmítnuti'
 featured-image: images/uvodnik-clanku-foto/cina.png
 joomla_id: 218
 joomla_url: diskriminace-cinskeho-studenta-s-hemofilii

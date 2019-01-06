@@ -8,70 +8,7 @@ excerpt: 'S novým rokem přichází již slíbené další informace k tradi�
   Opět začínáme hned po vysvědčení, tábor proběhne v termínu od 30 června do 14 července
   2018 ve známé lokalitě Rekreačního střediska Zubří u Nového Města na Moravě Můžete
   se těšit na osvědčený tým vedoucích a zdravotníků z předcházejících let, hlavním
-  vedoucím bude Vojtěch Horník
-
-  Jak jsme již avizovali v Hemofilickém zpravodaji, vzhledem ke zvýšení ceny ze strany
-  ubytovatele jsme nuceni zvýšit pobytový poplatek za tábor I nadále ponecháme vytvořeny
-  3 kategorie tak, aby byli co nejvíce zvýhodněni účastníci s hemofilií nebo von Willebrandovou
-  chorobou Pro letošní rok budou tedy poplatky v následující výši:
-
-
-  3300,-  Kč pro účastníky s hemofilií nebo von Willebrandovou chorobou
-
-
-
-  5300,-  Kč pro jejich sourozence
-
-
-
-  7560,-  Kč pro ostatní účastníky
-
-
-  V ceně je zahrnuto:
-
-
-  Doprava dětí z a do Prahy, v případě zájmu i Ostravy, Olomouce a Brna
-
-
-
-  Ubytování, strava (5x denně + celodenní pitný režim)
-
-
-
-  Základní úrazové pojištění
-
-
-
-  Doprava na výlety
-
-
-
-  Celkový chod tábora
-
-
-  Přihlašovat se lze pouze elektronicky, vyplněním tohoto formuláře Prosíme, abyste
-  všechny údaje v přihlášce vyplňovali pečlivě Do 14 dnů od odeslání formuláře očekávejte
-  e-mailem potvrzení, že jsme přihlášku zaevidovali V případě, že by Vám potvrzení
-  nepřišlo, ozvěte se prosím na e-mailovou adresu hornikvojta@gmailcom, případně na
-  tel 739 472 735 (Vojtěch Horník)
-
-  Termín pro podávání přihlášek je do 28 února 2018, nicméně pokud máte zájem se tábora
-  zúčastnit, s přihlašováním neotálejte V minulých letech počty účastníků tábora rostly
-  a tak upozorňujeme, že není vyloučeno, že pozdním přihlášeným nebudeme moci i přes
-  veškerou snahu zaručit účast na táboře
-
-  Tábora se mohou zúčastnit děti, které absolvovaly nejméně první třídu základní školy,
-  horní věková hranice je 18 let Připravujeme již tradičně společnou dopravu z Prahy
-  a v případě dostatečného zájmu i z Ostravy s případnými zastávkami na okraji Olomouce
-  a Brna Samozřejmě je možné dovézt své ratolesti do místa konání tábora osobně
-
-  Přihlášeným účastníkům budou podrobnější informace o táboře, dopravě, platbách apod
-  zaslány v průběhu první poloviny dubna
-
-  V případě jakýchkoliv dotazů neváhejte kontaktovat hlavního vedoucího na výše uvedených
-  kontaktních údajích
-
-  Těšíme se na Vaši hojnou účast'
+  vedoucím bude Vojtěch Horník'
 featured-image: images/uvodnik-clanku-foto/lht2018.jpg
 joomla_id: 318
 joomla_url: letni-hemofilicky-tabor-2018

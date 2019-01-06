@@ -7,51 +7,7 @@ excerpt: "Za posledních pět let se stal podzim obdobím, kdy hemofilici všech
   bylo i letos \nDruhý říjnový víkend sezval všechny účastníky do největšího kongresového
   prostoru v Top hotelu Praha Pro malé i velké tak bylo dobrodružstvím proplést se
   místním labyrintem chodeb Nikdo však nezabloudil a téměř sto padesát účastníků mohlo
-  užívat společných chvil s přáteli a odborníky na slovo vzatými\nPo pátečním příjezdu
-  a noclehu začal den nabitý spoustou novinek Informace se týkaly nejen léčby hemofilie,
-  ale i praktických ukázek autoaplikace, fyzioterapie a mobilního ultrazvuku Dopolední
-  blok přednášek otevřel nynější expředseda svazu PhDr Vladimír Dolejš Zaplněný sál
-  vyslechl prezentaci výsledků druhého dílu průzkumu ze života českých hemofiliků
-  Nutno podotknout, že data v některých směrech korespondují s výsledky z roku 2011
-  Přesto však je spousta těch, která vykazují jednoznačný pokrok v léčbě hemofilie
-  V této souvislosti je i řada respondentů spokojena s celkovou péčí, která se jim
-  dostává Výsledky průzkumu budou brzy prezentovány prostřednictvím našeho webu Doporučujeme
-  tedy věnovat patřičnou pozornost těmto zajímavým datům V druhé přednášce se slova
-  ujal prim MUDr Jan Blatný PhD, který v úvodu porovnal nynější péči s tou, která
-  u nás byla před rokem 90 Dotkl se témat jako: léčba kryoprecipitáty; dlouhé cestování
-  hemofiliků za léčbou; HCV; trvalé poškození kloubního aparátu; rozsáhlá krvácení
-  (do zažívacího traktu, CNS); prevence a apel nejen na současnou, ale i starší generaci
-  v dodržování léčby Závěr pak patřil aktuálním datům z registru ČNHP \nTřetí část
-  dopoledního programu již patřila sekci workshopů a individuálních konzultací Témat
-  bylo mnoho, a tak si každý mohl najít to své Při konzultacích se řešily individuální
-  otázky totální nedoprotézy, farmakokinetiky i nutnost profylaxe Mgr Milan Pilát
-  se pro letošní rok zaměřil na výchovu hemofiliků a Mgr Petra Bučková otevřela nově
-  témata, která trápí přenašečky hemofilie Správné postupy při fyzioterapeutickém
-  cvičení individuálně řešily Mgr Marie Katzerová a Mgr Karolína Ptáková Tradiční
-  workshopy doplnil letos ostravský ortoped MUDr Richard Kašpárek, který se svým mobilním
-  ultrazvukem monitoroval klouby přítomných hemofiliků Ultrazvuk se na místě velmi
-  osvědčil, neboť při jednom náhodném vyšetření rozpoznal akutní krvácení do kyčelního
-  kloubu Z letošních novinek bychom ještě rádi zmínili dva workshopy Ten první vedla
-  zdravotní sestřička Katka Krupová a pomocníkem jí byl model lidské ruky vyrobený
-  ze silikonu Na něm si zájemci mohli nacvičit správný postup nitrožilní aplikace
-  Simulace vpichování injekce je naprosto identická se zaváděním injekce do skutečné
-  ruky\n[widgetkit id=103]\nV druhém případě se jednalo o workshop pro starší děti
-  a dospívající, který připravila Jana Kalábová V přátelském kruhu si poprvé současná
-  a starší generace povídala o svých trápeních s hemofilií Malí a mladí hemofilici
-  i jejich přátelé naživo pocítili výrazné rozdíly mezi současnou léčbou a přístupem
-  k hemofilii před rokem 1990  Děti se od těch starších mohly dozvědět, jaké patálie
-  musely prožívat, když v naší zemi domácí léčba nebyla Debata ukázala dva velmi rozdílné
-  světy Na jedné straně život s velkým omezením a bolestí, na straně druhé život plný
-  aktivit, sportu a vizí do budoucna Zde se jednoznačně ukazuje, jak důležitou roli
-  sehrála a stále sehrává domácí léčba a profylaxe u hemofiliků Na generační setkání
-  navázal ještě krátký film věnovaný 75% všech lidí s poruchou srážlivosti krve, kterým
-  se léčba nedostává ani v dnešní době Přání, vzkazy či obrázky, které děti následně
-  vytvořily se Český svaz hemofiliků prostřednictvím Světové hemofilické organizace
-  pokusí doručit hemofilikům z rozvojových zemí\n[widgetkit id=104]\nSrdečně děkujeme
-  všem odborníkům za účast a čas, který tomuto setkání věnovali Akce proběhla za finanční
-  podpory společnosti Shire\nMezigenerační setkání bylo zakončeno konferencí a volbou
-  nové rady Českého svazu hemofiliků o jejímž průběhu vás informujeme v předešlém
-  příspěvku\nKompletní sbírku fotografií naleznete na hemofilickém rajčeti  "
+  užívat společných chvil s přáteli a odborníky na slovo vzatými"
 featured-image: images/uvodnik-clanku-foto/mali_i_velci.jpg
 joomla_id: 308
 joomla_url: informaci-neni-nikdy-dost

@@ -7,23 +7,7 @@ excerpt: 'Ve spolupráci s Hemofilickým centrem při FN Ostrava a společnost�
 
   Chceme tím při zvládání onemocnění pomáhat všem hemofilikům, jejich rodinným příslušníkům
   a partnerům Podobné podniky už úspěšně proběhly v Jihomoravském, Libereckém a Jihočeském
-  kraji
-
-  Srdečně zveme všechny zájemce k setkání s odbornými lékaři, fyzioterapeuty a psychology
-  Pohovořit si není nutné jen v ordinacích, ale i v příjemnějším a přirozenějším prostředí
-
-  Hemofilický den se uskuteční v sobotu 29 listopadu od 9:00 hodin v hotelu Imperial
-  Ostrava
-
-  Za zvlášť důležitou považujeme možnost si v klidu a diskrétně pohovořit s každým
-  z pozvaných hostů Pro děti je připraven zajímavý doprovodný program a k dispozici
-  bude i bazén s mořskou vodou Také se blíže seznámíte s aktivitami svazu pro členy
-  a uvítáme každý další návrh, o co by se mohly rozšířit
-
-  Zveme rodiče doprovázející dětského hemofilika a vždycky jeden doprovod dospělého
-  Pro ně je celý program zdarma Zájem zúčastnit se prosím projevte s uvedením telefonního
-  čísla emailem na info@hemofilicicz nebo telefonicky na 723 487 239 nejpozději do
-  30 října Po přihlášení obdržíte podrobnější informace s programem setkání'
+  kraji'
 featured-image: images/uvodnik-clanku-foto/ostrava.jpg
 joomla_id: 204
 joomla_url: hemofilicky-workshop-s-fn-ostrava

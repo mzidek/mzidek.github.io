@@ -8,27 +8,7 @@ excerpt: 'Řeč je o oslavách Světového dne hemofilie, který každoročně p
   Z raného středověku v zážitkovém parku Zeměráj povedou naše kroky severněji a další
   zastávkou bude barokní zámek Loučeň v okrese Nymburk Jeden z mála volných termínů
   byla sobota 23 dubna, a tak tento den bude na zámku patřit nejenom členům Českého
-  svazu hemofiliků a Hemojunioru, ale i jejich nejbližším
-
-  Registrace s drobným občerstvením započne v čase 930 a skončí v 1030 hod, následovat
-  bude prohlídka zámeckých prostor, společný oběd a historický program Dorazí rytíři
-  a snad i další pohádkové postavy Parkovat lze před zámkem naproti bráně, pro ty
-  hůře pohyblivé lze zajistit parkování v areálu zámku  
-
-  Zájem můžete projevit prostřednictvím přihlašovacího formuláře, který je vám k dispozici
-  nejpozději do úterý 5 dubna Pak musíme do Loučně nahlásit konečné počty všech přihlášených
-  Svůj zájem však projevte co nejdříve a nenechávejte vše na poslední chvíli V případě
-  velkého zájmu mohou být místa limitována 
-
-  Pokud by někdo uvítal možnost ubytování, lze vybrat z široké nabídky ať už přímo
-  v Loučni, nebo v jeho blízkém okolí např prostřednictvím wwwbookingcom V případě
-  zájmu lze využít zámeckého ubytování, domluvit se lze rovnou na recepci, tel 325
-  585 381 Ubytování si zajišťuje každý individuálně
-
-  Přijďte si s námi připomenout Světový den hemofilie a především se zase po roce
-  setkat v přátelské atmosféře Těšíme se na viděnou v Loučni!
-
-'
+  svazu hemofiliků a Hemojunioru, ale i jejich nejbližším'
 featured-image: images/uvodnik-clanku-foto/zamek-loucen-logo.jpg
 joomla_id: 266
 joomla_url: jiz-poosme-a-zase-jinak

@@ -9,67 +9,7 @@ excerpt: 'V krátkém časovém období si vás dovolujeme opět pozvat do metr
   důvodu a to u dalšího dílu regionálních workshopů Na toto setkání bychom rádi pozvali
   nejen dospělé hemofiliky i s doprovodem, ale také dětské hemofiliky s doprovodem
   rodičů (případně jen rodiče) Setkat se bude možné s odborníky z místního hemofilického
-  centra, kteří hemofilikům pomáhají řešit jejich zdravotní problémy
-
-  Účastníci se budou moci prakticky seznámit s vhodnými rehabilitačními postupy a
-  pod dohledem zkušených zdravotních sester provést nácvik aplikace koncentrátů na
-  modelech lidské ruky
-
-  Akce proběhne v den, kdy si připomínáme Světový den hemofilie, tedy 17 dubna od
-  1330 do 1800 hodin ve Výukovém centru Fakultní nemocnice Hradec Králové K účasti
-  je nutné se zaregistrovat, více informací naleznete v přiložené pozvánce zde!
-
-  PROGRAM: 
-
-
-
-   Doc MUDr Pavel Žák, PhD – úvodní slovo
-
-
-
-  Doc MUDr Petr Dulíček PhD: Léčba hemofilie ve východních Čechách 1989-2017 /15 minut/
-
-
-
-  Doc MUDr Petr Dulíček, PhD: Léčebné možnosti hemofilie v blízké budoucnosti /10
-  minut/
-
-
-
-  MUDr Zuzana Fiedlerová: Hepatitida C a hemofilie /10 minut/
-
-
-
-  MUDr Eva Ivanová: Nové směry v léčbě hemofilie /15 minut/
-
-
-
-  Mgr Michal Skořepa, Mgr Lukáš Koblasa:  Činnost Českého svazu hemofiliků v našem
-  regionu a identifikátory pro záchranáře a urgentní medicínu  /30 minut/
-
-
-
-  Mgr Marie Katzerová: Rehabilitace u hemofiliků /25 minut/
-
-
-
-  MUDr Jiří Hak: Farmakokinetika v léčbě v hemofilie u dětí /10 minut/
-
-
-
-  s Kateřina Krupová: Žilní vstupy u nemocných s hemofilií /10 minut/
-
-
-
-  s Jiřina Vašátková: Aplikace koncentrátů - praktické aspekty /10 minut/
-
-
-
-  Individuální konzultace s odborníky: rehabilitace, nácvik aplikace koncentrátů,
-  léčba hemofilie /30 minut/
-
-  Sponzoři akce: Hlavní sponzor: ShireOstatní: Octapharma, Pfizer, Novo Nordisk, Grifols,
-  Roche, Sobi, Bayer'
+  centra, kteří hemofilikům pomáhají řešit jejich zdravotní problémy'
 featured-image: images/uvodnik-clanku-foto/fn%20hradec.png
 joomla_id: 323
 joomla_url: prvni-regionalni-setkani-hemofiliku-v-kralovehradeckem-kraji

@@ -5,75 +5,7 @@ date: 2012-03-03 19:41:21
 excerpt: 'Kde žádat o jednotlivé sociální dávky
 
   Systém přiznávání a vyplácení nejrůznějších sociálních dávek se v poslední době
-  notně změnil Přinášíme ucelený přehled o tom, kde je třeba o jednotlivé dávky požádat
-
-  Krajská pobočka Úřadu práce je příslušná k rozhodování a vyplácení následujících
-  dávek:
-
-
-  podpora v nezaměstnanosti a podpora při rekvalifikaci
-
-  dávky státní sociální podpory
-
-
-  přídavek na dítě
-
-  příspěvek na bydlení
-
-  rodičovský příspěvek
-
-  dávky pěstounské péče
-
-  porodné
-
-  pohřebné
-
-
-
-  dávky pomoci v hmotné nouzi
-
-
-  příspěvek na živobytí
-
-  doplatek na bydlení
-
-  mimořádné okamžité pomoci
-
-
-
-
-
-  příspěvek na péči
-
-
-
-  dávky osobám se zdravotním postižením
-
-
-  příspěvek na mobilitu (nahrazuje příspěvek na provoz motorového vozidla a příspěvek
-  na individuální dopravu)
-
-  příspěvek na zvláštní pomůcku (zahrnuje pořízení zvláštní pomůcky, motorového vozidla,
-  vodícího psa, úpravy bytu)
-
-
-
-
-
-  průkaz osoby se zdravotním postižením
-
-
-  Obec s rozšířenou působností je příslušná k následujícím úkonům:
-
-
-  vydává parkovací průkaz označující vozidlo přepravující osobu těžce zdravotně postiženou
-  (označení O 7) a označení vozidla řízeného osobou sluchově postiženou (označení
-  O 2)
-
-
-  Velmi přehledně zpracovanou komplexní informaci i s návrhem pomoci v případě, že
-  u příslušného úřadu neuspějete, najdete na stránkách Veřejného ochránce práv (ombudsmana)
-  pod odkazem: http://wwwochrancecz/stiznosti-na-urady/chcete-si-stezovat/zivotni-situace-problemy-a-jejich-reseni/davky-pro-osoby-se-zdravotnim-postizenim/'
+  notně změnil Přinášíme ucelený přehled o tom, kde je třeba o jednotlivé dávky požádat'
 featured-image: images/symboly/cary.jpg
 joomla_id: 72
 joomla_url: kde-zadat-o-davky

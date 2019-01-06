@@ -7,11 +7,7 @@ excerpt: 'Animovaný průvodce kloubním krvácením a jeho následky
   Tento animovaný průvodce vám umožní nahlédnout přímo do kolenního kloubu a ukáže
   vám, co přesně se během krvácení děje 
 
-   
-
-   
-
-'
+   '
 featured-image: images/uvodnik-clanku-foto/kloub_play.jpg
 joomla_id: 184
 joomla_url: funkce-kloubu-pri-hemofilii-koleno

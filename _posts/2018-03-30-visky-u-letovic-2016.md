@@ -2,9 +2,7 @@
 author: Martin Bohůn
 category: Rekondice dospělých
 date: 2018-03-30 18:22:04
-excerpt: 'Fotografie z rekondičního pobytu dospělých ve Vískách u Letovic 2016
-
-  [widgetkit id=95]'
+excerpt: Fotografie z rekondičního pobytu dospělých ve Vískách u Letovic 2016
 joomla_id: 331
 joomla_url: visky-u-letovic-2016
 layout: post

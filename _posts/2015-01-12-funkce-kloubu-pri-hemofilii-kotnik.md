@@ -7,11 +7,7 @@ excerpt: 'Před nedávnem jsme vás seznámili prostřednictvím animovaného pr
 
   Podíváme se pod pokličku hlezenného kloubu, nitra zdravého kotníku, k čemu vlastně
   během krvácení dochází, k jakým komplikacím může vést, jak při krvácení do kotníku
-  postupovat a jak optimalizovat funkci kloubu
-
-   
-
-'
+  postupovat a jak optimalizovat funkci kloubu'
 featured-image: images/uvodnik-clanku-foto/hlezno_2.jpg
 joomla_id: 215
 joomla_url: funkce-kloubu-pri-hemofilii-kotnik

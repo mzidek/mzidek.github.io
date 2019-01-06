@@ -8,22 +8,7 @@ excerpt: "„Dobrý den, jsem přenašečka a můj bratr Lukáš hemofilik“ As
   onemocnění v našich končinách budí rozpaky, chtěli jsme rozbít některé domněnky,
   například jaký tlak je vyvíjen na přenašečky, když se rozhodují založit rodinu,
   jaké to je porodit hemofilika, jak se dětem s hemofilií vyrůstá, jakým způsobem
-  je ovlivněn výběr vzdělání, koníčků, zaměstnání i partnerů\nŠéf místního hemofilického
-  centra Doc MUDr Petr Dulíček, PhD informoval, jak tato mutace vzniká a jak moc je
-  pravdivé tvrzení, že když se hemofilik řízne, tak vykrvácí Po přednášce následovala
-  vernisáž ateliéru AMAG a koncert kapely Živý Jukebox Náchodský spolek AMAG, jehož
-  je Lukáš členem, vytvořil úžasnou kolekci tematických obrazů, které jsou ke zhlédnutí
-  celý prosinec v NãPLAVKA café & music bar, náměstí 5 května 835, Hradec Králové
-  Na výstavu jste srdečně zváni Výtěžek ze vstupného a prodeje obrazů bude věnován
-  Českému svazu hemofiliků a Hemojunioru\nAkce proběhla za podpory společnosti Roche
-  sro, která navíc podpořila částkou 30000 Kč společný projekt Českého svazu hemofiliků
-  a Hemojunioru, který je zaměřen ke komunikaci se záchrannými složkami a sjednocení
-  jednotné identifikace hemofiliků\nTereza a Lukáš Koblasovi\nČeský svaz hemofiliků
-  děkuje všem aktérům, i hostům, především pak sourozencům Koblasovým za vynikající
-  přípravu i zdárný průběh celé akce V příjemných prostorách NãPLAVKA café & music
-  bar se osazenstvo zdrželo do pozdních večerních hodin, které byly obohaceny skvělým
-  hudebním doprovodem i dobrým jídlem\nFotografie jsou k nahlédnutí na hemofilickém
-  rajčeti zde, foto Karel Maněna\n[widgetkit id=105]\n"
+  je ovlivněn výběr vzdělání, koníčků, zaměstnání i partnerů"
 featured-image: images/fotogalerie/ostatni/Hradec_2017/hradec_2.jpg
 joomla_id: 312
 joomla_url: v-hradci-se-mluvilo-o-hemofilii

@@ -6,65 +6,7 @@ excerpt: '
 
   Zápis z jednání Rady ČSH ve Vráži 3 12 2015
 
-  Přítomni: M Bohůn, V Dolejš, M Skořepa, V TóthOmluveni: P Grim, A Žídková, J Kalábová
-
-   
-
-  Rada ČSH projednávala tyto body:
-
-
-  V Tóth převzal od členů Rady finanční doklady pro zaúčtován
-
-  Rada ČSH potvrdila v roli statutárního zástupce svazu jeho předsedu PhDr Vladimíra
-  Dolejše
-
-  Rada pověřila předsedu jednat s ÚHKT o uzavření nájemní smlouvy pro potřeby zápisu
-  spolku do rejstříku
-
-  Rada pověřila předsedu dokončit proces zápisu ČSH do rejstříku spolků
-
-  Ve spolupráci s Hemojuniorem se uskuteční 19 února 2016 Společenský večer v hotelu
-  Alcron Předseda Hemojunioru M Bereň do poloviny prosince upřesní podmínky, za nichž
-  Alcron připraví prostředí V závislosti na výsledku rozhodnou předsedové obou organizací
-  o výši účastnického poplatku vybíraného od každého účastníka
-
-  Pořadatelé pozvou všechny členy ČSH i HJ, dále pak zašlou po dvou čestných vstupenkách
-  do každého hemofilického centra a všem významným sponzorům
-
-  Rada pověřila předsedu a místopředsedu prodloužit smlouvy na zapůjčené motodlahy
-  centrům v ÚHKT Praha a FN Brno Současně si vyžádají v dotyčných centrech podmínky,
-  za nichž je zájemcům půjčují a Rada je zveřejní na webu
-
-  Předseda zjistí u norského svazu typ ultrazvukového přístroje pro zjišťování krvácení
-  a ČSH se následně bude snažit o zpřístupnění této metody pro domácí použití
-
-  Rada zpracuje manuál pro členy – hemofiliky se základním minimem požadavků, jež
-  mohou uplatňovat ve svých centrech Bude tak stanoveno nepodkročitelné minimum, na
-  něž má každý nárok Členové Rady zašlou své návrhy předsedovi do 15 prosince, ten
-  je pak zpracuje do návrhu uceleného dokumentu a předloží Radě ke schválení Poté
-  budou zásady zaslány České hematologické společnosti a Společnosti pro trombózu
-  a hemostázu k podpoře Na konci procesu bude moci každý tímto dokumentem v svém centru
-  operovat
-
-  M Skořepa informoval o možnosti nahradit Lednici pro jarní rekondici dospělých novým
-  prostředím penzionu Ohrada ve Vískách u Letovic Rada s návrhem souhlasí a ukládá
-  M Skořepovi doladit s vedením penzionu přesné podmínky, prostředí a vybavení tak,
-  aby maximálně vyhovovaly potřebám účastníků Ceny zůstanou stejné jako v předešlém
-  roce
-
-  Kontrola minulého zápisu: V Tóth a P Grim doplnili emailové adresy do databáze členů,
-  úkol V Tótha inventarizovat členské poplatky nadále trvá
-
-  Předseda připraví po skončení kalendářního roku výroční zprávu ČSH, V Tóth doplní
-  přehled hospodaření
-
-
-   Ve Vráži 3 prosince 2015
-
-  Zapsal: V Dolejš                                                             Ověřil:
-  M Bohůn
-
-'
+  Přítomni: M Bohůn, V Dolejš, M Skořepa, V TóthOmluveni: P Grim, A Žídková, J Kalábová'
 featured-image: images/uvodnik-clanku-foto/zapis_rada.jpg
 joomla_id: 255
 joomla_url: zapis-z-jednani-rady-csh-03-12-2015

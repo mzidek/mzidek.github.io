@@ -8,46 +8,7 @@ excerpt: 'Už před několika měsíci jsme upozorňovali na možnost založit s
 
   Možná nejsou patřičně informováni, možná je odradil krach podobného systému IZIP,
   možná jsou prostě pohodlní Přitom je to stojí opravdu jen chvilinku času a prospěch
-  je značný
-
-  Zopakujme si tedy, co systém znamená Každý člen ČSH, ale i nečlen, se může přihlásit
-  Stačí požádat své centrum, aby mu přístup do systému umožnilo Pro centrum je to
-  otázka několika minut, stačí vyplnit potřebné údaje – a hotovo I pro centra samotná
-  přináší registr ČNHP řadu výhod Veškerý kontakt s klienty probíhá on-line přes internet
-  Centrum má tak stále okamžitý přehled o spotřebovaných koncentrátech a dokáže si
-  vypočítat, kdy budou jaké potřeba Odpadá papírování, klient sám výkaz spotřeby preparátů
-  vede
-
-  Kromě toho má kdykoliv a kdekoliv přístup k potřebným údajům, jež se mnohdy v případě
-  nouze jen těžko nějakému cizímu zdravotnickému zařízení dokazují I domácímu, natož
-  zahraničnímu Právě teď kdy řada lidí do ciziny cestuje, nastává ke zřízení účtu
-  ta pravá chvíle Při úrazu nebo jiné naléhavé potřebě snadno dokáže, co je třeba
-  A v době chytrých telefonů je dostupnost ještě snazší
-
-  Český svaz hemofiliků vyvinul během předchozích let nemalé úsilí, aby systém prosadil
-  Pro Radu ČSH je zklamáním, že se takový vysoce účelný a užitečný systém minul s úspěchem
-  Je to opravdu škoda, protože v zahraničí ve vyspělých zemích, něco podobného funguje
-  už roky
-
-  Určitě doporučujeme každému, aby si možnosti prohlédl a sám posoudil, jaké výhody
-  a možnosti mu registr s vlastním unikátním přístupem přináší K datům se totiž dostane
-  jen příslušné hemofilické centrum a ten, jehož se týká Ať už jde o hemofilika či
-  kohokoliv s von Willebrandovou chorobou
-
-  Žádný popis nenahradí vlastní zkušenost Snadno ji získáte pohledem do demonstračního
-  programu registru na adrese https://trialscbamunicz/trialdb2/interface_forms/login_cnhpasp
-  s tím, že přístup vám umožní
-
-  Login: CNHP_PATIENT   Heslo: TEST
-
-  Jakmile o zřízení vlastního účtu požádáte a ve spolupráci s centrem učiníte patřičné
-  kroky, dostanete samozřejmě vlastní unikátní přístupové údaje 
-
-  K dispozici je i podrobný uživatelský manuál, který zveřejňujeme i na našich stránkách
-  mezi dalšími užitečnými odkazy v sekci Dokumenty, a nebo si ho otevřete rovnou pod
-  tímto odkazem
-
-'
+  je značný'
 featured-image: images/symboly/klavesnice.jpg
 joomla_id: 102
 joomla_url: proc-nevyuzit-vyhody-ktera-se-nabizi

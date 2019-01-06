@@ -7,34 +7,7 @@ excerpt: "Naplnění snahy o zlepšení přístupu urgentní medicíny k hemofi
   jsme pro záchranáře a urgentní příjmy vypracovali závazný pokyn, jak k lidem s vrozeným
   krvácivým onemocněním přistupovat Materiál uvádí také příklady běžných i život ohrožující
   krvácení, přehled hemofilických center, popisuje identifikační znaky, nezapomíná
-  ani na hemofiliky s inhibitorem apod Ostatně, materiál si můžete prostudovat zde\nNyní
-  vyčkáváme na vyjádření vrcholných představitelů Asociace záchranných služeb, v případě
-  jejich souhlasu dostane celý projekt zelenou Tím spustíme i elektronický formulář,
-  jehož prostřednictvím si budete moci identifikátory objednat Identifikační náramek,
-  označení průkazu pojištěnce, průkaz hemofilika nebo termotašku Systém objednávání
-  spustíme doufejme brzy, sledujte webové stránky i FB profily obou spolků\nMajitelé
-  chytrých telefonů mohou už delší dobu využívat oficiální mobilní aplikaci Zdravotnické
-  záchranné služby ČR „Záchranka“ Jejím hlavním cílem je zkrácení času příjezdu záchranné
-  služby na přesné místo události a zvýšení šance na včasné ošetření, v extrémních
-  případech i na přežití při nehodách a úrazech V případě nouze jednoduchým způsobem
-  kontaktujete zdravotnickou záchrannou službu, aplikace zároveň záchranářům odešlete
-  vaši přesnou polohu a další užitečné informace Pomocí aplikace zjistíte, kde se
-  nacházejí nejbližší pohotovosti, lékárny, či defibrilátory, získáte rady k první
-  pomoci a mnoho dalšího Stažení a další informace jsou k dispozici na  http://wwwzachrankaappcz
-  Hlavní předností je stanovení přesného místa události díky GPS, A-GPS a WPS lokaci\nZáchranáři
-  aplikaci hojně využívají, hovořilo se o ní i na metodickém cvičení záchranářů v
-  Liberci pod názvem P155 Tato tradiční akce má za cíl vyzkoušet si řadu simulovaných
-  úkolů, vzájemnou výměnu zkušeností mezi všemi krajskými záchrankami, ale i posádkami
-  ze zahraničí Prostor k prezentaci dostal díky Zdravotnické záchranné službě Libereckého
-  kraje a společnosti Body ID, se kterou spolupracujeme při výrobě identifikačních
-  náramků, i Český svaz hemofiliků a Hemojunior Druhou červnovou sobotu jsme sledovali
-  v liberecké ZOO ukázkový výcvik a mohli také oslovit konkrétní posádky záchranářů
-  a představit jim náš společný projekt S některými krajskými představiteli jsme nejen
-  hovořili o hemofilii, ale také jim předali materiál doporučených postupů pro urgentní
-  stavy lidí s vrozeným krvácivým onemocněním Snahou je dostat doporučení do krajských
-  newsletterů apod Osvěta bude nutná především prostřednictvím krajských záchranek
-  a podobných setkání, jako bylo to liberecké Štafetu pro příští rok přebírá Jihomoravský
-  kraj\n\n "
+  ani na hemofiliky s inhibitorem apod Ostatně, materiál si můžete prostudovat zde"
 featured-image: images/fotogalerie/identifikatory/1/img_0974_2.jpg
 joomla_id: 339
 joomla_url: doporuceni-zachranarum-pro-osetreni-urgentnich-stavu-u-lidi-s-krvacivym-onemocnenim

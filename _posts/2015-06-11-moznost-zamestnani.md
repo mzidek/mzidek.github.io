@@ -2,27 +2,15 @@
 author: Martin Bohůn
 category: Články
 date: 2015-06-11 05:33:03
-excerpt: "\nTichý svět, ops (dříve APPN), hledá do týmu kandidáta/kandidátku na pozici
-  OZP přepisovatel(ka) mluvené řeči\nUchazeč bude zaškolen v práci s aplikací pro
-  online tlumočení a přepis – Tichá linka, která usnadňuje komunikaci s osobami s
-  poruchami sluchu V rámci školení se seznámí nejen s touto aplikací, ale také se
-  světem neslyšících a specifikami komunikace s nimi Školení bude probíhat v kancelář
-  v Praze-Podolí\nNáplň práce:\n\non-line přepis mluvené řeči zajišťující dorozumění
-  neslyšících s úřady, nemocnicemi, obchodními a servisními místy apod\nslužba je
-  poskytována z domova s předem jasným měsíčním rozpisem služeb (rozpis lze přizpůsobit
-  zdravotním možnostem zájemce) \npřijímání příchozích požadavků zobrazovaných v aplikaci
-  a vyřizování v pořadí dle urgentnosti nastavené interními pravidly\nvedení jednoduché
-  administrativy spojené s poskytováním služby\núčast na pravidelných setkáním s kolegy
-  týmu Tiché linky za účelem sdílení zkušeností a získání hodnocení a odborné pomoci
-    \n\nPožadujeme:\n\numění psát rychle všemi deseti\ndobrou znalost českého jazyka
-  a gramatiky\npříjemné vystupování po telefonu, spolehlivost, etický přístup\nukončené
-  středoškolské vzdělání\nPC znalost pokročilé úrovně\nčistý RT\n\nNabízíme:\n\nsmysluplnou
-  práci v organizaci, která pomáhá neslyšícím\nzaškolení do problematiky, metodické
-  vedení\npřátelské, neformální prostředí neziskové organizace\núvazek dle dohody\nplatové
-  ohodnocení odpovídající zkušenostem a výkonu\nmožnost dalšího kariérního růstu\npráci
-  z domova (podmínkou je dobré internetové připojení)\nnástup průběžně\n\nSvé životopisy,
-  motivační dopisy a informaci o rychlosti psaní (počet úhozů za min) zasílejte na
-  adresu alenanezbedova@tichysvetcz společně s motivačním dopisem "
+excerpt: '
+
+  Tichý svět, ops (dříve APPN), hledá do týmu kandidáta/kandidátku na pozici OZP přepisovatel(ka)
+  mluvené řeči
+
+  Uchazeč bude zaškolen v práci s aplikací pro online tlumočení a přepis – Tichá linka,
+  která usnadňuje komunikaci s osobami s poruchami sluchu V rámci školení se seznámí
+  nejen s touto aplikací, ale také se světem neslyšících a specifikami komunikace
+  s nimi Školení bude probíhat v kancelář v Praze-Podolí'
 featured-image: images/uvodnik-clanku-foto/tich%20svt.jpg
 joomla_id: 237
 joomla_url: moznost-zamestnani

@@ -8,21 +8,7 @@ excerpt: 'Na základě intervence svazové rady se příslušná oddělení mini
 
   Rada ČSH poukazovala na to, že v novém seznamu vypadla jako indikace konkrétně uvedená
   hemofilická artropatie a zůstala jen artropatie obecně Proti předchozímu indikačnímu
-  seznamu rovněž zmizela možnost doporučení lázeňské péče hemofilikům hematologem
-
-  Vedoucí příslušného oddělení Českého inspektorátu lázní a zřídel Lucie Křesťanová
-  jako reakci na dotaz uvedla, že v novém seznamu „ … jsou uvedeny artropatie všechny
-  bez uvedení příčiny (je to pro pacienta lepší varianta)“ Proti tomu asi není co
-  namítat, ale podstatně důležitější je fakt, že do seznamu se vrátí možnost doporučení
-  hematologa
-
-  V praxi by se tak nemělo v zásadě nic měnit Je ovšem se třeba připravit na fakt,
-  že z finančních důvodů počet lázeňských pacientů klesá, leckde i o desítky procent
-  To však už není záležitost indikační, ale věcí svědomí a ochoty revizních lékařů
-  a dalších rozhodujících odborníků V každém případě jsme rádi, že toho podstatného
-  jsme dosáhli
-
-  Veškeré vaše podněty a zkušenosti týkající se lázeňské péče uvítáme v diskusi'
+  seznamu rovněž zmizela možnost doporučení lázeňské péče hemofilikům hematologem'
 featured-image: images/symboly/lazne.jpg.jpg
 joomla_id: 98
 joomla_url: ministerstvo-vyslo-vstric

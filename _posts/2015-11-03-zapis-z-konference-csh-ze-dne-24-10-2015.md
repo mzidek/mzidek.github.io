@@ -7,78 +7,7 @@ excerpt: 'Konference se uskutečnila v kongresovém hotelu Jezerka, Seč na zá
 
   Ke dni jednání má Český svaz hemofiliků (dále jen ČSH) 238 řádných členů a dle prezenční
   listiny, která tvoří přílohu tohoto protokolu, bylo přítomno zahájení jednání 33
-  řádných členů ČSH Konferenci řídil Mgr Petr Grim, člen Rady ČSH 
-
-  Jelikož ve stanovenou dobu tj 12:30 nebyla přítomna nadpoloviční většina řádných
-  členů a konference nebyla usnášení schopná, bylo dále postupováno dle ustanovení
-  čl V, bod 1, písm a2) stanov ČSH a začátek jednání konference byl stanoven na 14:00
-  Zahájení jednání konference se zúčastnilo 33 řádných členů a následně po hlasování
-  o schválení programu konference se dostavilo dalších 6 členů a dalšího hlasování
-  se zúčastnilo celkem 39 členů, jak je uvedeno v prezenční listině
-
-  1 Konference schválila předložený návrh programu jednání
-
-  Pro:       32           Proti:     0             Zdržel se:            1
-
-  2 Byla předložena zpráva o činnosti ČSH za uplynulé období písemnou formou, doplněná
-  ústně Martinem Bohůnem, místopředsedou ČSH V rozpravě k tomuto materiálu přednesl
-  člen Z Vojkůvka návrh na rozšíření počtu fyzioterapeutů proškolených pro rehabilitaci
-  hemofilických pacientů a vytvoření podmínek pro tuto činnost Člen P Slunský vznesl
-  dotaz, kde se uskuteční příští regionální workshop – je plánován v Praze Člen M
-  Bereň informoval o záměru uspořádat hemofilický ples
-
-         Konference schválila usnesení, že bere na vědomí zprávu o činnosti ČSH za
-  uplynulé období
-
-  Pro:       37           Proti:     0             Zdržel se:            2
-
-  3 Byl předložen návrh nových stanov ČSH zs včetně nového názvu ČSH zs písemnou formou
-  V rozpravě k předloženým stanovám byly tyto doplněny dle návrhu prim MUDr J Blatného
-  v čl II bod 1 zdravotní oblast: Prosazuje vysokou úroveň léčebné, preventivní, rehabilitační
-  a lázeňské péče a v čl II bod 2 sociální oblast: Zajišťuje přísun informací a pomáhá
-  řešit aktuální sociální problémy hemofiliků
-
-  Člen J Slunský vznesl dotaz, zda pokladník spolku musí být členem rady Bylo odpovězeno,
-  že toto nový občanský zákoník nestanoví
-
-  Dále byl podán návrh M Bereněm na zkrácení volebního období ze čtyř let na tři V souladu
-  s organizačním a jednacím řádem bylo hlasováno nejprve o návrhu předloženém Radou
-  ČSH a tento byl schválen
-
-  Pro:       28           Proti:     3             Zdržel se:            8
-
-  Vzhledem k tomu, že byla schválena délka volebního období ve znění předloženém Radou
-  ČSH a žádné další pozměňovací návrhy nebyly předloženy, bylo hlasováno o předloženém
-  návrhu stanov ČSH zs vč nového názvu ČSH zs
-
-  Konference schválila nové stanovy ČSH zs vč názvu ČSH zs
-
-  Pro:       39           Proti:     0             Zdržel se:            0
-
-  4 Byl předložen návrh nového organizačního a jednacího řádu ČSH zs písemnou formou
-  Vzhledem k tomu, že nikdo nepředložil žádný pozměňovací návrh schválila konference
-  nový organizační a jednací řád ČSH zs
-
-  Pro:       37           Proti:     0             Zdržel se:            2
-
-  5 Byl předložen návrh nového volebního řádu ČSH zs písemnou formou Vzhledem k tomu,
-  že nikdo nepředložil žádný pozměňovací návrh, schválila konference nový volební
-  řád ČSH zs
-
-  Pro:       38           Proti:     0             Zdržel se:            1
-
-  Konference byla ukončena ve 14:50 hod
-
-  Příloha: Prezenční listina konference ČSH, konané dne 24102015 v kongresovém hotelu
-  Jezerka
-
-  Petr Slunský vr                                                                
-                                                                  předseda revizní
-  komise 
-
-  Martin Bohůn vrmístopředseda
-
-  Mgr Petr Grim vrzapisovatel'
+  řádných členů ČSH Konferenci řídil Mgr Petr Grim, člen Rady ČSH '
 featured-image: images/uvodnik-clanku-foto/dopis.jpg
 joomla_id: 250
 joomla_url: zapis-z-konference-csh-ze-dne-24-10-2015

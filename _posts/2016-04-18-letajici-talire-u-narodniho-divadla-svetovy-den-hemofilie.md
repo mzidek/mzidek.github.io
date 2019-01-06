@@ -11,14 +11,7 @@ excerpt: 'Ihned po svazovém setkání na zámku Loučeň se v pondělí 25 dubn
   zúčastnit Hlavní atrakcí budou létající talíře frisbee, jejich zkušení piloti je
   budou vypouštět v řadě pozoruhodných triků A samozřejmě přispějí radou těm, kdo
   si budou chtít házení plastovými kotouči sami vyzkoušet Kromě toho bude fungovat
-  zručná kreslířka a na požádání nakreslí portrét nebo karikaturu každému zájemci
-
-  Zahraje kapela osvědčená už ze společenského večera, takže o zábavu bude postaráno
-  U informačního stánku si mohou zájemci koupit drobné předměty, výtěžek z prodeje
-  půjde na účet nazvaný „Podporuji léčbu hemofilie,“ tedy ve prospěch ČSH a Hemojunioru
-
-  Cílem je – jako každoročně kolem dubnového Světového dne hemofilie – upozornit na
-  existenci hemofilie jako takové a seznámit veřejnost s okolnostmi, jež ji provázejí'
+  zručná kreslířka a na požádání nakreslí portrét nebo karikaturu každému zájemci'
 featured-image: images/loga/whd_2013.jpg
 joomla_id: 271
 joomla_url: letajici-talire-u-narodniho-divadla-svetovy-den-hemofilie

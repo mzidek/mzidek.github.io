@@ -8,18 +8,7 @@ excerpt: "Vážení přátelé, milí členové,dovolte nám vás pozvat na 1 sp
   ve 23:30 \nVečer bude moderovat Barbora Černošková ze sportovní redakce České televize,
   k tanci a poslechu zahraje Honza Roušar s kapelou, vystoupí také Veronika Zmijová,
   členka Hemojunioru Součástí programu bude také tombola Připravený je raut, pivo,
-  víno a nealko dostanou hosté zdarma \nFinální podoba programu je k nahlédnutí zde
-  Vše jsme se rozhodli zorganizovat jako poděkování významným sponzorům a všem, kdo
-  s námi sympatizují Především by však měl být večer příležitostí se zase potkat a
-  pobavit se Ke vstupu do hotelu je nutný společenský oděv Pokud máte zájem se zúčastnit,
-  vyplňte prosím do 14 února přihlášku, kapacita sálu je 100 osobPo zaplacení vstupného
-  250 korun za osobu na účet 1612949123/0800 (do poznámky uveďte své jméno a hemopoles,
-  příklad: Bereň - hemoples), vám zašleme vstupenky \nV případě jakýchkoliv dotazů,
-  kontaktujte prosím předsedu Hemojunioru Michaela Bereně: beren@hemojuniorcz, 721738541
-  \nPokud byste chtěli přispět nějakou zajímavou věcí do tomboly, obraťte se na Vojtu
-  Horníka: hornikvojta@gmailcom, 739472735 nebo Terezu Koblasovou: terezakoblasova@gmailcom,
-  607838164\nTěšíme se na setkáníMichael Bereň, HemojuniorVladimír Dolejš, Český svaz
-  hemofiliků\n"
+  víno a nealko dostanou hosté zdarma "
 featured-image: images/uvodnik-clanku-foto/alcron.jpg
 joomla_id: 261
 joomla_url: spolecensky-vecer

@@ -2,37 +2,17 @@
 author: Martin Bohůn
 category: Oslavy Světového dne hemofilie
 date: 2017-05-05 06:37:08
-excerpt: "Jen několik málo kilometrů na jihozápad od Brna se nachází území, které
+excerpt: 'Jen několik málo kilometrů na jihozápad od Brna se nachází území, které
   se v letošním roce stalo útočištěm všech, kdo se rozhodli přijet oslavit Světový
   den hemofilie Čekal na ně den plný  pohody, poznání, zábavy, vítězství a dobrodružství
-  Řeč je o zábavním parku Permonium\nTen vznikl na základě oslavanských pověstí na
-  území bývalého černouhelného dolu Kukla, kde odedávna žije šest tajemných permonů
-  - Starohorský, Bouchal, Zaklášterský, Vinohradský, Kovářova kopce a Kopce Koblihu
-  Park je vhodný nejen pro rodiny s dětmi, ale na své si tu přijdou návštěvníci každého
-  věku A tak se nám zase po roce, tradičně díky společnosti Novo Nordisk, naskytla
-  možnost se setkat „se svými\" a prožít nevšední den plný zážitků a nových poznání\nProgram
-  byl pro všechny opravdu pestrý: prohlídka areálu s těžní věží, odkud je krásný pohled
-  do okolí, nebo interaktivní hra \"Magic Permon“ a její nástrahy tras oslavanských
-  permonů Děti mohly pestrobarevně ošatit Permoníka a vybarvit velké papírové srdce
-  pro kohokoliv, o tom, že je dobré si dávat pozor na svá přání, nás ve veselém příběhu
-  pobavilo divadlo Kejkle Na venkovní ploše zase mohly děti dovádět v domečku skákacího
-  hradu - prostě zábava, kam se člověk podíval Sešlo se nás opět hodně, celkem 110,
-  od rodin s malými dětmi až po ty dospělé Někteří přijeli na invalidním vozíčku,
-  jiní o berlích, bezbariérový přístup areálu jim to umožnil Na své si přišli všichni,
-  skvělé zázemí nám umožnilo trávit čas v příjemných prostorách Atria Každý si našel
-  možnost, jak se zabavit, případně jen tak posedět a popovídat si při dobrém občerstvení\n\n\n\n \n[widgetkit
-  id=101]\n\n\n\nLetošní téma Světového dne hemofilie bylo zaměřeno na ženy Nejen
-  ty, které provázejí útrapy vrozeného krvácivého onemocnění, ale i ty, které se s hemofilií
-  každodenně potýkají u svých nejbližších, jimž věnují svůj čas a energii Proto se
-  při zahájení soustředila s květinovým dárkem pozornost především na všechny přítomné
-  dámy a patřila jim i sladká tečka na konec\nDen v Permoniu se vydařil, třebaže počasí
-  účastníkům příliš nepřálo a na chvíli nás dokonce zkropila mírná dešťová přeháňka
-  I tak jsme ale v podvečer opouštěli oslavanské Permonium s úsměvem na tváři Někteří
-  s odhodláním se sem ještě vrátit, jelikož v nabitém programu nestihli úplně všechno,
-  co by si přáli\nA kam nás zavedou roky příští Nechme se překvapit Přání některých
-  účastníků jsou zajímavá, například vrchol hory Čumulangma… \nFotografie naleznete
-  na hemofilickém rajčeti http://hemofilikrajceidnescz/Hemofilicky_den_2017_-_Permonium/\nZde
-  jen výběr několika z nich:\n\n\n\n \n[widgetkit id=100]\n\n\n"
+  Řeč je o zábavním parku Permonium
+
+  Ten vznikl na základě oslavanských pověstí na území bývalého černouhelného dolu
+  Kukla, kde odedávna žije šest tajemných permonů - Starohorský, Bouchal, Zaklášterský,
+  Vinohradský, Kovářova kopce a Kopce Koblihu Park je vhodný nejen pro rodiny s dětmi,
+  ale na své si tu přijdou návštěvníci každého věku A tak se nám zase po roce, tradičně
+  díky společnosti Novo Nordisk, naskytla možnost se setkat „se svými" a prožít nevšední
+  den plný zážitků a nových poznání'
 featured-image: images/uvodnik-clanku-foto/permonium_2017%20041.jpg
 joomla_id: 296
 joomla_url: po-stopach-oslavanskych-permonu

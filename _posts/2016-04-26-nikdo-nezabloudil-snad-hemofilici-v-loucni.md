@@ -8,40 +8,7 @@ excerpt: 'Na zámku v Loučni nedaleko Nymburka to v sobotu opravdu žilo
   příběhů, pohádku o kašpárkovi a ježibabě nebo výuku létání na koštěti v podání čarodějnic
   Gertrůdy a Ethel, ale hlavně se zase po roce setkat s přáteli a připomenout si Světový
   den hemofilie Díkybohu, meteorologové se tentokrát mýlili, i přes drobné ochlazení
-  jsme většinu dne trávili v přilehlém zámeckém parku
-
-  Dominantou areálu je romantický barokní zámek s přilehlou oranžerií a terasou, která
-  nabízí parádní výhled do Polabí Do vnitřních prostor zámku ve stavu, do nichž by
-  bylo možné se ihned nastěhovat, ale vedla cesta jen k prohlídkám a občerstvení Ve
-  velkém sále dokonce zůstal prostřený stůl, jako by se rodina knížat Thurn -Taxis
-  právě chystala zasednout k obědu
-
-  Co ale dělá Loučeň tak výjimečnou a čím se odlišuje od dalších českých zámků, je
-  soustava jedenácti zahradních labyrintů a bludišť vybudovaných v zeleni historického
-  anglického parku Unikátní komplex bludišť nemá v evropském ani světovém měřítku
-  obdoby, s radostí si v něm pobloudili děti i dospělí
-
-
-
-
-  [widgetkit id=90] 
-
-
-
-
-  V sedmém vloni nejnavštěvovanějším zámku v Česku se sobota vydařila Zdá se, že nikdo
-  v parku nezabloudil, všichni se šťastně shledali a vrátili domů Alespoň správa zámku
-  nehlásí, že by tam někoho v neděli ráno při úklidu našli Vše si můžete připomenout
-  fotografiemi uloženými na http://hemofilikrajceidnescz
-
-
-
-
-  [widgetkit id=89]
-
-
-
-'
+  jsme většinu dne trávili v přilehlém zámeckém parku'
 featured-image: images/fotogalerie/hemofilicke-dny/loucen/19.jpg
 joomla_id: 274
 joomla_url: nikdo-nezabloudil-snad-hemofilici-v-loucni

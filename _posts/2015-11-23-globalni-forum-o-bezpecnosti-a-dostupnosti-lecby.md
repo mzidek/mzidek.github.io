@@ -10,48 +10,7 @@ excerpt: '
   Potvrdilo se, že vysoké standardy bezpečnosti v posledních desetiletích už nenechávají
   nikoho na pochybách, že všechny produkované preparáty jsou dnes z hlediska soudobých
   znalostí naprosto bezpečné a prosté hrozby infekce známými viry Hrůzné doby šíření
-  infekcí HIV a HCV jsou už definitivně pryč
-
-  Hodně se proto hovořilo zejména o plazmatických preparátech, které ještě stále zaujímají
-  vysoké procento světové produkce Vždyť i u nás pokrývají spotřebu ze 60% a jen 40%
-  připadá na rekombinanty Z tohoto pohledu je zajímavé, že naší republice patří třetí
-  místo ve světě co do produkce darované krevní plazmy v přepočtu na počet obyvatel
-  Nejvíc nasbírají Spojené státy (30 l plazmy na 1000 obyvatel), Česko je s 30 litry
-  třetí Před námi je ještě Rakousko V Americe je darování plazmy zhusta zdrojem příjmů,
-  proto tak vysoké číslo Ovšem právě placené dárcovství může být potenciálně největší
-  hrozbou bezpečnosti
-
-  Dnes už globální obavy z přenosu virové nákazy plazmou nepanují, největší starosti
-  vzbuzuje vznik inhibitoru To je jednoznačně největší riziko častých infúzí krevních
-  derivátů, ať už plazmatických či rekombinantních
-
-  K léčbě koagulačními preparáty má stále jen zhruba 25% světové populace Většímu
-  rozšíření stojí v cestě poměrně vysoké náklady, ale díky úsilí WFH v řadě posledních
-  desetiletí se i tento stav pomalu daří zlepšovat Ale skutečně jen velmi, velmi pomalu
-
-  V centru pozornosti jsou dnes především preparáty z proslouženou dobou účinnosti
-  a genové terapie S oběma je to jako na houpačce – jednou se o nich mluví s nadějemi,
-  jindy je třeba naděje utlumit Je ale fakt, že preparáty s prodlouženým poločasem
-  rozpadu už někde ve světě fungují, zejména ty s Faktorem IX, který je nepoměrně
-  jednodušší a zvládnutelnější než VIII O celé záležitosti jsme už několikrát psali
-  i na svazovém webu, lze tu vystopovat řadu článků Názory se velmi liší, zejména
-  na to, jaké následky mohou upravované molekuly nesoucí účinný faktor, v budoucnu
-  přinést
-
-  Největším „hitem“ současnosti je ale genová terapie Hovoří se o ní při každé příležitosti
-  mezinárodních setkání odborníků, ale rovněž s kolísavými výsledky Opět je jednodušší
-  odstranit deficit Faktoru IX, tedy příčinu hemofilie B Momentálně to vypadá, že
-  v nejbližších deseti letech nelze s účinnou genovou terapií počítat
-
-  Jednoznačným pozitivem zůstává, že výzkum a vývoj v oblasti léčby hemofilie neustává,
-  pracuje se tu na několika frontách v různých zemích Evropy i v USA Ne nadarmo se
-  říká, že žádná z dědičných chorob nezaznamenala v posledním čtvrtstoletí takový
-  pokrok a tak prudký rozvoj výzkumu, jako právě hemofilie
-
-  Extenzivní rozvoj léčby dnes střídá intenzivní, především ovšem v rozvinuté části
-  světa Tedy v té podstatně menší než je zbytek Materiály IX Globálního fóra WFH nás
-  mohou potěšit zjištěním, že Česko je na tom ve všech směrech velmi dobře a patří
-  do skupiny těch v léčbě hemofilie nejúspěšnějších zemí světa '
+  infekcí HIV a HCV jsou už definitivně pryč'
 featured-image: images/uvodnik-clanku-foto/global_forum2015.jpg
 joomla_id: 254
 joomla_url: globalni-forum-o-bezpecnosti-a-dostupnosti-lecby

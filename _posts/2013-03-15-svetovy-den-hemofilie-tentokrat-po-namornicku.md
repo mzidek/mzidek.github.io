@@ -5,44 +5,7 @@ date: 2013-03-15 21:53:27
 excerpt: '
 
   Slaví se na celém světě vždycky 17 dubna My ho ovšem tentokrát poněkud odložíme
-  a počkáme si na lepší počasí Budeme se totiž plavit po Baťově kanálu
-
-
-  Předpokládáme, že prohlídka této unikátní technické pozoruhodnosti (wwwbatakanalcz)
-  přiláká značný zájem členů a příznivců a přátel ČSH a Hemojunioru a přijedou se
-  nalodit Čeká na ně vstřícná paluba, ale také suchozemské radovánky pro děti i dospělé
-  Přesvědčit se o tom může každý, kdo v sobotu 4 května v 10:00 dorazí do přístaviště
-  ve Veselí nad Moravou
-
-  Tančit s hudbou nebo ji jen poslouchat, soutěžit a radovat se, pohovořit s přáteli
-  – to je hlavní účel tohoto setkání Pokud by snad někdo chtěl na lodi nebo na břehu
-  předvést před přátelským publikem kolegů něco ze svých dovedností a umu, bude vítán
-  o to srdečněji Vždyť budeme mezi svými
-
-  Záchranná kola a plovací vesty či kruhy nechte doma, naopak si přivezte dobrou náladu
-  Poslední setkání, ať už na motokárách, westernovém městečku či tvrzi Hummer s terénními
-  auty se vydařila, tentokrát tomu určitě nebude jinak
-
-  Abychom připravili správně program, je třeba znát počet těch, co se zúčastní Vyplnit
-  přihlášku můžete tradičně na přihlašovacím formuláři přímo tady na webu, poslat
-  email na adresu info@hemofilicicz, případně i zavolat na svazové telefonní číslo
-  Pro všechny ale bude nejpohodlnější první způsob, z něj vyčteme i počet dětí a dospělých
-
-  Termín uzávěrky přihlášek je 5dubna 2013! Tak neváhejte, lodníci už začínají promazávat
-  průvlaky kotevních lan a natírat palubu
-
-
-  Jak jsme oslavili Světový den hemofilie v loňském roce si můžete přečíst zde
-
-
-
-  Fotogalerie z Hemofilických dnů
-
-
-   
-
-
-   '
+  a počkáme si na lepší počasí Budeme se totiž plavit po Baťově kanálu'
 featured-image: images/uvodnik-clanku-foto/batakanal.jpg
 joomla_id: 148
 joomla_url: svetovy-den-hemofilie-tentokrat-po-namornicku

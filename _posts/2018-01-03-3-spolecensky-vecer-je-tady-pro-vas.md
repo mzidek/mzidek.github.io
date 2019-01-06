@@ -8,23 +8,7 @@ excerpt: "Vážení přátelé, milí členové,dovolte nám, abychom vás jmén
   v 17:45, vstup do sálu bude hostům umožněn od 17:00 \nK tanci a poslechu zahraje
   kapela Wocaties Součástí programu bude pochopitelně také oblíbená tombola a exkluzivně
   vystoupí hemofiik Patrik Zmij s kytarovým sólem Pro hosty bude připraveno občerstvení
-  formou rautu, pivo, víno a nealko dostanou hosté zdarma\nNěkteří z vás měli možnost
-  se zúčastnit premiérového ročníku Nebo dokonce absolvovali oba ročníky Rozhodli
-  jsme tuto akci zorganizovat jako poděkování dlouholetým sponzorům, významným sponzorům
-  a lidem, kteří se o nás starají a pomáhají nám Především by však měl být společenský
-  večer Českého svazu hemofiliků a Hemojunioru příležitost pro vás se zase potkat
-  a pobavit se v netradičních prostorách a v netradičním oblečení Vzhledem k pozitivním
-  ohlasům účastníků, organizátorů i vedení hotelu Alcron je tu další pokračování a
-  možná vznik hezké tradice\nDůrazně upozorňujeme na to, že ke vstupu do hotelu je
-  nutný společenský oděv Pokud máte zájem se zúčastnit, vyplňte přihlášku pod tímto
-  odkazem  Vzhledem ke kapacitě sálu 100 osob vám vstupenku zašleme až po zaplacení
-  ceny 250 korun na účet 2109200873/2700 (do poznámky uveďte jméno a \"spoluúčast
-  akce Alcron\") Díky tomu by se mělo dostat na všechny skutečné zájemceDěkujeme za
-  pochopení a těšíme se opět na viděnou pěkně na parketě!\nV případě jakýchkoliv dotazů,
-  kontaktujte předsedu Hemojunioru (Michael Bereň, beren@hemojuniorcz, 721 738 541)
-  Pokud byste chtěli přispět nějakou zajímavou věcí do tomboly, obraťte se na Katku
-  Altmanovou (katerinaaltmanova@seznamcz, 603 412 691), prosím\nS uctivým pozdravemMichael
-  Bereň, HemojuniorMartin Bohůn, Český svaz hemofiliků"
+  formou rautu, pivo, víno a nealko dostanou hosté zdarma"
 featured-image: images/uvodnik-clanku-foto/spoleensk%20veer%202017%202.jpg
 joomla_id: 311
 joomla_url: 3-spolecensky-vecer-je-tady-pro-vas

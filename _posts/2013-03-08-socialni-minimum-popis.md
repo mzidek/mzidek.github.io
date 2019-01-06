@@ -9,25 +9,7 @@ excerpt: 'Lidé se zdravotním postižením, hemofiliky nevyjímaje, se mohou v�
 
   Příručka pro osoby se zdravotním postižením 
 
-   
-
-  Průkaz osoby ze zdravotním postižením
-
-  Dávky pro osoby se zdravotním postižením
-
-  Vydávání parkovacího průkazu
-
-  Příspěvek na péči
-
-  Invalidní důchody
-
-  Aktuality sociální oblasti
-
-
-  Užitečné odkazy:
-
-  Národní rada zdravotně postižených Ministerstvo práce a sociálních věcí ČRLiga vozíčkárůKonto
-  bariéry'
+   '
 featured-image: images/banners/prirucka.jpg
 joomla_id: 140
 joomla_url: socialni-minimum-popis

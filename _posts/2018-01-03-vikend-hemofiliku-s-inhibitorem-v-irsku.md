@@ -11,32 +11,7 @@ excerpt: "Na začátku prosince proběhla druhá konference inhibitoriků v Irs
   diskuzi a sdělení osobních zkušeností Na konferenci se opakovaně sešla přibližně
   polovina účastníků, druhá polovina sem přijela poprvé Většina vystupujících lékařů
   byla z Irska či Anglie, mezi další přednášející patřil i bývalý prezident kanadského
-  svazu hemofiliků Craig Upshaw\nProč se tato akce pořádá v Irsku, tedy na okraji
-  Evropy Kemp pro těžce postižené děti (onkologické pacienty, hemofiliky) a zároveň
-  nevýdělečná organizace Barretstown se nachází 40 kilometrů od hlavního města Dublinu
-  Tábory pro děti nejen z Irska zde probíhají každé léto Vše zůstává pro účastníky
-  zdarma, včetně nákladů na cestu pro děti i jejich doprovod Samozřejmostí je bezbariérové
-  zázemí, k dispozici je i řada sportovních činností jako minigolf, lukostřelba, jízda
-  na koni a další Kromě toho se o děti starají velmi dobře vyškolení dobrovolníci,
-  takže rodiče se mohou věnovat vzdělávání a vzájemnému předávání si zkušeností Jedinou
-  podmínkou či nutností je potřeba dorozumět se anglicky\n\nO léčbě hemofilie s inhibitorem
-  se hovořilo velmi zevrubně V některých zemích Evropské unie nemají pacienti s inhibitorem
-  stále k dispozici profylaxi tzv By-Passing Agents, mezi něž patří FEIBA a NovoSeven
-  Už loni tu představili dvě slibné metody léčby hemofilie s inhibitorem, nikoliv
-  samotného inhibitoru, sem patří pouze imunotoleranční léčba Letos bylo příjemným
-  zjištěním, že jeden z léků už dospěl do fáze klinické studie Podle osobních zkušeností
-  několika přítomných jde o revoluční přípravek s velkým potenciálem do budoucna Mezi
-  letos prezentovanými studiemi na zvířatech patřil především výzkum snížení výskytu
-  inhibitoru Jedním z možných způsobů by mohla být aplikace faktoru matce budoucího
-  hemofilika, případně pak navození tolerance jídlem obsahujícím chybějící faktor
-  Oba výzkumy zatím probíhají na laboratorních myších\nZ osobního pohledu mi přijde
-  tato konference velmi přínosná, jelikož všichni účastníci se nacházejí v obtížné
-  situaci, kterou se snaží vyřešit Touto cestou získají kontakt na ostatní, jejichž
-  zdravotní stav je podobný a jejichž obtíže jsou podobné V průběhu víkendu si tak
-  mohou vyměňovat své tipy a zároveň získat nové informace od odborníků v oboru Všichni
-  jsou velmi milí, počínaje organizátory a konče samotnými účastníky Velké díky tedy
-  patří všem, kteří se podíleli na přípravě této akce, která se opravdu povedla\nFotogalerie
-  na facebooku Evropského hemofilického konsorcia\nJan Půček"
+  svazu hemofiliků Craig Upshaw"
 featured-image: images/uvodnik-clanku-foto/inhibitor_summit_2017_2.jpg
 joomla_id: 317
 joomla_url: vikend-hemofiliku-s-inhibitorem-v-irsku

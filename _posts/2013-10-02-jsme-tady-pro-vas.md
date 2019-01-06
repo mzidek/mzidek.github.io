@@ -2,30 +2,14 @@
 author: Martin Bohůn
 category: 'Workshopy '
 date: 2013-10-02 04:09:00
-excerpt: "Aneb povídání o všem co Vás ve spojitosti s hemofilií zajímá\n\nNabízíme
-  vám další prostor k navázání kontaktu nejenom s kolegy se stejným onemocněním, ale
-  i odbornou veřejností Nedostatek informací a kontaktu s lidmi, kteří jsou v podobné
+excerpt: 'Aneb povídání o všem co Vás ve spojitosti s hemofilií zajímá
+
+
+  Nabízíme vám další prostor k navázání kontaktu nejenom s kolegy se stejným onemocněním,
+  ale i odbornou veřejností Nedostatek informací a kontaktu s lidmi, kteří jsou v podobné
   situaci jako oni, je citelný Silně to pociťují i rodinní příslušníci, partneři či
   přátelé hemofilika, kteří by chtěli být svému blízkému oporou Proto považujeme každé
-  osobní setkání za významný přínos členům i samotnému svazu\nSetkání, na které vás
-  srdečně zveme, doplní přednášky a věříme, že se stanou podnětem k vašim otázkám
-  a diskusím Chceme vás seznámit s novinkami v léčbě, sociální oblasti a s možnostmi
-  psychologického poradenství Zároveň získáte rady, které si můžete předávat mezi
-  sebou navzájem A to není zdaleka vše Jak už bývá dobrým zvykem, k dispozici budou
-  „naše“ zkušené fyzioterapeutky, které se pravidelně účastní rekondičních pobytů
-  pořádaných ČSH a hemofilické klouby mají v malíku \n\nKDY   9-10 listopadu\nKDE
-    HOTEL JEZERKA, nachází se v CHKO Železné hory u sečské přehrady, 100 km od Prahy
-  Více informací naleznete na wwwjezerkacz\n\nV místním příjemném Wellness a Spa centru
-  si najdeme čas pro relaxaci a odpočinek, zájemcům bude přístupný i plavecký bazén
-  Mladší generace může navíc trávit čas v dětském koutku nebo využít drobné aktivity,
-  které připravujeme\nDíky finanční podpoře společnosti Baxter je účast členů svazu
-  a Hemojunioru zdarma, včetně občerstvení a noclehu Každý bude hostem a týká se to
-  nejen samotných členů, ale vždycky také jednoho jeho doprovodu To stejné platí i
-  u hemofiliků - nečlenů Rádi bychom totiž oslovili právě ty, kteří svaz či Hemojunior
-  neznají a mohlo by je setkání zajímat Děti do 10 let mají účast zdarma\nZájemci
-  neotálejte, místa jsou limitována, jelikož jsme museli předem nahlásit počty provozovateli\nSvůj
-  zájem můžete projevit prostřednictvím této přihlášky nejpozději do středy 16102013!\nTěšíme
-  se na vás o víkendu 9-10 listopadu v hotelu Jezerka v Seči ve východních Čechách\n"
+  osobní setkání za významný přínos členům i samotnému svazu'
 featured-image: images/fotogalerie/workshopy/jezerka/workshop_jezerka.png
 joomla_id: 168
 joomla_url: jsme-tady-pro-vas

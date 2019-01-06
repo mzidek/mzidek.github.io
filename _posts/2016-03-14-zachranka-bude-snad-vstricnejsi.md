@@ -14,23 +14,7 @@ excerpt: '
   vlaštovkou byla účast hematologa na celostátní konferenci urgentní medicíny a medicíny
   katastrof s názvem Pelhřimovský podvečer, kde před dvěma sty účastníky z Česka a
   Slovenska vystoupil Ondřej Zapletal (více ve článku O hemofilii na konferenci záchranářů),
-  dalším krokem je iniciativa ČNHP
-
-  Zástupci svazu v této instituci dlouhodobě poukazují na neutěšený stav a vyzývají
-  koordinační radu k zásahu To se teď podařilo, ČNHP s podporou České hematologické
-  společnosti sdružující hematology, vypracoval dokument určený odborníkům v urgentní
-  medicíně První ohlasy naznačují, že záchranky se přílivu nových informací nebrání,
-  jsou – alespoň někde – připraveni jakési „školení“ hematologů přijmout a nadále
-  se jím řídit ČNHP vypracoval dopis určený ředitelům záchranek a nemocnic s urgentním
-  příjmem, ve kterém vysvětluje základní principy zásahu u hemofiliků při krvácení,
-  zejména nutnost okamžitě podat srážecí faktor Často se totiž naši členové setkávali
-  při žádosti o aplikaci doneseného faktoru s odpovědí „doktor jsem tady já, co mi
-  budete radit“
-
-  Svaz splnil další ze svých zásadních předsevzetí, navíc jedno z nejdůležitějších
-  Víc už v této oblasti nemůže dělat, vše další je jen a jen na záchrankách a urgentních
-  příjmech Budeme moc rádi, když se kdokoliv, kdo se s neadekvátním přístupem záchranářů
-  setkal, se svou zkušeností podělí   '
+  dalším krokem je iniciativa ČNHP'
 featured-image: images/uvodnik-clanku-foto/rzs.jpg
 joomla_id: 268
 joomla_url: zachranka-bude-snad-vstricnejsi

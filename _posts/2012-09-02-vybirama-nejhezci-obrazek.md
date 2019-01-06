@@ -2,16 +2,16 @@
 author: Martin Bohůn
 category: Články
 date: 2012-09-02 20:05:30
-excerpt: "\nObrázky dětí z letních hemofilických táborů Vyberte ty nejlepší pro kalendář
-  na rok 2013!\nRádi bychom vás touto cestou vyzvali k účasti v hlasování o nejkrásnější
-  obrázky našich dětí Výtvory vznikaly na letních táborech v Ondrášově dvoře a v Bělči
-  Dvanáct obrázků, které od vás dostanou nejvíce hlasů, použijeme k přípravě kalendáře
-  pro rok 2013 Všechny obrázky jsou krásné, proto nám pomozte svým hlasem s výběrem
-  dvanáctky nejhezčích! \nHlasovat můžete do neděle 23září 2012 prostřednictvím nasledujiciho
-  odkazu: http://wwwhemofiliecz/hlasovani-obrazky\nDěkujeme všem dětem za jejich snahu
-  a úsilí A vám děkujeme za spolupráci a podporu \nO letním hemofilickém táboře v
-  Ondrášově dvoře se můžete více dozvědět pod tímto odkazem\nNáhledy obrázků:\n[widgetkit
-  id=45]"
+excerpt: '
+
+  Obrázky dětí z letních hemofilických táborů Vyberte ty nejlepší pro kalendář na
+  rok 2013!
+
+  Rádi bychom vás touto cestou vyzvali k účasti v hlasování o nejkrásnější obrázky
+  našich dětí Výtvory vznikaly na letních táborech v Ondrášově dvoře a v Bělči Dvanáct
+  obrázků, které od vás dostanou nejvíce hlasů, použijeme k přípravě kalendáře pro
+  rok 2013 Všechny obrázky jsou krásné, proto nám pomozte svým hlasem s výběrem dvanáctky
+  nejhezčích! '
 featured-image: images/uvodnik-clanku-foto/pata.jpg
 joomla_id: 111
 joomla_url: vybirama-nejhezci-obrazek

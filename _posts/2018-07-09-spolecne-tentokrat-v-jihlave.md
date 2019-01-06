@@ -2,64 +2,14 @@
 author: Martin Bohůn
 category: 'Workshopy '
 date: 2018-07-09 09:31:14
-excerpt: "Tři ročníky tradičního setkání Společně o hemofilii se uskutečnily na jednom
-  místě, následně jsme se začali stěhovat každý rok jinam\nTentokrát se setkáme 14
-  – 16 září 2018 v Jihlavě Hostit nás bude tamní EA Business hotel Opět jsme se tedy
-  rozhodli věnovat této akci celý víkend a umožnit vám strávit více společných chvil
-  Program bude zase o trochu více zaměřen na tzv workshopy, tedy povídání na jednotlivá
-  témata v užším společenství, které umožní vzájemné sdělení si vlastních znalostí
-  a zkušeností\nAbychom mohli lépe naplánovat potřebnou kapacitu a rozvrh workshopů,
-  vyberte prosím v přihlašovacím formuláři, jakých setkání byste měli zájem se zúčastnit
-  Samozřejmě vás čeká také několik zajímavých přednášek z oblasti hematologie, gynekologie,
-  psychologie, psychosomatiky a další Upozorňujeme, že se jedná o návrh programu,
-  který se může v některých detailech změnit Vyvineme však maximální úsilí k tomu,
-  abychom navržený program dodrželi\nPřihlašovat se můžete již nyní pomocí tohoto
-  formuláře, a to nejpozději do 24 srpna 2018 Vzhledem k omezené kapacitě hotelu je
-  možné, že někteří z nás budou ubytováni v jiném blízkém hotelu Prakticky však půjde
-  jen o přespání, veškerý program bude na společném místě Neváhejte s přihlášením,
-  může se stát, že po naplnění kapacity budeme nuceni přihlašování stopnout\nÚčastnické
-  poplatky byly stanoveny takto: členové ČSH a Hemojunioru zaplatí 500,- Kč/noc, nečlenové
-  1000,- Kč/noc, děti členů do 18 let mají akci zdarma, děti nečlenů za 500,- Kč/noc
-  Členové ČSH a Hemojunioru, kteří v hotelu přespávat nebudou a zúčastní se jen sobotního
-  odborného programu, zaplatí 200,- Kč, nečlenové 400,- Kč, děti členů do 18 let mají
-  vše zdarma, za děti nečlenů je třeba zaplatit 200,- Kč Dovolujeme si upozornit,
-  že za člena je pro potřeby této akce považován pouze ten člen, který pravidelně
-  a v termínu platí členské příspěvky Účastnický poplatek zahrnuje i celodenní občerstvení
-  Zašlete jej, prosím, na účet ČSH bankovním převodem nejpozději do 31 srpna 2018
-  V případě, že do uvedeného data poplatek neuhradíte, budeme nuceni rezervaci zrušit\nBankovní
-  spojení:UniCredit BankÚčet číslo: 2109200873/2700Do zprávy pro příjemce uveďte vaše
-  celé jméno a poznámku JIHLAVA\nV souvislosti s připravovanými identifikátory pro
-  osoby s vrozeným krvácivým onemocněním (viz článek z 196) bude součástí jihlavského
-  programu účast zástupce společnosti BodyID, se kterou na výrobě identifikačních
-  náramků spolupracujeme Na místě si tak budete moci nechat svůj náramek vyrobit a
-  hotový si jej odnést domů Více informací se dozvíte i o tzv online profilu, který
-  si můžete k náramku individuálně pořídit Všechny přihlášené budeme těsně před akcí
-  informovat o podmínkách, za jakých bude výroba náramků v Jihlavě probíhat Celý projekt
-  předpokládáme spustit na přelomu srpna a září\nPŘEDBĚŽNÝ NÁVRH PROGRAMU MEZIGENERAČNÍHO
-  SETKÁNÍ V JIHLAVĚ: \nPÁTEK 14 září 2018\n15:00 – 18:00     Registrace, příjezd a
-  ubytování\n18:00 – 19:00     Večeře (pro ubytované)\n1900 – 20:00     Povídání o
-  hemofilii s MUDr Petrem Salajem /ÚHKT Praha/\nSOBOTA 15 září 2018\n07:00 – 09:00 
-    Snídaně (pro ubytované)\n09:15 – 09:35     Identifikátory pro osoby s vrozeným
-  krvácivým onemocněním                             Bc Tomáš Ježek /prezident Komory
-  záchranářů ZZS České republiky/\n09:35 – 10:05     „Psychosomatika“            
-                 Mgr Veronika Dostálová /ÚHKT Praha/\n10:05 – 10:30     Přenašečství
-  u poruch srážlivosti krve                            MUDr Veronika Ťápalová /gynekologicko-porodnická
-  klinika FN MU Brno/\n10:30 – 11:00     Přestávka s občerstvením\n11:00 – 12:15 
-     I BĚH WORKSHOPŮ A INDIVIDUÁLNÍCH KONZULTACÍ – TÉMATA:\nHematologické otázky v oblasti
-  hemofilieprim MUDr Jan Blatný, PhD \nHematologické otázky v oblasti von Willebrandovy
-  chorobyprim MUDr Jan Blatný, PhD\nOrtopedie - mobilní ultrazvukOdborník oboru ortopedie
-  /jméno bude upřesněno/\nPřenašečky – psychologické aspekty - plánování těhotenstvíMgr
-  Veronika Dostálová & MUDr Veronika Ťápalová\nPsychologické aspekty - matky hemofilikůMgr
-  Veronika Dostálová & Mgr Milan Pilát \nPovídání s dětmi mladšího školního věku 6
-  - 10 let - formou hryKarolína Janderová\nFyzioterapieMgr Marie Katzerová \nMužská
-  skupina hemofilikůMgr Lukáš Koblasa\nWorkshop určený pro adolescenty a dospívající
-  – dospívání s hemofiliíMgr Milan Pilát & Mgr Jana Kalábová & Martin Bohůn\n12:30
-  – 13:30    Oběd\n13:45 – 15:00     II BĚH WORKSHOPŮ A INDIVIDUÁLNÍCH KONZULTACÍ
-  – pokračování\n15:00 – 15:30    Přestávka s občerstvením\n15:30 – 16:45     III
-  BĚH WORKSHOPŮ A INDIVIDUÁLNÍCH KONZULTACÍ – pokračování\n17:00 – 17:30     Pro zájemce\nMgr
-  Jana Kalábová /setkání osob s von Willebrandovou chorobou/\nKateřina Altmanová /přenašečky
-  – dotazníkové šetření – prezentace/\n18:00 – 19:00    Večeře (pro ubytované)\n Přejeme
-  příjemný a užitečně strávený čas v Jihlavě"
+excerpt: 'Tři ročníky tradičního setkání Společně o hemofilii se uskutečnily na jednom
+  místě, následně jsme se začali stěhovat každý rok jinam
+
+  Tentokrát se setkáme 14 – 16 září 2018 v Jihlavě Hostit nás bude tamní EA Business
+  hotel Opět jsme se tedy rozhodli věnovat této akci celý víkend a umožnit vám strávit
+  více společných chvil Program bude zase o trochu více zaměřen na tzv workshopy,
+  tedy povídání na jednotlivá témata v užším společenství, které umožní vzájemné sdělení
+  si vlastních znalostí a zkušeností'
 featured-image: images/fotogalerie/workshopy/tophotel_2017/foto-85.jpg
 joomla_id: 340
 joomla_url: spolecne-tentokrat-v-jihlave

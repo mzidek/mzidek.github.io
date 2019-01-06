@@ -13,24 +13,7 @@ excerpt: 'Kde a o čem Zase o hemofilii jako tři předchozí roky na podzim, al
   už je všechny znají, dále jsou v jednání také specialisti v psychologii a kardiologii,
   v pátek večer bude příležitost potkat se s už několik let spolupracujícím hepatologem
   Petrem Urbánkem Ve chvílích, kdy se hlasitě hovoří o novinkách v léčbě žloutenky
-  typu C obzvlášť zajímavé téma
-
-  Přednášky začnou v sobotu od 9:00 hodin, po celý den bude k dispozici profesionální
-  péče o děti, aby se jejich rodiče mohli zúčastnit přednášek a besed bez starostí
-  Opět bude možnost probrat specifické otázky s lektory na následných seminářích
-
-  Poplatky účastníků zůstávají beze změny, členové ČSH a Hemojunioru zaplatí 500,-
-  Kč, nečlenové 1000,- Kč, děti členů do 18 let zdarma, děti nečlenů 500,- Kč To se
-  ale týká jen těch, kdo budou chtít využít noclehu přímo v areálu Kdo tady přespávat
-  nebude a přijde jen na odborný program, zaplatí členové ČSH a Hemojunioru 200,-
-  Kč, nečlenové 500,- Kč, děti členů do 18 let zdarma, děti nečlenů 200,- Kč Za to
-  každý dostane svačinu, oběd a pokud bude zájem, tak i večeři a vstup do wellness
-
-  Zájemci se mohou už teď přihlašovat internetovým formulářem, uzávěrka je 30 září
-  2016 Nenechávejte vše na poslední chvíli, místa mohou být po naplnění kapacity limitována!
-
-  V minulých letech sklidilo setkání vždycky velký úspěch, předpokládáme, že účastníci
-  budou spokojeni i letos'
+  typu C obzvlášť zajímavé téma'
 featured-image: images/fotogalerie/workshopy/jezerka_2014/08.jpg
 joomla_id: 280
 joomla_url: znovu-spolecne

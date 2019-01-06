@@ -7,18 +7,7 @@ excerpt: 'Jak už víte, také následující ročník rekondice dospělých se 
 
   Ani v dalších organizačních otázkách nedošlo k žádné změně Pro zájemce máme připravené
   ubytování, snídaně a obědy, individuální rehabilitace (pouze pro hemofiliky), léčebné
-  koupele a bazén
-
-   Změnily se ale ceny Rozhodli jsme se více zvýhodnit platící členy svazu, takže
-  úhrady budou následující: hemofilici a nemocní von Willebrandovou chorobou, řádní
-  členové,  budou platit 2000,- korun, ostatní členové rovněž tak, ale v ceně nebudou
-  mít léčebné koupele Ty si musí každý zaplatit sám podle výběru a ceníku Ostatní
-  zájemci uhradí plnou cenu, ale nikoliv ceníkovou, nýbrž tu s přihlédnutím k dohodě
-  ČSH s lázněmi na slevách Reálně to tedy bude asi 3500,- Kč + vybrané procedury 
-
-  Přihlašovat se můžete již nyní mailem na mskorepa@hemofilicicz nebo pomocí tohoto
-  formuláře S ohledem na snížení ceny očekáváme mírný nárůst zájemců, v případě, že
-  by přesáhl kapacitní možnosti, dostanou přednost dříve přihlášení'
+  koupele a bazén'
 featured-image: images/uvodnik-clanku-foto/lednice_2015.jpg
 joomla_id: 213
 joomla_url: i-pristi-rok-do-lednice

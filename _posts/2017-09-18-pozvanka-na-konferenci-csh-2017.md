@@ -6,42 +6,7 @@ excerpt: 'Vážení členové Českého svazu hemofiliků,
 
   srdečně vás zveme na výroční volební Konferenci svazu Uskuteční se 14 října po skončení
   odborného programu setkání „SPOLEČNĚ O HEMOFILII“ v Top Hotelu, Blažimská 4, 149
-  00 Praha 4 – Chodov Začátek předpokládáme v 16:00 hodin
-
-  Navrhovaný program:
-
-
-  Úvod
-
-  Zpráva o činnosti
-
-  Zpráva o hospodaření
-
-  Zpráva revizní komise
-
-  Diskuze
-
-  Volby do Rady a Revizní komise ČSH
-
-  Různé
-
-
-  Žádáme všechny, kdo se hodlají konference zúčastnit, aby potvrdili zájem do pátku
-  6 října na známých svazových kontaktech info@hemofilicicz nebo tel 777 078 509 Uveďte
-  prosím jméno a příjmení (případně i členské číslo) a kontaktní emailovou adresu,
-  či telefon
-
-  Konference je nejvyšší orgán ČSH, tentokrát i volební, takže tu vznikne složení
-  nové Rady ČSH, ta bude život svazu řídit po další čtyřleté období Kandidaturu je
-  možné podat přímo na místě, ale výhodnější je oznámit ji současné radě s předstihem,
-  aby bylo možné důležité volby včas a důkladně připravit Prosíme opět emailem, telefonicky,
-  čí písemně
-
-  Výroční Konference se schází podle stanov vždy po delším časovém období, je proto
-  mimořádně důležitá Přijďte i vy spolurozhodnout o dalším směřování svazu, jde přeci
-  i o vás a o vaše zájmy
-
-  Vaše Rada ČSH'
+  00 Praha 4 – Chodov Začátek předpokládáme v 16:00 hodin'
 featured-image: images/fotogalerie/konference/img_4666.jpg
 joomla_id: 304
 joomla_url: pozvanka-na-konferenci-csh-2017

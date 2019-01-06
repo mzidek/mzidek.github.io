@@ -11,21 +11,7 @@ excerpt: '
   Hotel Alcron poskytl prostory zdarma, škoda jen, že všechno muselo skončit do půl
   dvanácté, pak už nastal v zájmu hotelových hostů klid Avízo hovořilo o kapele člena
   svazu Honzy Roušara, ta opravdu zahrála a předvedla řadu žánrů Skutečně k tanci
-  i poslechu
-
-  Ne nadarmo se honosí kuchyň Alcronu michelinskou hvězdou, menu takovému ocenění
-  odpovídá A když k tomu přičteme ještě skvělé červené i bílé víno z jižní Moravy
-  a pivo (jídlo i pití se servírovalo jako součást vstupného), máme dokonalý obrázek
-
-  Program obstarali členové obou pořádajících organizací jaksi z vlastních zdrojů,
-  vedle kapely i taneční vystoupení Veroniky Zmijové, můžeme tedy říci „hemofilici
-  sobě“ Nehovořilo se o chorobách, v tomto směru existoval jakýsi neoficiální zákaz
-  Povolená byla jen dobrá zábava a potěšení ze společnosti ostatních
-
-  Vzhledem k úspěchu lze předpokládat, že se bude opakovat A pak už přijďte i vy,
-  budete spokojeni
-
-  Fotografie naleznete na hemofilickém rajčeti pod tímto odkazem:http://hemofilikrajceidnescz/Spolecensky_vecer_CSH_a_HJ_2016/'
+  i poslechu'
 featured-image: images/uvodnik-clanku-foto/spolecensky%20vecer%20v%20alcronu.jpg
 joomla_id: 264
 joomla_url: kdo-neprisel-muze-litovat

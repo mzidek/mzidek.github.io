@@ -9,15 +9,7 @@ excerpt: "Specializace záchranářů – ať už lékařů, či všech ostatní
   První vlaštovka je tady Na celostátní konferenci urgentní medicíny a medicíny katastrof
   s názvem Pelhřimovský podvečer přijel Ondřej Zapletal z oddělení dětské hematologie
   Fakultní nemocnice Brno, jeho přednášku si vyposlechlo na 200 záchranářů z Česka
-  a Slovenska\nHovořil na téma „Přístup k pacientovi s hemofilií či jinou vrozenou
-  krvácivou chorobou“ a mimo jiné zmínil i zkušenosti hemofiliků s rychlou záchrannou
-  službou (RZS) Že nejsou vždycky právě pozitivní, je dobře známo Urgentní specialisté
-  až příliš často nemají potřebné vědomosti, dokonce i na velmi prestižních pracovištích
-  Jak může neodborný přístup v okamžicích ohrožení života skončit, je nabíledni Svaz
-  se samozřejmě s úvodním průlomem mezi lékaře a zdravotníky tohoto oboru nespokojí,
-  už připravuje další kroky\nNa prezentaci MUDr Zapletala se můžete podívat prostřednictvím
-  kanálu youtube pod odkazem https://wwwyoutubecom/watchv=mG_o5va9_G4 od stopáže 1:17:25\nJaké
-  máte zkušenosti s RZS Pište nám své zkušenosti, ať už pozitvní, či negativní"
+  a Slovenska"
 featured-image: images/uvodnik-clanku-foto/zachranka.jpg
 joomla_id: 253
 joomla_url: o-hemofilii-na-konferenci-zachranaru

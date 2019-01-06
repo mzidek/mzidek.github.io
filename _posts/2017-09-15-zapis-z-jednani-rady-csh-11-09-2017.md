@@ -5,76 +5,7 @@ date: 2017-09-15 07:15:00
 excerpt: 'Zápis z jednání Rady ČSH prostřednictvím služby Skype 1192017
 
   Přítomni: Vladimír Dolejš, Martin Bohůn, Václav Tóth, Jana Kalábová, Michal Skořepa,
-  Petr Grim
-
-  Členové rady projednali
-
-
-  Dne 2092017 od 14:30 do 16:00 hodin proběhne seminář v poslanecké sněmovně pod názvem:
-  Hemofilici pohledem lékařů záchranné služby a urgentních příjmů Bude pořádaný Výborem
-  pro zdravotnictví Poslanecké sněmovny Parlamentu ČR pod záštitou poslankyně výboru
-  Mgr Jany Pastuchové Místo konání: budova Poslanecké sněmovny, Malostranské nám7/19,
-  Praha 1 - Malá Strana, místnost č G275, zasedací místnost VZ Akce je veřejná
-
-  Na seminář bude doručeno 20 ks aktuálního vydání hemofilického zpravodaje
-
-  Mezigenerační setkání hemofiliků „Společně o hemofilii“ proběhne 13-14 října v Top
-  hotelu Praha, program se finalizuje, čeká se na potvrzení účasti přednášejících
-  Všem přihlášeným bude před akcí program rozeslán
-
-  Příprava Konference ČSH Proběhne při příležitosti akce „Společně o hemofilii“ v pražském
-  Top hotelu v sobotu 14 října, Blažimská 4, 149 00 Praha 4 – Chodov Začátek se předpokládá
-  v 1600 hodin
-
-
-  Navrhovaný program:
-
-
-
-  Úvod
-
-  Zpráva o činnosti
-
-  Zpráva o hospodaření
-
-  Zpráva revizní komise
-
-  Diskuze
-
-  Volby do Rady a Revizní komise ČSH
-
-  Různé
-
-
-
-
-  Dle čl V stanov se do orgánů volí: - pět členů Rady a dva náhradníci v pořadí 1
-  – 2; tři členové RK a 2 náhradníci v pořadí 1 – 2
-
-  Rada ČSH odsouhlasila navrhnout konferenci, aby hlasování do rady a revizní komise
-  proběhlo tajnou volbou
-
-  Každý člen ČSH má právo volit a být volen do všech funkcí v orgánech ČSH Člen, který
-  se nemá možnost dostavit na Konferenci, může udělit písemnou plnou moc jiné fyzické
-  osobě ke svému zastupování v rozsahu práv a povinností člena ČSH, jeden zmocněnec
-  může zastupovat pouze jednoho člena ČSH Podpis zmocnitele na udělené plné moci musí
-  být úředně ověřen
-
-  Pozvánku na konferenci bude rozeslána na dostupné emaily členů /M Bohůn/
-
-  Žádáme všechny členy, kteří se chtějí Konference ČSH zúčastnit, aby svůj zájem potvrdili
-  nejpozději do pátku 6 října 2017 na známých svazových kontaktech: tel 777 078 509,
-  email: info@hemofilicicz Stačí uvést celé jméno (případně členské číslo) a kontakt
-  (email či telefon)
-
-  Další číslo hemofilického zpravodaje je vytištěno, členové ho naleznou ve svých
-  schránkách v těchto dnech
-
-  Rada ČSH schválila 9 nových členů ČSH Rada ČSH se již do data konání Konference
-  nesejde, případné nové zájemce o členství projedná Rada ČSH až po tomto datu
-
-
-  Zapsal: Bohůn Martin Ověřil: Členové Rady ČSH'
+  Petr Grim'
 featured-image: images/uvodnik-clanku-foto/zapis_rada.jpg
 joomla_id: 303
 joomla_url: zapis-z-jednani-rady-csh-11-09-2017

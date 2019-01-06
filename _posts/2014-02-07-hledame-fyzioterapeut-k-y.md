@@ -10,19 +10,7 @@ excerpt: 'Svaz dlouhá léta spolupracuje s týmem fyzioterapeutek, které se ú
   Momentálně znovu další zájemce nebo zájemkyně hledáme Dovolujeme si oslovit případné
   zájemce, kteří by měli zájem se rehabilitace hemofiliků zabývat a pobytů se účastnit
   Nejbližší příležitostí bude rekondice dospělých v Lednici na Jižní Moravě od 16
-  do 24 května
-
-  Samotná rehabilitace bude probíhat ve dnech 19-23 května, účast na celém pobytu
-  tedy není nutná Je ovšem vhodná zejména pro poznání prostředí a konzultace s už
-  zkušenými terapeutkami Zájemcům a zájemkyním uhradí svaz veškeré náklady a také
-  finanční odměnu, třebaže to není vzhledem k možnostem nikterak závratná částka
-
-  Minimálním požadavkem na odbornost je absolvovaná souvislá rehabilitační praxe jako
-  součást studia fyzioterapie Nevyžadujeme tedy dokončené vzdělání v oboru, alespoň
-  však aktuální studium minimálně 2 ročníku příslušného oboru
-
-  Pokud vás možnost zaujala, kontaktujte prosím Michala Skořepu emailem mskorepa@hemofilicicz
-  nebo na telefonu 777 078 509'
+  do 24 května'
 featured-image: images/uvodnik-clanku-foto/rhb.jpg
 joomla_id: 178
 joomla_url: hledame-fyzioterapeut-k-y

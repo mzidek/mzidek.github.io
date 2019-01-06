@@ -10,26 +10,7 @@ excerpt: 'Na něco podobného nejsme u nás zvyklí V zahraničí ovšem takov�
   něco takového nedovoluje Případně je nutný nějaký jiný zásah kvalifikované zdravotní
   sestry, například převaz, nějaká kontrola, ale i pomoc s rehabilitací To vše doma,
   bez nutnosti dojet do nějakého zdravotnického zařízení Stačí zavolat a odborná pomoc
-  dojede až domů
-
-  Důležité je, že celý proces plně hradí veřejné zdravotní pojištění, klient neplatí
-  nic V těchto týdnech probíhá speciální školení příslušných regionálních agentur
-  tak, aby jejich setry byly schopné poskytnout tu nejlepší péči zaměřenou právě na
-  hemofiliky Společnost Baxter uspořádá školení ve všech regionech, kde se ukáže jejich
-  potřeba
-
-  Je teď na našich členech, aby dali najevo, kde konkrétně je třeba personál vyškolit
-  Cílem je pokrýt celou republiku, aby služba zůstala dostupná opravdu všem Žádáme
-  vás proto o informaci, kdo má o službu zájem, abychom mohli – respektive Baxter
-  – vhodné agentury vyhledat a vyškolit Stačí se ozvat na kterýkoliv svazový kontakt
-  a oznámit, o co konkrétně komu jde Nemusí to být zítra, ale výhledově se taková
-  pomoc může hodit Proto neváhejte a přihlaste se První školení už proběhlo v půlce
-  června v Brně, další budou následovat podle zájmu
-
-  Jsme rádi, že něco podobného můžeme ve spolupráci se sponzory nabídnout Je to další
-  krok k přiblížení se běžným evropským standardům, jež se týkají dospělých i dětí
-
-'
+  dojede až domů'
 featured-image: images/uvodnik-clanku-foto/domaci_pece.jpg
 joomla_id: 160
 joomla_url: co-je-domaci-zdravotni-pece

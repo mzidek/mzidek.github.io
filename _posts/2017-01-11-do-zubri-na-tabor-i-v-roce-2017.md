@@ -8,47 +8,7 @@ excerpt: 'Rovněž v příštím roce se uskuteční tradiční dětský hemofi
   Termín prvních dvou prázdninových týdnů se nemění, a tábor se tedy uskuteční od
   1 do 15 července 2017 ve známé lokalitě Rekreačního střediska Zubří u Nového Města
   na Moravě Můžete se těšit na osvědčený tým vedoucích a zdravotníků z předcházejících
-  let, hlavním vedoucím bude opět Vojtěch Horník
-
-  Cena tábora zůstává stejná jako v minulých letech – jsou vytvořeny 3 kategorie tak,
-  aby byli co nejvíce zvýhodněni účastníci s hemofilií nebo von Willebrandovou chorobou:
-
-
-  3000,-  Kč pro účastníky s hemofilií nebo von Willebrandovou chorobou
-
-  5000,-  Kč pro jejich sourozence
-
-  7000,-  Kč pro ostatní účastníky
-
-
-  V ceně je zahrnuto:
-
-
-  doprava dětí z a do Prahy, v případě zájmu i Ostravy, Olomouce a Brna
-
-  ubytování, strava (5x denně + celodenní pitný režim)
-
-  základní úrazové pojištění
-
-  doprava na výlety
-
-  celkový chod tábora
-
-
-  Pomocí přihlašovacího formuláře, můžete dítě na tábor přihlásit Do 14 dnů od odeslání
-  formuláře očekávejte e-mailem potvrzení, že jsme přihlášku zaevidovali V případě,
-  že by Vám potvrzení nepřišlo, ozvěte se prosím na e-mailovou adresu hornikvojta@gmailcom,
-  případně na tel 739 472 735 (Vojtěch Horník)
-
-  Termín pro podávání přihlášek je do 28 února 2017, nicméně pokud máte zájem se tábora
-  zúčastnit, s přihlašováním neotálejte
-
-  Tábora se mohou zúčastnit děti, které absolvovaly nejméně první třídu základní školy,
-  horní věková hranice je 18 let Připravujeme již tradičně společnou dopravu z Prahy
-  a v případě dostatečného zájmu i z Ostravy se zastávkami na okraji Olomouce a Brna
-
-  V případě jakýchkoliv dotazů neváhejte kontaktovat hlavního vedoucího na výše uvedených
-  kontaktních údajích'
+  let, hlavním vedoucím bude opět Vojtěch Horník'
 featured-image: images/fotogalerie/detske-tabory/2016-zubri/dsc07681.jpg
 joomla_id: 288
 joomla_url: do-zubri-na-tabor-i-v-roce-2017

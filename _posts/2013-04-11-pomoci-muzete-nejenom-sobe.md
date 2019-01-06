@@ -2,20 +2,10 @@
 author: Martin Bohůn
 category: Články
 date: 2013-04-11 15:52:49
-excerpt: "\nObracíme se na Vás prostřednictvím Českého svazu hemofiliků, který sdružuje
-  nemocné, rodinné příslušníky a přátelé postižených poruchami srážlivosti krve\n\n POMOCI
-  MŮŽETE I VY! \n\nV České republice existuje asi 100,000 lidí trpících jednou ze
-  tří forem von Willebrandovy choroby Patříme v Evropské unii k zemím, kde není znám
-  přesný počet lidí trpících tímto vzácným onemocněním Existuje řada mužů, žen i dětí,
-  kteří ani netuší, že je něco s jejich krevním srážením v nepořádku Obracíme se na
-  Vás proto s prosbou o poskytnutí obecných informací týkajících se Vaší von Willebrandovy
-  choroby Díky těmto informacím budeme moci zjistit nejen kolik jedinců s tímto vzácným
-  onemocněním žije v ČR, ale pomohou nám i v tolik potřebné osvětě široké veřejnosti\n\nPOMOCI
-  MŮŽETE I SOBĚ!\n\nAktivním zapojením pomůžete nejen dalším pacientům, ale i sami
-  sobě Získáte více informací o tomto onemocnění, současných trendech v léčbě, případně
-  si můžete vyměnit své zkušenosti a poznatky s ostatními pacienty či jejich rodinami,
-  odborníky z řad lékařů, psychologů a jiných terapeutů Vyplňte prosím přiložený dotazník
-  v elektronické podobě\nVelice děkujeme za spolupráci \nVon Willebrandova chorobaLéčbaHistorie"
+excerpt: '
+
+  Obracíme se na Vás prostřednictvím Českého svazu hemofiliků, který sdružuje nemocné,
+  rodinné příslušníky a přátelé postižených poruchami srážlivosti krve'
 featured-image: images/banners/vwch.gif
 joomla_id: 150
 joomla_url: pomoci-muzete-nejenom-sobe

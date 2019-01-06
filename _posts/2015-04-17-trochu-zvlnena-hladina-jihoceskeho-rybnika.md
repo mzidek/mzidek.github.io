@@ -9,51 +9,7 @@ excerpt: 'Z hlediska života hemofilické populace je v Česku jedním z nejklid
 
   S cílem zdejším kolegům pomoci sezval obvyklou sestavu odborníků a vyhradil setkání
   co možná nejširší veřejnosti s nimi hotel Podhrad v Hluboké nad Vltavou O dojmy
-  se chtějí podělit dvě přímé účastnice
-
-  Úvod patřil uvítání hostiteli ze sponzorující společnosti Baxter a pořádajícího
-  ČSH Místopředseda Martin Bohůn seznámil s činností svazu, s připravovanými akcemi,
-  představil také důležité hosty - vedoucí lékaře hemofilického centra pro dospělé
-  i děti v Českých Budějovicích Ivana Vonkeho a Pavla Timra  Rodiny s dětmi mohly
-  své potomky svěřit profesionálním chůvám Děti jsme pomalu ani neviděli a mohli se
-  tak plně soustředit na všechny informace
-
-  První z pozvaných promluvil primář oddělení klinické hematologie Nemocnice České
-  Budějovice Ivan Vonke Seznámil nás s aktuální léčbou hemofilie a nastínil i budoucí
-  možnosti Pavel Timr, lékař dětského hematoonkologického oddělení Nemocnice České
-  Budějovice, nás provedl nemocí i léčbou od její historie až po současnost
-
-  Z hlavního města za námi na jih dorazil ortoped z Fakultní nemocnice Motol Petr
-  Teyssler s přednáškou o možnostech léčby kloubů postižených krvácením To byla určitě
-  jedna z nejpřínosnějších informací
-
-  Mnozí z nás slyšeli poprvé o možnosti využívat domácí péči odborných zdravotních
-  sester Financuje ji veřejné zdravotní pojištění a umožňuje v případě potřeby pomoc
-  odbornic přímo v domácím prostředí  Podrobné informace i s návodem, jak službu získat,
-  přednesla Kateřina Nováková z Agentury domácí péče IVAS
-
-  Až z dalekého libereckého úřadu práce přijela Marcela Štáfová Předestřela široký
-  obraz možností, jež nabízí sociální systém A hned na místě mohla v některých konkrétních
-  případech poradit v dalším postupu, pokud někdo není s postupem sociálních úřadů
-  spokojen Pro letošní rok je přichystaná řada novinek a my jsme si je všechny mohli
-  vyslechnout
-
-  Ze stránek ČSH i z tištěných materiálů je už dávno známo, jak nesmírně důležitá
-  je rehabilitace postižených kloubů a také prevence poškození Stejně jako na předchozích
-  workshopech promluvila na toto téma Marie Katzerová z FN Brno Nabídla dokonce i
-  možnost praktického vyzkoušení některých cviků, ale zájemců se bohužel našlo jen
-  velmi málo Škoda, taková příležitost se nemusí jen tak opakovat 
-
-  Během všech přednášek jsme měli možnost vznášet dotazy na kteréhokoliv z přednášejících 
-
-  Velký dík patří společnosti Baxter a Českému svazu hemofiliků za to, že se setkání
-  hemofiliků a lidí s von Willebrandovou chorobou mohlo konat Pro nás všechny byly
-  informace velmi přínosné a těšíme se, že jejich ovoce brzy vykvete na poklidných
-  jihočeských polích
-
-  Jana Němcová, Romana Schwarzová
-
-  [widgetkit id=78]'
+  se chtějí podělit dvě přímé účastnice'
 featured-image: images/fotogalerie/workshopy/jizni-cechy/cb_01.jpg
 joomla_id: 228
 joomla_url: trochu-zvlnena-hladina-jihoceskeho-rybnika

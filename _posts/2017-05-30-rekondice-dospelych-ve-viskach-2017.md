@@ -12,20 +12,7 @@ excerpt: 'Letošní ročník byl ve znamení nováčků Těch bylo osm, další 
   kde jsme sledovali hokejové mistrovství světa Výsledek našich hokejistů byl snad
   jediným negativem celého pobytu Jeho program snad již není třeba obsáhle připomínat
   Rehabilitaci a vodoléčbu doplnily projížďky na koních, výlety, turnaj v ping-pongu,
-  grilování a opékání buřtů Více v obrazové dokumentaci
-
-  Celým pobytem se nesla pohoda všech účastníků, se kterými jsme se shodli, že bychom
-  se ještě příští rok do Ohrady vrátili Budeme však rádi za jakékoliv typy na možné
-  nové objekty pro další roky Již více než desetiletí se vracíme na Moravu, kde jsme
-  již v třetí lokalitě, neznamená to však, že bychom se nechtěli podívat také do Čech
-  Zásadní kritéria pro objekt jsou – rozumná kapacita (minimálně 40 lůžek v nejméně
-  15 pokojích, naopak ale nic velkého, abychom měli objekt jen pro sebe), stravování,
-  společenská místnost, místnost(i) pro rehabilitaci (minimálně pro 3 lehátka), bazén
-  (nejlépe se schody), vhodná i vířivka Tipy zasílejte na mail mskorepa@hemofilicicz
-
-  Na další pobyty s vámi se těší Michal Skořepa
-
-  [widgetkit id=102]'
+  grilování a opékání buřtů Více v obrazové dokumentaci'
 featured-image: images/uvodnik-clanku-foto/p1130395.jpg
 joomla_id: 297
 joomla_url: rekondice-dospelych-ve-viskach-2017

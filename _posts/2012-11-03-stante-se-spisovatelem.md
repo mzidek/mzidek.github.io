@@ -9,23 +9,7 @@ excerpt: 'Jak Snadno Podívejte se na webové stránky wwwlidemezilidmicz a zjis
 
   Do soutěže může autor přihlásit maximálně tři příběhy v každé kategorii Délka jednoho
   příběhu nesmí přesáhnout 5000 znaků i s mezerami Jeden autor může obeslat soutěž
-  příspěvky do všech kategorií:
-
-  Příběh – osud člověka se zdravotním postižením
-
-  Názor (blog) – co si myslím o sociální reformě
-
-  Tvorba – umění slova (básně, povídky, fejetony a další literární útvary)
-
-  Příspěvky lze zasílat elektronicky v textovém souboru /formát doc, docx, rtf, txt,
-  odt) na adresu soutez@lidemezilidmicz V souboru je nutno uvést Název díla, Kategorii,
-  do které je dílo zasláno, Jméno, Příjmení, adresu, telefon a email
-
-  Pro autora nejlépe hodnoceného díla bude odměnou získání pracovního místa v Občanském
-  sdružení Dobré místo Získání místa je pro výherce dobrovolné Soutěžní příspěvky
-  lze zasílat do 3012013 Všechny příspěvky, které se v jednotlivých kategoriích umístí
-  na prvním až desátém místě, budou uveřejněny na zdravotně-sociálním portálu Lidé
-  mezi lidmi'
+  příspěvky do všech kategorií:'
 featured-image: images/uvodnik-clanku-foto/ke-stazeni.jpg
 joomla_id: 117
 joomla_url: stante-se-spisovatelem

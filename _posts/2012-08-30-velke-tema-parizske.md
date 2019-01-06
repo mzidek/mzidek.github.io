@@ -7,17 +7,7 @@ excerpt: "Na nedávném kongresu Světové federace hemofilie WFH v Paříži, 
   klienty \nJde o něco podobného, co už u nás taky funguje a o čem jsme už několikrát
   psali jako o elektronické databázi a výkazu spotřeby koncentrátů Je nabíledni, že
   celý svět se ubírá touto cestou a kdo ještě nevykročil, bude tak muset učinit velmi
-  brzy\nNěkteří výrobci derivátů – v první řadě Bayer – už připravili ve spolupráci
-  s výrobci telefonů aplikace, které po instalaci dovolí velmi jednoduše poslat správu
-  o každé aplikaci okamžitě do centra Program je připravený tak dobře, že stačí jen
-  vybírat a zaškrtávat Ba dokonce obsahuje i skicu lidského těla a dotknutím se příslušné
-  části systém centru oznámí, co bylo důvodem aplikace\nJestliže se dnes některá centra
-  u nás takovému vývoji brání, je to silně krátkozraké Stejné na to jednou dojde Je
-  to něco podobného, jako se v předminulém století bránily obce železničním tratím
-  na svém území a výsledkem je, že dnes mají nádraží třeba i kilometry za městem nebo
-  vsí\nNeobstojí ani argument o čerpání dat pro statistiky, protože po implementaci
-  vhodného programu v centru, udělají stroje za člověka všechno Včetně tvorby statistických
-  výkazů"
+  brzy"
 featured-image: images/loga/eiffel_tower.jpg
 joomla_id: 110
 joomla_url: velke-tema-parizske

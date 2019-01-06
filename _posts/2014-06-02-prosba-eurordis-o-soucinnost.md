@@ -2,19 +2,14 @@
 author: Martin Bohůn
 category: Články
 date: 2014-06-02 05:52:52
-excerpt: "Jde o nevládní pacientskou organizaci vzniklou v roce 1997, náš svaz je
+excerpt: 'Jde o nevládní pacientskou organizaci vzniklou v roce 1997, náš svaz je
   členem Sdružuje 600 pacientských organizací věnujících se vzácným onemocněním ve
   více než 50 zemích a pokrývá více než 4000 vzácných onemocnění (více informací najdete
-  na stránce wwweurordisorg)\nJako členskou organizaci nás požádal o spolupráci členů
-  Jde o vyplnění velmi stručného dotazníku, zabere skutečně jen pár desítek vteřin
-  Text je sice ve slovenštině, ale to by neměl být problém\nEURORDIS doplnil žádost
-  tímto textem:Oceníme, pokud si najdete pár minut na vyplnění tohoto anonymního dotazníku
-  Prosíme vás o stručné, krátké a přesné odpovědi Prosíme, najděte si chvíli čas Získané
-  informace budou analyzovat vyškolení pracovníci s cílem poukázat na konkrétní problémy,
-  poslouží ke vzniku dialogu s kompetentními národními autoritami Výsledky průzkumu
-  vám zpět neposkytneme přímo, avšak budete mít možnost prohlédnout si výsledky kampaně
-  na stránce Eurordis (na stránce vznikne samostatná část \"Kampaň Dostupnost péče\")
-  \nDíky za Váš časEurordis\nDotazník je k dispozici pod tímto odkazem: https://wwwsurveymonkeycom/s/DMR2X7M"
+  na stránce wwweurordisorg)
+
+  Jako členskou organizaci nás požádal o spolupráci členů Jde o vyplnění velmi stručného
+  dotazníku, zabere skutečně jen pár desítek vteřin Text je sice ve slovenštině, ale
+  to by neměl být problém'
 featured-image: images/loga/logo-eurordis.png
 joomla_id: 195
 joomla_url: prosba-eurordis-o-soucinnost

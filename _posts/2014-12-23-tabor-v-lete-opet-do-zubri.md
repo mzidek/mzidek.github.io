@@ -7,48 +7,7 @@ excerpt: 'Milí táborníci, s radostí vám sdělujeme, že letní tábor se p
   jsme ji rezervovali i na další dva roky
 
   Příští rok se vrátíme k tradičním čtrnácti dnům od 8 do 22 srpna Kdo se hodlá zúčastnit,
-  nechť si termín uchová v paměti
-
-  Poněkud odlišná bude cena Rada ČSH se rozhodla co nejvíce zvýhodnit hemofiliky,
-  proto vznikly tři kategorie úhrady:
-
-
-  3000,-  Kč pro účastníky s hemofilií nebo von Willebrandovou  chorobou
-
-  5000,-  Kč pro jejich sourozence
-
-  7000,-  Kč pro ostatní účastníky
-
-
-  V ceně je zahrnuto:
-
-
-  Doprava dětí z a do Prahy, v případě zájmu i Ostravy, Olomouce a Brna
-
-  Ubytování, strava (5x denně + celodenní pitný režim)
-
-  Základní úrazové pojištění
-
-  Doprava na výlety
-
-  Celkový chod tábora
-
-
-  Zájem lze projevit už nyní prostřednictvím online formuláře (preferovaná forma),
-  nebo telefonicky u Martina Bohůna (tel 723487239) nejpozději do 28 února 2015 Žádáme
-  všechny zájemce o pečlivé uvedení údajů, každoročně se setkáváme například s neúplnou
-  adresou, chybějícím rodným číslem a podobně
-
-  Tábora se mohou zúčastnit děti, které absolvovaly nejméně první třídu základní školy,
-  horní věková hranice je 18 let Připravujeme společnou dopravu z pražské FN Motol,
-  v případě dostatečného zájmu i z Ostravy se zastávkami na okraji Olomouce a Brna
-
-  Rodiče, jejichž děti mají zájem se tábora zúčastnit, by neměli s přihláškou otálet,
-   ale poslat ji co nejdříve
-
-  Doufáme, že se připojíte a strávíme spolu opět krásnou část letních prázdnin
-
-  Na viděnou se těší vaši vedoucí a zdravotníci '
+  nechť si termín uchová v paměti'
 featured-image: images/uvodnik-clanku-foto/pozvanka_zubri_2015.jpg
 joomla_id: 212
 joomla_url: tabor-v-lete-opet-do-zubri

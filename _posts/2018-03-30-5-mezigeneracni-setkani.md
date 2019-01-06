@@ -2,13 +2,9 @@
 author: Martin Bohůn
 category: Workshopy
 date: 2018-03-30 18:06:00
-excerpt: 'Pátý ročník tradičního mezigeneračního setkání "Společně o hemofilii" proběhlo
+excerpt: Pátý ročník tradičního mezigeneračního setkání "Společně o hemofilii" proběhlo
   tentokrát v pražském Top hotelu /13-14 října 2017/, opět ve spolupráci se společností
   Shire
-
-  [widgetkit id=103]
-
-   '
 joomla_id: 329
 joomla_url: 5-mezigeneracni-setkani
 layout: post

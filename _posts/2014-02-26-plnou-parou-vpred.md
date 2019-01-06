@@ -8,11 +8,7 @@ excerpt: 'Po úspěšných podnicích s motokárami, ve westernovém městečku
 
 
   Schéma zůstane podobné tomu loňskému „námořnickému,“ jen námořnickou modř zaměníme
-  za železničářskou Program, dobré jídlo a pití zůstanou, avšak v jiném prostředí
-
-  Přihlašovací formulář
-
-'
+  za železničářskou Program, dobré jídlo a pití zůstanou, avšak v jiném prostředí'
 featured-image: images/uvodnik-clanku-foto/vlak.gif
 joomla_id: 182
 joomla_url: plnou-parou-vpred

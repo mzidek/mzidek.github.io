@@ -8,37 +8,7 @@ excerpt: 'Vážení členové, příznivci a návštěvníci webu ČSH, dovoluje
   Ty předchozí splnily svůj účel, odpovídaly technickým i designérským požadavkům
   své doby, ale ta jde dál Proto jsme se rozhodli dát webu nový kabát Doufejme, že
   i pro vás přátelštější, přehlednější a užitečnější Základní struktura zůstala stejná,
-  mnohé rubriky také, jen se v některých případech jejich seznam zjednodušil
-
-  Kromě základních informací na hlavní stránce tu opět najdete fakta o ČSH, jeho historii,
-  hospodaření a také zápisy z jednání Rady ČSH a dalších orgánů Zase nescházejí rady
-  k léčbě, probereme otázky sociální a tak dáleNovinkou je, že diskuse se už nebude
-  odvíjet pod jednotlivými články, ale v samostatné rubrice Tím budou i názory čtenářů
-  webu stále na očích a nezmizí s článkem v historii Kromě toho samozřejmě může každý
-  vytvořit nové téma k diskusi Věříme, že novou formu využije víc členů než dosud
-  a budou se tak podílet na tvorbě nejen webu, ale i svazového života K tomu, aby
-  bylo možné snadněji na příspěvky odpovídat, případně aby si mohli jednotliví přispívatelé
-  vyměňovat i názory přímo, vznikly nové možnosti patrné okamžitě při otevření záložky
-  „Diskuse“ Z toho důvodu bude také nutné se k diskusi a komentářům jednotlivých článků
-  přihlásit Nikoliv pro nějakou cenzuru či sledování, ale prostě proto, aby systém
-  lépe fungoval Tak, jak je tomu v drtivé většině podobných webů
-
-  Budeme také mít možnost vkládat do webu videa Nejen ta, která pocházejí ze zdrojů
-  rady, ale i všech, kdo o to budou mít zájem a nějaké zajímavé záběry pošle Zcela
-  novou funkcí je pak možnost vyhledávání podle klíčových slov To na dosavadních stránkách
-  citelně chybělo a mnoho zajímavých informací tak zapadlo do množství všech ostatních
-  Tlačítko pro vyhledávání najdete vpravo nahoře
-
-  Po nějakou dobu bude k dispozici i pohled do starých stránek, aby přeci jen úplně
-  všechny informace – a mnohé z nich skutečně důležité – nezapadly Stačí se tam podívat
-  jediným kliknutím Všechny rubriky ještě nejsou zcela obsazené, budou se doplňovat
-  postupně
-
-  Rada ČSH uvítá každý názor na vzhledu funkci a potřeby webu Od všech, komu záleží
-  na tom, aby tento základní komunikační prostředek plnil svou úlohu co nejlépe a
-  nejpraktičtěji Názory prosím pište sem
-
-  Přejeme vám, aby se web líbil a aby sloužil ku prospěchu nás všech'
+  mnohé rubriky také, jen se v některých případech jejich seznam zjednodušil'
 featured-image: images/uvodnik-clanku-foto/logo_hemofilik.jpg
 joomla_id: 57
 joomla_url: vitejte-na-novem-webu

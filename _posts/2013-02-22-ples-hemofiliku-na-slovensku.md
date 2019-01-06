@@ -9,21 +9,7 @@ excerpt: 'Letos je tomu již po třinácté, co „Slovenské hemofilické zdru�
   v nepracovní atmosféře a vzájemné přátelské setkání všech příznivců slovenských
   hemofiliků I přes nepřízeň chřipkového období se plesu zúčastnilo přes 60 zájemců,
   ať už samotných hemofiliků, rodičů, přátel hemofiliků, ale i takoví, kterým se jednoduše
-  líbí atmosféra a organizace této akce
-
-  Jak se můžete přesvědčit v krátké fotoreportáži, program byl opravdu pestrý
-
-  [widgetkit id=52]
-
-  Hemofilický ples, jakožto i další akce pořádané Slovenským hemofilickým sdružením
-  - wwwshzsk, probíhají v Turčianských Teplicích, místě s léčivými prameny, zřízenými
-  lázněmi a krásnou fatranskou přírodou v okolí
-
-  Přejeme SHZ a jejim členům, ať se daří i další ročníky této úspěšné akce!
-
-  V této souvislosti bychom si vám dovolili položit jednoduchou otázku Měl by ČSH
-  zorganizovat podobnou akci i pro české hemofiliky Svůj názor nám můžete sdělit prostřednictvím
-  tohoto odkazu'
+  líbí atmosféra a organizace této akce'
 featured-image: images/loga/logo_shz.jpg
 joomla_id: 138
 joomla_url: ples-hemofiliku-na-slovensku

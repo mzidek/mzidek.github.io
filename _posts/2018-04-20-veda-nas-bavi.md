@@ -7,34 +7,7 @@ excerpt: "Sobota 14 dubna byla pro členy svazu a Hemojunioru velmi očekávaný
   plzeňské Techmánie neodolalo na 150 našich členů Ti opět po roce přišli oslavit
   den, který po celém světě patří hemofilikům, tedy 17 duben To vše tradičně, za velmi
   vstřícné podpory a spolupráce společnosti Novo Nordisk V samotné Techmánii čekaly
-  opravdu nevšední zážitky\nMohli jsme si vyzkoušet a ověřit různé fyzikální či chemické
-  jevy, svou orientaci, sílu a mnoho dalšího Navštívili jsme také přilehlé 3D planetárium,
-  jediné v republice Diváci tu mají hvězdy, souhvězdí a galaxie téměř na dosah ruky,
-  proletí se blízkým i vzdáleným vesmírem a dozvědí se spoustu zajímavého\nSoučástí
-  budovy planetária je také expozice věnovaná poznávání vesmíru s největším lákadlem
-  – gyroskopem - na němž zažijete pocity kosmonautů v kosmické lodi Zázemí k odpočinku
-  jsme našli v sále vyhrazeném po celou dobu jen pro nás Účastníci si zde mohli v klidu
-  posedět a popovídat s přáteli, kamarády a zažehnat žízeň i hlad\nAby to byly oslavy
-  se vším všudy, udělovala tu svazová rada každoroční výroční cenu Držitelem letošní
-  se stal náš dlouholetý člen, který po dvanáct let zastával funkci radního, z toho
-  sedm let post předsednický, pan Vladimír Dolejš Za jeho působení se svaz na tuzemské
-  i mezinárodní scéně angažoval silněji, než kdy jindy a jeho pozice velmi posílila
-  Bojoval na půdě VZP i Státního ústavu pro kontrolu léčiv při nebezpečí redukce domácí
-  péče – ten navrhl změnu předpisů takovým směrem, jenž by mohl znamenat její konec
-  Svaz zastupoval na nespočetně popularizačních kampaních, které zahrnovaly tiskové
-  konference se skutečně viditelným výsledkem, účastnil se debat v Českém rozhlase,
-  České televizi a řadě celostátních tištěných periodik, takže přinesly nebývale velké
-  množství materiálů Dlouholeté působení v čele svazu a úspěchy pod jeho vedením,
-  kdy se svaz proměnil v moderní pacientskou organizaci, nikdo z historie nevymaže
-  Vladimír za sebou zanechal ve svazu a vůbec celé hemofilické veřejnosti nesmazatelnou
-  stopu a zapsal se tak mezi významné laureáty výroční ceny Českého svazu hemofiliků\nCelý
-  den v Techmánii jsme si náramně užili a nikdo, posuzujeme-li podle ohlasů, nebyl
-  ani trochu zklamaný Šlo o jubilejní desátý ročník, dovolíme si proto krátké shrnutí
-  míst, která jsme v rámci oslav Světového dne hemofilie navštívili a na která rádi
-  vzpomínáme První ročník jsme zasedli za volanty motokár v Praze, následovaly ZOO
-  Praha, Westernové městečko Boskovice, Tvrz Hummer Praha, Baťův kanál, Jindřichohradecká
-  úzkokolejka, Zážitkový park Zeměráj, Zámek Loučeň a Permonium v Oslavanech A kam
-  povedou naše kroky příště\n[widgetkit id=108]"
+  opravdu nevšední zážitky"
 featured-image: images/fotogalerie/hemofilicke-dny/techmania-2018/dsc_0312.jpg
 joomla_id: 335
 joomla_url: veda-nas-bavi

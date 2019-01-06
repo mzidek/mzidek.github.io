@@ -10,20 +10,7 @@ excerpt: 'Krásné prostředí pražského hotelu Alcron Radisson Blu se uplynul
   Vyhlášená restaurace Alcron je jednou ze tří restaurací v Praze, které obdržely
   michelinské hvězdy Hosté si tedy mohli užít nevšední gastronomický zážitek, příjemně
   zatančit, vyhrát hodnotné ceny v tombole a vůbec, zase se po čase setkat a prožít
-  spolu příjemný večer
-
-  Avšak, především šlo o poděkování všem, kteří věnují svůj čas, energii a pomáhají
-  s námi těm, jejichž životní útrapy sužuje krvácivé onemocnění Děkujeme všem, kteří
-  přišli a udělali tento večer výjimečným, celému organizačnímu týmu v čele s Katkou
-  Altmanovou Upřímné díky kolegové z Hemojunioru a členové obou organizací, kteří
-  jste se na přípravách podíleli Večerem provázela sehraná dvojice členů Tereza Koblasová
-  a Vojtěch Horník, k tanci a poslechu hrála kapela Živý Jukebox s Honzou Roušarem,
-  o pitný režim se tentokrát postarala Vinotéka Romana Porteše a také Pivovar Lužiny,
-  jehož pivo bylo zdarma v průběhu celého večera Všem, přátelé, ještě jednou srdečné
-  DÍKY! 
-
-  Těšíme se na další pokračování! Několik fotografií, za něž děkujeme Monice Vojkůvkové,
-  si můžete prohlédnout na hemofilickém rajčeti'
+  spolu příjemný večer'
 featured-image: images/uvodnik-clanku-foto/spoleensk%20veer%202017%2032.jpg
 joomla_id: 291
 joomla_url: vecer-plny-zabavy

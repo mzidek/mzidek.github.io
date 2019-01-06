@@ -9,27 +9,7 @@ excerpt: 'Letošní rekondice dospělých hemofiliků se opět uskuteční v Led
   Předem se omlouváme, pokud nebudeme schopni uspokojit všechny zájemce, kapacita
   objektu je 30 osob
 
-
-  Předpokládaná cena pro hemofiliky - členy ČSH, pravidelně platící členské příspěvky
-  - je 2900,- Kč Pro ostatní zájemce je cena stanovena v závislosti na nákladech,
-  cca 4500,- Kč včetně procedur Cena zahrnuje snídaně od organizátorů přímo na místě
-  a oběd v místních restauracích Hemofilikům samozřejmě nebude chybět odborná rehabilitace
-  Obden, počínaje sobotou by měl být k dispozici bazén, ve všední dny též vířivé,
-  perličkové nebo jodobromové koupele v místních lázních V případě nezájmu o koupel
-  bude její cena z celkové částky odečtena O případných dalších službách je možno
-  se informovat na wwwlednicelaznecz
-
-  Více informací o pobytu naleznete v článcích z minulých let, fotodokumentaci v rubrice
-  fotogalerie
-
-  Přihlásit se můžete nejpozději do 31 března 2013 pomocí formuláře zde (preferované
-  přihlášení), případně e-mailem na mskorepa@hemofilicicz nebo telefonicky na 777
-  078 504 Přednost budou mít dříve přihlášení zájemci Na uvedených kontaktech získáte
-  také případné další informace
-
-   Za organizátory se na setkání těší
-
-   Michal Skořepa'
+'
 featured-image: images/fotogalerie/dospele-rekondice/2011-lednice/475.jpg
 joomla_id: 131
 joomla_url: pojedte-do-lednice

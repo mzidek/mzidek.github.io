@@ -5,20 +5,7 @@ date: 2012-11-06 16:39:54
 excerpt: "Jak už všichni velmi dobře víme, uskutečnilo se v posledním říjnovém víkendu
   v Praze zasedání kongresu EHC \nNáš svaz se stal spolupořadatelem, což znamenalo
   obrovské nasazení celého přípravného výboru Bohužel se stalo, že tíha příprav padla
-  na velice redukovaný počet členů Rady ČSH\nPředsedou přípravného výboru jsem se
-  stal už před řadou měsíců, ale ve vypjatém období posledních týdnů jsem bohužel
-  vypadl pro nemoc ze hry Práce se ujal místopředseda Rady Martin Bohůn a dotáhl všechno
-  až do vítězného konce Vydatně mu pomáhala i radní Jana Kalábová – mnozí ji znají
-  ještě pod dívčím jménem Dvořáčková – ale největší zásluhu na pražském úspěchu má
-  právě Martin Bohůn\nChtěl bych mu i touto cestou z celého srdce poděkovat za vše,
-  co pro zdar konference udělal Nebyl náhradníkem, ale skutečným vůdcem příprav Jeho
-  komunikace s výborem EHC, jím pověřenou kongresovou agenturou v irském Dublinu i
-  všemi institucemi u nás doma, zabrala spoustu času a vyžádala si nesmírné úsilí
-  Martin všechno, téměř osamocený, zvládl na jedničku a vysloužil si na kongresu potlesk
-  na otevřené scéně\nTak Martine – upřímné poděkování ode mě a jistě i od všech členů
-  svazu Nebýt tebe, asi bychom museli kongres odvolat A to by byla pořádná mezinárodní
-  ostuda\nVladimír Dolejš, předseda ČSH\nSouvisející články a odkazy:Úspěch Zdá se,
-  že anoV Praze se sejde hematologická elitawwwehc2012eu"
+  na velice redukovaný počet členů Rady ČSH"
 featured-image: images/fotogalerie/EHC_2012/10.jpg
 joomla_id: 119
 joomla_url: osobni-podekovani-predsedy-csh

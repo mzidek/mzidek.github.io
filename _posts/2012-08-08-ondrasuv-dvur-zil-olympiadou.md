@@ -10,77 +10,7 @@ excerpt: 'O víkendu v polovině července se už poosmé sjeli vedoucí, léka�
   hra nesla olympijské téma To se odráželo v téměř každé činnosti, která se na táboře
   odehrávala – vedoucí reprezentovali olympijský výbor, děti chodily cvičit do tréninkového
   centra, zdravotní problémy řešil sportovní lékař a sacharidy, tuky a bílkoviny doplňovali
-  sportovci v nutričním centru
-
-  Hned první večer po každoročním uvítání a seznámení se s táborem proběhl zahajovací
-  ceremoniál Zazněla olympijská hymna, byla vztyčena vlajka symbolizující pět kontinentů
-  a byly představeny 4 týmy, které se proti sobě celé dva týdny utkávaly v jednotlivých
-  disciplínách – za Evropu Velká Británie, za Ameriku USA, Asii reprezentovalo Japonsko
-  a z Oceánie přijeli sportovci ostrova zvaného Lízátkonie
-
-  Typický den začínal ne úplně oblíbenou rozcvičkou, potom po snídani následovaly
-  dopolední dílny - každý den se vyrábělo něco jiného, a tak na konci tábora měly
-  děti vyrobené krásné masky, svíčky, lapače snů nebo lampiony V průběhu dopolední
-  také probíhaly rehabilitace – jak skupinové, tak individuální Odpoledne přišla na
-  řadu vždy etapová hra, ve které se sportovci snažili v různých olympijských disciplínách
-  vybojovat pro svou zemi co nejhodnotnější medaili Na konci tábora se potom vyhodnocovalo
-  umístění právě podle počtu získaných medailí
-
-  Jeden večer proběhla celotáborová show Talent LHT 2012 Tu přijel moderovat sám Leoš
-  Mareš (který už se ovšem viděl ve Frýdku na diskotéce) a během ní se v nejednom
-  sportovci objevil i skrytý kulturní talent
-
-  Když zrovna nepršelo, využívali jsme hřiště – hrál se florbal, ve kterém byl dokonce
-  uspořádán turnaj, fotbal nebo třeba badminton Zvlášť druhý týden, když bylo teplo,
-  jsme se hodně vyřádili v bazénu, protože občas bylo kvůli horku skoro k nevydržení
-
-  Každý týden jsme na den opustili tábor a vydali se na výlet První středu se našim
-  cílem staly Trojanovice u Frenštátu a zdejší motokárová trať Strávili jsme tu několik
-  hodin, takže si každý mohl několikrát projet celý asi 700metrový okruh a všichni
-  si to dosyta užili - i přes počasí, které nám v několika chvílích udělalo z trati
-  skoro až klouzačku
-
-  Druhý týden jsme vyrazili za kulturou – nejdřív jsme navštívili muzeum Tatrovky
-  v Kopřivnici a odpoledne jsme se přesunuli do Štramberka, kde jsme si prohlédli
-  historické centrum a hrad Trúba
-
-  Zajímavým zpestřením tábora byla návštěva terénního triatlonisty Tomáše Slavaty
-  S tím jsme si jeden večer povídali o jeho sportovním životě i nelehkém mládí, které
-  musel překonat Dnes se kromě sportu věnuje i aktivitám pro děti z dětských domovů
-  - všechny jeho projekty i zmínka o našem táboře jsou na wwwtomasslavatacz
-
-  Pravidelně probíhaly také profylaxe, a jako každý rok, i letos se několik nejmladších
-  hemofiliků naučilo samostatně si aplikovat své léky do žíly, což je jedna ze základních
-  dovedností, které děti musí umět, aby jim hemofilie v budoucnu nekomplikovala život
-  Rádi bychom jmenovali Péťu Š, Perníčka a Járu s Pájou! Jen tak dále, jste jedničky
-  kluci!
-
-  Letos mohly děti v praxi vidět, co udělá faktor VIII nebo IX aplikovaný do jejich
-  těla To díky přístroji zvanému Koagulometr, který na tábor na jeden den přivezla
-  Bára Jordánová z Dětské nemocnice Brno Dětem se odebral vzorek krve před a po podání
-  léku a na výsledku vyšetření byla vidět změna koagulačních časů odpovídající hladině
-  faktoru v jejich krvi Všichni tak získali přesnější představu, proč si vůbec léky
-  podáváme
-
-  Poslední večer nastalo vyhodnocení celotáborové hry a vyhlášení vítězů Na počest
-  nejúspěšnějšího státu zazněla i britská hymna a po oficiálním zakončení her se sportovci
-  i s realizačními týmy přesunuli na závěrečnou párty, kde si všichni vychutnali dozvuky
-  1 letní hemofilické olympiády 2012 Olympijská štafeta se tak z Ondrášova dvora přesunula
-  na další dva týdny do Londýna
-
-  Díky opravdu nabitému programu se všechny děti bavily, zasportovaly si, díky rehabilitacím
-  odjížděly možná o trochu zdravější a snad i o trochu vzdělanější, co se hemofilie
-  týče Každý tu ale určitě našel nové kamarády nebo upevnil stará přátelství To, co
-  v nás tábor zanechal, ukázaly slzičky na tvářích dětí i dospělých v sobotu ráno
-  při odjezdu Shrnuto jednou větou: Další tábor, který se díky práci vedoucích, zdravotnického
-  personálu i rehabek podařilo uskutečnit tak, že z něj všichni odjížděli navýsost
-  spokojení
-
-  Velké díky patří rovněž našim sponzorům Bayer, Baxter, Grifols, Moneta Money Bank,
-  Novo Nordisk, Octapharma, Sobi, Sysmex a všem ostatním za jejich věcné či finanční
-  dary
-
-  [widgetkit id=43]'
+  sportovci v nutričním centru'
 featured-image: images/fotogalerie/detske-tabory/2012-ondrasuv-dvur/lht_2012/41_lht2012.jpg
 joomla_id: 104
 joomla_url: ondrasuv-dvur-zil-olympiadou

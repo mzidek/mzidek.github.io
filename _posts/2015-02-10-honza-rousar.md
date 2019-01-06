@@ -9,16 +9,7 @@ excerpt: 'Benefiční koncert věnovaný Českému svazu hemofiliků a křest CD
   Na CD uslyšíte zhudebněné texty autorů Miloně Čepelky, Ester Kočičkové, Václava
   Tobrmana a dalšíchInterpreti, kteří se podíleli na tomto albu jsou např: Ondřej
   Ruml, Ruda z Ostravy, Václav Tobrman, Jakub Hübner, Ivana Korolová, Naďa Válová,
-  Eva Dvořáková, či Martina Trchová
-
-  Zakoupením vstupenky s CD, které obdržíte v den koncertu, je vstupné 400 Kč, bez
-  CD 200 Kč, samostatné CD pak 250 Kč Návštěvou koncertu, či zakoupením CD přispějete
-  lidem se špatnou srážlivostí krve
-
-  Hrají: Honza Roušar a hosté, začátek koncertu je v 19 hod Těšíme se na společné
-  setkání!http://zivyjukeboxcz/
-
-  REZERVACE VSTUPENEK'
+  Eva Dvořáková, či Martina Trchová'
 featured-image: images/uvodnik-clanku-foto/hr.jpg
 joomla_id: 222
 joomla_url: honza-rousar

@@ -11,27 +11,7 @@ excerpt: 'Dovídat se něco nového je potřebné Máme pro vás dva tipy, kde z
   Spousta informací je samozřejmě triviálních, ale ne nadarmo tu čerpají i lékaři,
   fyzioterapeuti, sestry, laboranti a další specialisté Databáze textů, tabulek, obrázků
   a videí se neustále rozšiřuje, k dispozici je samozřejmě hlavně v angličtině, ale
-  také ve francouzštině, španělštině a čínštině
-
-  Pod odkazem http://elearningwfhorg najdete bohatý rozcestník, který vás dovede až
-  přesně k materiálu, který potřebujete A pokud zrovna nic sami vyhledat nepotřebujete,
-  podívejte se na bohatý seznam, třeba vás přeci jen něco zaujme
-
-  Pod dalším odkazem se skrývají především obrázky Z nich je patrné, jak vypadají
-  klouby zdravého člověka, jak hemofilické v různém věku, při různé zátěži a podobně
-  Postupně se tak volí věk, převládající fyzické aktivity a tak dále Každý si tak
-  může snadno zjistit, co ho asi čeká a v jak vzdálené budoucnosti Zkuste to i vy,
-  otevřete si http://hjvbayercom/ 
-
-  I náš svaz se pravidelně účastní velmi rozsáhlého každoročního průzkumu WFH, kde
-  se shromažďují data o jednotlivých členských zemích Z nich je patrné, kolik je v které
-  zemi hemofiliků v jakém věkovém i typovém rozvrstvení, čím se kde léčí, v jakém
-  množství a tak dále Sběr dat z celého světa je zřejmě velmi náročný, včetně tvorby
-  názorných grafů, takže hotové dílo se dá zveřejnit vždycky až na podzim následujícího
-  roku Právě teď spatřil světlo světa souhrn dat za rok 2015, k nahlédnutí všem je
-  k dispozici i na internetu pod odkazem http://www1wfhorg/publications/files/pdf-1669pdf
-  a určitě přináší zajímavý pohled každému, kdo se jen trochu o krvácivé choroby zajímá
-  Nezahrnuje totiž jen hemofilii, ale třeba i von Willebrandovu chorobu'
+  také ve francouzštině, španělštině a čínštině'
 featured-image: images/uvodnik-clanku-foto/uzitecne_odkazy.jpg
 joomla_id: 283
 joomla_url: uzitecne-odkazy

@@ -2,66 +2,15 @@
 author: Martin Bohůn
 category: Uncategorised
 date: 2018-10-27 17:04:32
-excerpt: "\nEvropská síť inhibitoriků (ESI) je program Evropského hemofilického konsorcia,
-  který se věnuje hemofilikům s inhibitorem, jejich rodinám a zdravotníkům z celé
-  Evropy\nHemofilie je vzácná choroba, ale její kombinace s inhibitorem přináší ještě
-  řadu dalších komplikací Naštěstí je počet hemofiliků s inhibitorem v Evropě nízký,
-  ale i tak přináší určitou dávku stresu a obav Obav z izolace, nedostatečné léčby
-  a vzniku sociálních bariér vlivem snížené možnosti pohybu a dalších potíží\nEvropské
-  hemofilické konsorcium (EHC) se snaží inhibitoriky přivést do jedné skupiny a v ní
-  pomocí různých podpůrných systémů vytvořit silnou komunitu Prostřednictvím ESI mají
-  možnost sdílet zkušenosti, rady a podporu v celoevropském měřítku\nCíle\nPro dosažení
-  úspěchu EHC velmi úzce spolupracuje s členskými organizacemi v jednotlivých zemích
-  a dalšími klíčovými partnery Stanovilo si především tyto cíle:\n\nCo nejlepší pochopení
-  popsání potřeb inhibitoriků\nVytvořit evropskou normu pro sjednocení standardů léčby
-  a celkové péče o inhibitoriky\nPodporovat sociální a vzdělávací vztahy mezi inhibitoriky
-  a jejich ošetřujícím personálem tak, aby navzájem podporovali a vzdělávali\nPodporovat
-  inhibitoriky při aktivní a efektivní komunikaci se všemi autoritami, které léčbu
-  a péči ovlivňují\n\nPro naplnění těchto cílů vznikla při EHC Inhibitorická pracovní
-  skupina složená ze samotných hemofiliků, ale také rodičů, lékařů, a všech, kdo s problémem
-  přicházejí do styku Pro ní je velmi důležitá úzká vazba na členské hemofilické organizace
-  a všechny další autority, jež mohou dění v tomto směru ovlivňovat\nTři hlavní úkoly
-  Evropské sítě inhibitoriků:\n\nZavedení Evropských standardů léčby a péče\nOtevření
-  vzájemných komunikačních kanálů\nTvorba nástrojů a materiálů pro obhajobu potřeb
-  inhibitoriků\n\n1 Evropské standardy léčby\nVzniklo deset zásad, jak zvládnout hemofilii
-  s inhibitorem s důrazem na důležitost a výhody centralizovaného multidisciplinárního
-  přístupu Tyto zásady budou sloužit jako základ pro zkvalitnění multidisciplinární
-  a praktické péče Naplnění a dodržování každé z těchto zásad by mělo mít pozitivní
-  vliv na život hemofiliků s inhibitorem K článku, publikovaném v Orphanet Journal
-  of Rare Diseases, je připraveno video a poster, nastiňující tyto zásady, které mohou
-  být použity jako nástroj pro hájení zájmů hemofiliků s inhibitorem\n2 Vzájemná komunikace\nSummit
-  Inhibitoriků EHC\nÚčelem je nabídnout lidem s hemofilií trpícím inhibitorem, jejich
-  rodinám a pečovatelům možnost se vzdělávat a vzájemně podporovat tak, aby se kvalita
-  života stále zlepšovala Velmi důležitým aspektem je nalezení podpory a pochopení
-  u lidí v podobné životní situaci Od prvního summitu v roce 2016, se více než 200
-  hemofiliků s inhibitorem a jejich rodinných příslušníků z více než 17 zemí setkalo,
-  aby si předali poznatky Summit se pro ně ukázal být neocenitelný Příští je na programu
-  v prosinci\nAmbasadoři inhibitoriků\nJmenuje je EHC a národní členské organizace
-  Hlavní rolí ambasadora je posilovat celou komunitu v Evropě tím, že budou aktivní
-  vazbou mezi inhibitoriky v každé zemi a samotnou ESI Na domácí půdě se budou snažit
-  co nejvíce zapojit inhibitoriky do všech aktivit pacientské organizace Svého zástupce
-  má v ESI i Český svaz hemofiliků, je jím dlouholetý člen Jan Půček Za tímto účelem
-  byla zřízena i emailová adresa czechrepublic@inhibitor-networkeu, která slouží právě
-  ke komunikaci mezi ESI, národní členskou organizací a inhibitoriky v České republice\nChat
-  & Zeptej se experta\nJako součást ESI vznikla internetová platforma s cílem vytvořit
-  online komunitu a usnadnit vzájemnou výměnu názorů a podpořit sociální a intelektuální
-  spojení všech Online komunita je založena na třech hlavních principech: porozumění,
-  vzdělání a kontaktu Informace a odborné články zabývající se různými aspekty života
-  jsou dostupné online; Chatovací platforma je otevřena pro zprostředkování diskuzí
-  mezi inhibitoriky a experty na hemofilickou léčbu každý měsíc na některé zajímavé
-  téma Více informací na wwwinhibitorehceu\nPrvní ze série videokonferencí \"Happy
-  hour with an expert in haemophilia care\" se bude konat 1 listopadu v 1900 hodin
-  středoevropského času Tématem je „Správná péče o zuby“, hostem bude irský lékař
-  Allison Dougall a zúčastnit se ho můžete i vy Předem je však nutná krátká registrace
-  na webových stránkách Evropského hemofilického konsorcia pod tímto odkazem Videokonference
-  bude probíhat v anglickém jazyce\n3 Materiály pro inhibitoriky \nPro styk všech
-  příslušníků komunity vytvořilo EHC několik nástrojů sloužících k dosažení optimální
-  terapie a zdravotní péče Online platforma ESI poskytuje specifický vzdělávací materiál
-  každé zájmové skupině - pacientům, zdravotníkům i národním pacientským organizacím
-  Zprostředkovává informace o momentální dostupné léčbě a dalších novinách, jako je
-  fyzioterapie nebo psychosociální problematika Řada postupů získaných od národních
-  federací se dá použít i celoevropsky Principy představují základ, který pomůže v léčbě
-  a optimální péči všem inhibitorikům, nezávisle na zemi jejich pobytu"
+excerpt: '
+
+  Evropská síť inhibitoriků (ESI) je program Evropského hemofilického konsorcia, který
+  se věnuje hemofilikům s inhibitorem, jejich rodinám a zdravotníkům z celé Evropy
+
+  Hemofilie je vzácná choroba, ale její kombinace s inhibitorem přináší ještě řadu
+  dalších komplikací Naštěstí je počet hemofiliků s inhibitorem v Evropě nízký, ale
+  i tak přináší určitou dávku stresu a obav Obav z izolace, nedostatečné léčby a vzniku
+  sociálních bariér vlivem snížené možnosti pohybu a dalších potíží'
 featured-image: images/uvodnik-clanku-foto/esi.jpg
 joomla_id: 348
 joomla_url: evropska-sit-inhibitoriku

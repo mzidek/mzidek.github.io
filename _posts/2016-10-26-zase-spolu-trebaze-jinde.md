@@ -9,32 +9,7 @@ excerpt: "\nŘada členů a příznivců svazu si už zvykla, že na podzim se s
   nedaleko Prahy, přímo u dálnice D 1 Na programu se už asi nedá nic nového vymyslet,
   spíš jde o to, čím obvyklé schéma naplnit Projevuje se tu snaha o obměnu, ale základ
   zůstává – přinášet nejnovější informace potřebné všem, seznámit je s vývojem a výhledem
-  péče a v neposlední řadě odpovědět na pokud možno vše, co účastníky zajímá\nProto
-  i obsazení odborníků zůstalo takřka beze změny Hematologové Peter Salaj z ÚHKT Praha,
-  Jan Blatný z dětské nemocnice v Brně, ortopéd Petr Teyssler a fyzioterapeutka Marie
-  Katzerová zůstávají základem, stejně jako odbornice na sociální otázky Marcela Štáfová
-  Svaz se snaží takové osazenstvo doplnit vždycky někým novým, tu roli tentokrát sehrála
-  stomatoložka Eva Zapletalová, kardioložka Petra Vysočanová  a psycholog Milan Pilát
-  Velký zájem z řad účastníků sklidil kurz první pomoci záchranářského specialisty
-  Aleše Vosáhla a kdo chtěl rozpohybovat své tělo, měl možnost při instruktážní lekci
-  techniky chůze s holemi Nordic Walking, neboli severské chůze s hůlkami O tom, že
-  se program trefil do černého, svědčí bohatá diskuze po každém vystoupení a ještě
-  na závěr obsáhlá panelová debata\nSvazová Rada tak získala potvrzení, že tyto snahy
-  se setkávají s úspěchem a že je třeba v nich pokračovat Na své si přijdou při takové
-  příležitosti všichni, včetně rodičů malých dětí, o jejichž ratolesti se po celý
-  den starají opatrovnice v jakési improvizované miniškolce\nJan Blatný přinesl statistický
-  přehled o výskytu hemofilie u nás, Peter Salaj zvolil netradiční formu a nepřednesl
-  žádnou přednášku Hned v úvodu navrhl, že bude lepší společně hovořit o tom, co právě
-  účastníky zajímá a bylo toho skutečně víc než dost\nHovořilo se i o srdečních záležitostech
-  spojených s hemofilií, a to doslova i přeneseně Vyšlo najevo, že hemofilická populace,
-  která se na rozdíl od dob předválečných dožívá stejného věku jako většinová populace,
-  se už ale dožívá také onemocnění srdce a měla by na určité zásady dbát A také na
-  to, aby vyrůstající generace dospěla v hodnotné a potřebné lidi, k čemuž jim musí
-  být nápomocná především rodina\nŠkolení ale zabralo jen část celkového dva a půl
-  denního programu Šlo především o vzájemné setkání, takže většina přítomných se srdečně
-  vítala už při příjezdu Znají se z minula a na konci si slibovali, že – pokud ne
-  dříve – se potkají zase za roh A stranou nezůstala ani možnost využít proslulého
-  Aquacentra se všemi atrakcemi \n\n\n\n[widgetkit id=98] \n\n\n"
+  péče a v neposlední řadě odpovědět na pokud možno vše, co účastníky zajímá"
 featured-image: images/fotogalerie/workshopy/cestlice-2016/cestlice_6.jpg
 joomla_id: 281
 joomla_url: zase-spolu-trebaze-jinde
