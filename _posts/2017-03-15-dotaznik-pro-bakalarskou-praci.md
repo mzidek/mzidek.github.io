@@ -17,6 +17,35 @@ layout: post
 title: Dotazník pro bakalářskou práci
 ---
 
-<h4 style="text-align: justify;"><span style="color: #000000;"><img src="images/symboly/klavesnice.jpg" border="0" width="168" height="100" style="float: left; margin-left: 10px; margin-right: 10px;" /></span><span style="color: #000000;">Na náš svaz se obrátila studentka 3. ročníku Slezské univerzity v Opavě, oboru Všeobecná sestra.  V rámci své bakalářské práce s názvem "<strong>Kvalita života nemocných s hemofilií"<em> </em></strong>provádí výzkumné šetření. </span></h4>
-<p style="text-align: justify;"><span><span style="color: #000000;">Stručný dotazník, kterým můžete pomoci dobré věci, je zcela anonymní a najdete ho pod následujícím odkazem: </span><br /></span><strong><a href="https://www.survio.com/survey/d/A9A7Y8W2S3G1W4K2M" title="Dotazník studenta">https://www.survio.com/survey/d/A9A7Y8W2S3G1W4K2M</a></strong></p>
-<p style="text-align: justify;"><span style="color: #000000;">Za vyplnění předem děkujeme.</span></p>
+<h4 style="text-align: justify;">
+ <span style="color: #000000;">
+  <img border="0" height="100" src="{{ site.baseurl }}/images/symboly/klavesnice.jpg" style="float: left; margin-left: 10px; margin-right: 10px;" width="168"/>
+ </span>
+ <span style="color: #000000;">
+  Na náš svaz se obrátila studentka 3. ročníku Slezské univerzity v Opavě, oboru Všeobecná sestra.  V rámci své bakalářské práce s názvem "
+  <strong>
+   Kvalita života nemocných s hemofilií"
+   <em>
+   </em>
+  </strong>
+  provádí výzkumné šetření.
+ </span>
+</h4>
+<p style="text-align: justify;">
+ <span>
+  <span style="color: #000000;">
+   Stručný dotazník, kterým můžete pomoci dobré věci, je zcela anonymní a najdete ho pod následujícím odkazem:
+  </span>
+  <br/>
+ </span>
+ <strong>
+  <a href="https://www.survio.com/survey/d/A9A7Y8W2S3G1W4K2M" title="Dotazník studenta">
+   https://www.survio.com/survey/d/A9A7Y8W2S3G1W4K2M
+  </a>
+ </strong>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;">
+  Za vyplnění předem děkujeme.
+ </span>
+</p>

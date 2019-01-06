@@ -10,4 +10,6 @@ layout: post
 title: Šťastné a veselé
 ---
 
-<p style="text-align: center;"><img src="images/banners/pfko_svaz.jpg" border="0" width="730" height="180" style="vertical-align: middle;" /></p>
+<p style="text-align: center;">
+ <img border="0" height="180" src="{{ site.baseurl }}/images/banners/pfko_svaz.jpg" style="vertical-align: middle;" width="730"/>
+</p>

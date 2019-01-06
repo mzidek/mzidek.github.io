@@ -9,4 +9,6 @@ layout: post
 title: Fotogalerie z konání EHC v Praze
 ---
 
-<p>[widgetkit id=49]</p>
+<p>
+ [widgetkit id=49]
+</p>

@@ -9,4 +9,8 @@ layout: post
 title: Fotogalerie
 ---
 
-<p><code>[widgetkit id=3]</code></p>
+<p>
+ <code>
+  [widgetkit id=3]
+ </code>
+</p>

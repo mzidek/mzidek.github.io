@@ -12,4 +12,63 @@ layout: post
 title: Konference ČSH dne 14. října 2017 v Praze
 ---
 
-<p><strong><span style="font-size: small; color: #800000;"><strong><img src="images/loga/logo.png" border="0" width="182" height="104" style="float: left; margin-left: 10px; margin-right: 10px;" /></strong>»</span> <a href="images/dokumenty-pdf-doc/konference2017/zapis_z_konference_2017.pdf" title="Zápis z konference ČSH 2017">Zápis z jednání Konference v Praze ze dne 14.10.2017</a><br /><span style="font-size: small; color: #800000;"><strong>»</strong></span> <a href="images/dokumenty-pdf-doc/konference2017/zprava_o_cinnosti_csh_2017.pdf" title="Zpráva o činnosti ČSH 2017">Zpráva o činnosti ČSH za období 2014 - 2017</a><br /></strong><strong><span style="font-size: small; color: #800000;"><strong><strong>»</strong></strong></span> <a href="images/dokumenty-pdf-doc/konference2017/zprava_o_hospodareni_2015_2017.pdf" title="Zpráva o hospodaření ČSH 2015-2017">Zpráva o hospodaření ČSH za období 2015 - 2017</a><br /><strong><span style="font-size: small; color: #800000;"><strong><strong>»</strong></strong></span> <a href="images/dokumenty-pdf-doc/konference2017/zprava_revizni_komise_2017.pdf" title="Zpráva revizní komise ČSH 2017">Zpráva revizní komise 2017</a></strong><br /><strong><span style="font-size: small; color: #800000;">»</span> <a href="images/dokumenty-pdf-doc/konference2017/usneseni_konference_2017.pdf" title="Usnesení konference 2017"><strong>Usnesení Konference ze dne 14.10.2017</strong></a></strong> <br /></strong></p>
+<p>
+ <strong>
+  <span style="font-size: small; color: #800000;">
+   <strong>
+    <img border="0" height="104" src="{{ site.baseurl }}/images/loga/logo.png" style="float: left; margin-left: 10px; margin-right: 10px;" width="182"/>
+   </strong>
+   »
+  </span>
+  <a href="images/dokumenty-pdf-doc/konference2017/zapis_z_konference_2017.pdf" title="Zápis z konference ČSH 2017">
+   Zápis z jednání Konference v Praze ze dne 14.10.2017
+  </a>
+  <br/>
+  <span style="font-size: small; color: #800000;">
+   <strong>
+    »
+   </strong>
+  </span>
+  <a href="images/dokumenty-pdf-doc/konference2017/zprava_o_cinnosti_csh_2017.pdf" title="Zpráva o činnosti ČSH 2017">
+   Zpráva o činnosti ČSH za období 2014 - 2017
+  </a>
+  <br/>
+ </strong>
+ <strong>
+  <span style="font-size: small; color: #800000;">
+   <strong>
+    <strong>
+     »
+    </strong>
+   </strong>
+  </span>
+  <a href="images/dokumenty-pdf-doc/konference2017/zprava_o_hospodareni_2015_2017.pdf" title="Zpráva o hospodaření ČSH 2015-2017">
+   Zpráva o hospodaření ČSH za období 2015 - 2017
+  </a>
+  <br/>
+  <strong>
+   <span style="font-size: small; color: #800000;">
+    <strong>
+     <strong>
+      »
+     </strong>
+    </strong>
+   </span>
+   <a href="images/dokumenty-pdf-doc/konference2017/zprava_revizni_komise_2017.pdf" title="Zpráva revizní komise ČSH 2017">
+    Zpráva revizní komise 2017
+   </a>
+  </strong>
+  <br/>
+  <strong>
+   <span style="font-size: small; color: #800000;">
+    »
+   </span>
+   <a href="images/dokumenty-pdf-doc/konference2017/usneseni_konference_2017.pdf" title="Usnesení konference 2017">
+    <strong>
+     Usnesení Konference ze dne 14.10.2017
+    </strong>
+   </a>
+  </strong>
+  <br/>
+ </strong>
+</p>

@@ -20,6 +20,27 @@ layout: post
 title: Světový den hemofilie připomíná důležitost včasné kvalitní léčby
 ---
 
-<h4><strong><img src="images/loga/logo-hemo.jpg" border="0" width="150" height="90" style="float: left; margin-left: 10px; margin-right: 10px;" /></strong><span style="color: #000000;">Tisková zpráva, Praha, 16. dubna 2012</span></h4>
-<p style="text-align: justify;"><em><span style="color: #000000;">Světová hemofilická federace  již tradičně vyhlašuje 17. duben Světovým dnem hemofilie. Den, kdy si celý svět připomíná závažnost tohoto onemocnění srážlivosti krve, se letos koná pod heslem „pojďme zmenšit propast“. Kampaň přibližuje celosvětovou situaci hemofiliků, jejich možnosti prožít  plnohodnotný život a také pozitivně hodnotí zvyšující se úroveň léčby hemofilie v  evropských zemích. Zdůrazňuje důležitost preventivní tzv. profylaktické léčby a to jak u dětí, tak u dospělých, která výrazně snižuje dopady onemocnění na zdravotní stav hemofiliků.</span></em></p>
-<p><strong><a href="images/dokumenty-pdf-doc/tiskova_zprava_16_4_2012.pdf" target="_blank" title="Tisková zpráva 16.dubna 2012">Stáhnout soubor pdf |<img src="images/Ikony/ikona_pdf.jpg" border="0" width="17" height="17" /> |</a></strong></p>
+<h4>
+ <strong>
+  <img border="0" height="90" src="{{ site.baseurl }}/images/loga/logo-hemo.jpg" style="float: left; margin-left: 10px; margin-right: 10px;" width="150"/>
+ </strong>
+ <span style="color: #000000;">
+  Tisková zpráva, Praha, 16. dubna 2012
+ </span>
+</h4>
+<p style="text-align: justify;">
+ <em>
+  <span style="color: #000000;">
+   Světová hemofilická federace  již tradičně vyhlašuje 17. duben Světovým dnem hemofilie. Den, kdy si celý svět připomíná závažnost tohoto onemocnění srážlivosti krve, se letos koná pod heslem „pojďme zmenšit propast“. Kampaň přibližuje celosvětovou situaci hemofiliků, jejich možnosti prožít  plnohodnotný život a také pozitivně hodnotí zvyšující se úroveň léčby hemofilie v  evropských zemích. Zdůrazňuje důležitost preventivní tzv. profylaktické léčby a to jak u dětí, tak u dospělých, která výrazně snižuje dopady onemocnění na zdravotní stav hemofiliků.
+  </span>
+ </em>
+</p>
+<p>
+ <strong>
+  <a href="images/dokumenty-pdf-doc/tiskova_zprava_16_4_2012.pdf" target="_blank" title="Tisková zpráva 16.dubna 2012">
+   Stáhnout soubor pdf |
+   <img border="0" height="17" src="{{ site.baseurl }}/images/Ikony/ikona_pdf.jpg" width="17"/>
+   |
+  </a>
+ </strong>
+</p>

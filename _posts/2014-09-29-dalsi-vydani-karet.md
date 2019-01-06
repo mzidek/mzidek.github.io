@@ -15,6 +15,37 @@ layout: post
 title: Další vydání karet
 ---
 
-<h4 style="text-align: justify;"><span style="color: #000000;"><img src="images/fotografie-do-clanku/prukaz-hemofilika/karta_hemofilici_front.jpg" border="0" width="168" height="90" style="float: left; margin-left: 10px; margin-right: 10px;" />V poslední době se vyskytly drobné problémy s výrobou a distribucí identifikačních karet, na jejichž odstranění intenzivně pracujeme. </span></h4>
-<p style="text-align: justify;"><span style="color: #000000;">Ti z Vás, kteří o kartu požádali a doposud ji neobdrželi, ať se ozvou na příslušné svazové kontakty</span> <strong><a href="mailto:info@hemofilici.cz">info@hemofilici.cz</a></strong>, <span style="color: #000000;">nebo telefon <strong>777 078 509</strong>. Všichni ostatní zájemci můžou o kartu žádat standardní cestou prostřednictvím</span> <strong><a href="index.php/cs/dokumenty/category/5-prukaz-hemofilika" title="Průkaz hemofilika">tohoto formuláře.</a></strong></p>
-<p style="text-align: justify;"><span style="color: #000000;">Děkujeme za pochopení a omlouváme se za vzniklé komplikace. </span></p>
+<h4 style="text-align: justify;">
+ <span style="color: #000000;">
+  <img border="0" height="90" src="{{ site.baseurl }}/images/fotografie-do-clanku/prukaz-hemofilika/karta_hemofilici_front.jpg" style="float: left; margin-left: 10px; margin-right: 10px;" width="168"/>
+  V poslední době se vyskytly drobné problémy s výrobou a distribucí identifikačních karet, na jejichž odstranění intenzivně pracujeme.
+ </span>
+</h4>
+<p style="text-align: justify;">
+ <span style="color: #000000;">
+  Ti z Vás, kteří o kartu požádali a doposud ji neobdrželi, ať se ozvou na příslušné svazové kontakty
+ </span>
+ <strong>
+  <a href="mailto:info@hemofilici.cz">
+   info@hemofilici.cz
+  </a>
+ </strong>
+ ,
+ <span style="color: #000000;">
+  nebo telefon
+  <strong>
+   777 078 509
+  </strong>
+  . Všichni ostatní zájemci můžou o kartu žádat standardní cestou prostřednictvím
+ </span>
+ <strong>
+  <a href="index.php/cs/dokumenty/category/5-prukaz-hemofilika" title="Průkaz hemofilika">
+   tohoto formuláře.
+  </a>
+ </strong>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;">
+  Děkujeme za pochopení a omlouváme se za vzniklé komplikace.
+ </span>
+</p>

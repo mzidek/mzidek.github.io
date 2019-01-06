@@ -18,6 +18,29 @@ layout: post
 title: Ptejte se na hemofilii MUDr. Petera Salaje
 ---
 
-<h4 style="text-align: justify;"><img src="images/uvodnik-clanku-foto/mudr_peter_salaj.jpg" border="0" width="168" height="100" style="float: left; margin-left: 10px; margin-right: 10px;" /><span style="color: #000000;">Tématem pořadu <strong>Káva o čtvrté</strong> na stanici Český rozhlas Dvojka bude hemofilie.</span></h4>
-<p style="text-align: justify;"><span style="color: #000000;">Do připravované rozhlasové relace, plánované na<strong> pátek 15.12. od 16.00 hodin,</strong> přijal pozvání MUDr. Peter Salaj, vedoucí centra pro trombózu a hemostázu Ústavu hematologie a krevní transfuze v Praze. V pravidelném rozhlasovém povídání o zdraví, které na Českém rozhlasu 2 moderuje MUDr. Jiří Pešina, dostane tentokrát prostor vrozené krvácivé onemocnění a život českých hemofiliků.</span></p>
-<p style="text-align: justify;"><span style="color: #000000;"><em>Foto: Český svaz hemofiliků</em>  </span></p>
+<h4 style="text-align: justify;">
+ <img border="0" height="100" src="{{ site.baseurl }}/images/uvodnik-clanku-foto/mudr_peter_salaj.jpg" style="float: left; margin-left: 10px; margin-right: 10px;" width="168"/>
+ <span style="color: #000000;">
+  Tématem pořadu
+  <strong>
+   Káva o čtvrté
+  </strong>
+  na stanici Český rozhlas Dvojka bude hemofilie.
+ </span>
+</h4>
+<p style="text-align: justify;">
+ <span style="color: #000000;">
+  Do připravované rozhlasové relace, plánované na
+  <strong>
+   pátek 15.12. od 16.00 hodin,
+  </strong>
+  přijal pozvání MUDr. Peter Salaj, vedoucí centra pro trombózu a hemostázu Ústavu hematologie a krevní transfuze v Praze. V pravidelném rozhlasovém povídání o zdraví, které na Českém rozhlasu 2 moderuje MUDr. Jiří Pešina, dostane tentokrát prostor vrozené krvácivé onemocnění a život českých hemofiliků.
+ </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;">
+  <em>
+   Foto: Český svaz hemofiliků
+  </em>
+ </span>
+</p>

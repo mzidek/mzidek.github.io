@@ -6,7 +6,65 @@ excerpt: '
 
   Zápis z jednání Rady ČSH ve Vráži 3 12 2015
 
-  Přítomni: M Bohůn, V Dolejš, M Skořepa, V TóthOmluveni: P Grim, A Žídková, J Kalábová'
+  Přítomni: M Bohůn, V Dolejš, M Skořepa, V TóthOmluveni: P Grim, A Žídková, J Kalábová
+
+   
+
+  Rada ČSH projednávala tyto body:
+
+
+  V Tóth převzal od členů Rady finanční doklady pro zaúčtován
+
+  Rada ČSH potvrdila v roli statutárního zástupce svazu jeho předsedu PhDr Vladimíra
+  Dolejše
+
+  Rada pověřila předsedu jednat s ÚHKT o uzavření nájemní smlouvy pro potřeby zápisu
+  spolku do rejstříku
+
+  Rada pověřila předsedu dokončit proces zápisu ČSH do rejstříku spolků
+
+  Ve spolupráci s Hemojuniorem se uskuteční 19 února 2016 Společenský večer v hotelu
+  Alcron Předseda Hemojunioru M Bereň do poloviny prosince upřesní podmínky, za nichž
+  Alcron připraví prostředí V závislosti na výsledku rozhodnou předsedové obou organizací
+  o výši účastnického poplatku vybíraného od každého účastníka
+
+  Pořadatelé pozvou všechny členy ČSH i HJ, dále pak zašlou po dvou čestných vstupenkách
+  do každého hemofilického centra a všem významným sponzorům
+
+  Rada pověřila předsedu a místopředsedu prodloužit smlouvy na zapůjčené motodlahy
+  centrům v ÚHKT Praha a FN Brno Současně si vyžádají v dotyčných centrech podmínky,
+  za nichž je zájemcům půjčují a Rada je zveřejní na webu
+
+  Předseda zjistí u norského svazu typ ultrazvukového přístroje pro zjišťování krvácení
+  a ČSH se následně bude snažit o zpřístupnění této metody pro domácí použití
+
+  Rada zpracuje manuál pro členy – hemofiliky se základním minimem požadavků, jež
+  mohou uplatňovat ve svých centrech Bude tak stanoveno nepodkročitelné minimum, na
+  něž má každý nárok Členové Rady zašlou své návrhy předsedovi do 15 prosince, ten
+  je pak zpracuje do návrhu uceleného dokumentu a předloží Radě ke schválení Poté
+  budou zásady zaslány České hematologické společnosti a Společnosti pro trombózu
+  a hemostázu k podpoře Na konci procesu bude moci každý tímto dokumentem v svém centru
+  operovat
+
+  M Skořepa informoval o možnosti nahradit Lednici pro jarní rekondici dospělých novým
+  prostředím penzionu Ohrada ve Vískách u Letovic Rada s návrhem souhlasí a ukládá
+  M Skořepovi doladit s vedením penzionu přesné podmínky, prostředí a vybavení tak,
+  aby maximálně vyhovovaly potřebám účastníků Ceny zůstanou stejné jako v předešlém
+  roce
+
+  Kontrola minulého zápisu: V Tóth a P Grim doplnili emailové adresy do databáze členů,
+  úkol V Tótha inventarizovat členské poplatky nadále trvá
+
+  Předseda připraví po skončení kalendářního roku výroční zprávu ČSH, V Tóth doplní
+  přehled hospodaření
+
+
+   Ve Vráži 3 prosince 2015
+
+  Zapsal: V Dolejš                                                             Ověřil:
+  M Bohůn
+
+'
 featured-image: images/uvodnik-clanku-foto/zapis_rada.jpg
 joomla_id: 255
 joomla_url: zapis-z-jednani-rady-csh-03-12-2015
@@ -19,27 +77,112 @@ title: Zápis z jednání Rady ČSH 03.12.2015
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<h4><img src="images/uvodnik-clanku-foto/zapis_rada.jpg" border="0" alt="Hemofilici" title="Zápis 3. prosince 2015" width="168" height="100" style="float: left; margin-left: 10px; margin-right: 10px;" /><span style="color: #000000;">Zápis z jednání Rady ČSH ve Vráži 3. 12. 2015</span></h4>
-<p style="text-align: left;"><span style="color: #000000;"><strong>Přítomni:</strong> M. Bohůn, V. Dolejš, M. Skořepa, V. Tóth<br /><strong>Omluveni:</strong> P. Grim, A. Žídková, J. Kalábová</span></p>
-
-<p style="text-align: left;"><strong> </strong></p>
-<p style="text-align: left;"><span style="color: #000000;"><strong>Rada ČSH projednávala tyto body:</strong></span></p>
+<h4>
+ <img alt="Hemofilici" border="0" height="100" src="{{ site.baseurl }}/images/uvodnik-clanku-foto/zapis_rada.jpg" style="float: left; margin-left: 10px; margin-right: 10px;" title="Zápis 3. prosince 2015" width="168"/>
+ <span style="color: #000000;">
+  Zápis z jednání Rady ČSH ve Vráži 3. 12. 2015
+ </span>
+</h4>
+<p style="text-align: left;">
+ <span style="color: #000000;">
+  <strong>
+   Přítomni:
+  </strong>
+  M. Bohůn, V. Dolejš, M. Skořepa, V. Tóth
+  <br/>
+  <strong>
+   Omluveni:
+  </strong>
+  P. Grim, A. Žídková, J. Kalábová
+ </span>
+</p>
+<p style="text-align: left;">
+ <strong>
+ </strong>
+</p>
+<p style="text-align: left;">
+ <span style="color: #000000;">
+  <strong>
+   Rada ČSH projednávala tyto body:
+  </strong>
+ </span>
+</p>
 <ol>
-<li><span style="color: #000000;">V. Tóth převzal od členů Rady finanční doklady pro zaúčtován</span></li>
-<li><span style="color: #000000;">Rada ČSH potvrdila v roli statutárního zástupce svazu jeho předsedu PhDr. Vladimíra Dolejše</span></li>
-<li><span style="color: #000000;">Rada pověřila předsedu jednat s ÚHKT o uzavření nájemní smlouvy pro potřeby zápisu spolku do rejstříku</span></li>
-<li><span style="color: #000000;">Rada pověřila předsedu dokončit proces zápisu ČSH do rejstříku spolků</span></li>
-<li><span style="color: #000000;">Ve spolupráci s Hemojuniorem se uskuteční 19. února 2016 Společenský večer v hotelu Alcron. Předseda Hemojunioru M. Bereň do poloviny prosince upřesní podmínky, za nichž Alcron připraví prostředí. V závislosti na výsledku rozhodnou předsedové obou organizací o výši účastnického poplatku vybíraného od každého účastníka.</span></li>
-<li><span style="color: #000000;">Pořadatelé pozvou všechny členy ČSH i HJ, dále pak zašlou po dvou čestných vstupenkách do každého hemofilického centra a všem významným sponzorům.</span></li>
-<li><span style="color: #000000;">Rada pověřila předsedu a místopředsedu prodloužit smlouvy na zapůjčené motodlahy centrům v ÚHKT Praha a FN Brno. Současně si vyžádají v dotyčných centrech podmínky, za nichž je zájemcům půjčují a Rada je zveřejní na webu.</span></li>
-<li><span style="color: #000000;">Předseda zjistí u norského svazu typ ultrazvukového přístroje pro zjišťování krvácení a ČSH se následně bude snažit o zpřístupnění této metody pro domácí použití.</span></li>
-<li><span style="color: #000000;">Rada zpracuje manuál pro členy – hemofiliky se základním minimem požadavků, jež mohou uplatňovat ve svých centrech. Bude tak stanoveno nepodkročitelné minimum, na něž má každý nárok. Členové Rady zašlou své návrhy předsedovi do 15. prosince, ten je pak zpracuje do návrhu uceleného dokumentu a předloží Radě ke schválení. Poté budou zásady zaslány České hematologické společnosti a Společnosti pro trombózu a hemostázu k podpoře. Na konci procesu bude moci každý tímto dokumentem v svém centru operovat.</span></li>
-<li><span style="color: #000000;">M. Skořepa informoval o možnosti nahradit Lednici pro jarní rekondici dospělých novým prostředím penzionu Ohrada ve Vískách u Letovic. Rada s návrhem souhlasí a ukládá M. Skořepovi doladit s vedením penzionu přesné podmínky, prostředí a vybavení tak, aby maximálně vyhovovaly potřebám účastníků. Ceny zůstanou stejné jako v předešlém roce.</span></li>
-<li><span style="color: #000000;">Kontrola minulého zápisu: V. Tóth a P. Grim doplnili emailové adresy do databáze členů, úkol V. Tótha inventarizovat členské poplatky nadále trvá.</span></li>
-<li><span style="color: #000000;">Předseda připraví po skončení kalendářního roku výroční zprávu ČSH, V. Tóth doplní přehled hospodaření.</span></li>
+ <li>
+  <span style="color: #000000;">
+   V. Tóth převzal od členů Rady finanční doklady pro zaúčtován
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Rada ČSH potvrdila v roli statutárního zástupce svazu jeho předsedu PhDr. Vladimíra Dolejše
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Rada pověřila předsedu jednat s ÚHKT o uzavření nájemní smlouvy pro potřeby zápisu spolku do rejstříku
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Rada pověřila předsedu dokončit proces zápisu ČSH do rejstříku spolků
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Ve spolupráci s Hemojuniorem se uskuteční 19. února 2016 Společenský večer v hotelu Alcron. Předseda Hemojunioru M. Bereň do poloviny prosince upřesní podmínky, za nichž Alcron připraví prostředí. V závislosti na výsledku rozhodnou předsedové obou organizací o výši účastnického poplatku vybíraného od každého účastníka.
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Pořadatelé pozvou všechny členy ČSH i HJ, dále pak zašlou po dvou čestných vstupenkách do každého hemofilického centra a všem významným sponzorům.
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Rada pověřila předsedu a místopředsedu prodloužit smlouvy na zapůjčené motodlahy centrům v ÚHKT Praha a FN Brno. Současně si vyžádají v dotyčných centrech podmínky, za nichž je zájemcům půjčují a Rada je zveřejní na webu.
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Předseda zjistí u norského svazu typ ultrazvukového přístroje pro zjišťování krvácení a ČSH se následně bude snažit o zpřístupnění této metody pro domácí použití.
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Rada zpracuje manuál pro členy – hemofiliky se základním minimem požadavků, jež mohou uplatňovat ve svých centrech. Bude tak stanoveno nepodkročitelné minimum, na něž má každý nárok. Členové Rady zašlou své návrhy předsedovi do 15. prosince, ten je pak zpracuje do návrhu uceleného dokumentu a předloží Radě ke schválení. Poté budou zásady zaslány České hematologické společnosti a Společnosti pro trombózu a hemostázu k podpoře. Na konci procesu bude moci každý tímto dokumentem v svém centru operovat.
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   M. Skořepa informoval o možnosti nahradit Lednici pro jarní rekondici dospělých novým prostředím penzionu Ohrada ve Vískách u Letovic. Rada s návrhem souhlasí a ukládá M. Skořepovi doladit s vedením penzionu přesné podmínky, prostředí a vybavení tak, aby maximálně vyhovovaly potřebám účastníků. Ceny zůstanou stejné jako v předešlém roce.
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Kontrola minulého zápisu: V. Tóth a P. Grim doplnili emailové adresy do databáze členů, úkol V. Tótha inventarizovat členské poplatky nadále trvá.
+  </span>
+ </li>
+ <li>
+  <span style="color: #000000;">
+   Předseda připraví po skončení kalendářního roku výroční zprávu ČSH, V. Tóth doplní přehled hospodaření.
+  </span>
+ </li>
 </ol>
-<p><span style="color: #000000;"> Ve Vráži 3. prosince 2015</span></p>
-<p><span style="color: #000000;">Zapsal: V. Dolejš                                                             </span><br /><span style="color: #000000;">Ověřil: M. Bohůn</span></p>
+<p>
+ <span style="color: #000000;">
+  Ve Vráži 3. prosince 2015
+ </span>
+</p>
+<p>
+ <span style="color: #000000;">
+  Zapsal: V. Dolejš
+ </span>
+ <br/>
+ <span style="color: #000000;">
+  Ověřil: M. Bohůn
+ </span>
+</p>
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
@@ -80,7 +223,8 @@ title: Zápis z jednání Rady ČSH 03.12.2015
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -649,7 +793,8 @@ title: Zápis z jednání Rady ČSH 03.12.2015
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><![endif]--><!--[if gte mso 10]>
+</xml><![endif]-->
+<!--[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable

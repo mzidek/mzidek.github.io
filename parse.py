@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 import glob
 import os
 
-path = '_posts'
+path = '_posts_'
 
 
 
@@ -45,8 +45,10 @@ def cleanup_excerpt(filename):
     soup = BeautifulSoup(post.content, 'html.parser')
 
     for image in soup.find_all('img'):
-        print (image['src'])
+        src_old = image['src']
+        image['src'] = "{{ site.baseurl }}/" + src_old
 
+    post.content = soup.prettify()
     post['excerpt'] = soup.get_text()
     post['excerpt'] = cleanwidget(post['excerpt'])
     with open(filename, mode='w', encoding="utf-8") as f:

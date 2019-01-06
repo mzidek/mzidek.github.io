@@ -11,5 +11,10 @@ layout: post
 title: článek1
 ---
 
-<p><a href="index.php/cs/?option=com_chronoforms&amp;chronoform=PrihlaskaLednice-2013" title="přihláška">Připravujeme</a></p>
-<p> </p>
+<p>
+ <a href="index.php/cs/?option=com_chronoforms&amp;chronoform=PrihlaskaLednice-2013" title="přihláška">
+  Připravujeme
+ </a>
+</p>
+<p>
+</p>
