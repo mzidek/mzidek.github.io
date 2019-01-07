@@ -1,32 +1,35 @@
 <section id="posts" class="py-5">
   <div class="container">
+    <div class="row mt-sm-4 mt-md-0">
+      {% include carousel.html %}
+    </div>
     <div class="row">
       <div class="col">
         {% for post in paginator.posts %}
-          <div>
-            <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-            
-            <p class="text-info lead">
-              {{ post.date | date: "%b %-d, %Y" }}
-            </p>
+        <div>
+          <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
-            <p>
-              <div class="row">
+          <p class="text-info lead">
+            {{ post.date | date: "%b %-d, %Y" }}
+          </p>
+
+          <p>
+            <div class="row">
               {% if post.featured-image %}
-              <div class = "col-sm-6 col-md-3">
-              {% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}
+              <div class="col-sm-6 col-md-3">
+                {% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}
               </div>
               {% endif %}
-              <div class = "col">
-              {% if post.summary %}
+              <div class="col">
+                {% if post.summary %}
                 {{ post.summary }}
-              {% else %}
+                {% else %}
                 {{ post.excerpt }}
-              {% endif %}
+                {% endif %}
               </div>
             </div>
-            </p>
-          </div>
+          </p>
+        </div>
         {% endfor %}
       </div>
     </div>
