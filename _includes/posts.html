@@ -1,10 +1,10 @@
 <section id="posts" class="py-5">
-  <div class="container">
+  <!-- <div class="container"> -->
     <div class="row mt-sm-4 mt-md-0">
       {% include carousel.html %}
     </div>
     <div class="row">
-      <div class="col">
+      <!-- <div class="col"> -->
         {% for post in paginator.posts %}
         <div>
           <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
@@ -31,7 +31,7 @@
           </p>
         </div>
         {% endfor %}
-      </div>
+      <!-- </div> -->
     </div>
-  </div>
+  <!-- </div> -->
 </section>
