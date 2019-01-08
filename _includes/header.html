@@ -16,9 +16,20 @@
                 <li class="nav-item">
                     <a href="{{ site.baseurl }}/csh/" class="nav-link">Informace o svazu</a>
                 </li>
-                <li class="nav-item">
-                    <a href="{{ site.baseurl }}/zivot/" class="nav-link">Život s diagnózou</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Život s diagnózou
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="{{ site.baseurl }}/socialni/">Sociální otázky</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/lecba/">Léčba</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">...</a>
+                    </div>
                 </li>
+                <!-- <li class="nav-item">
+                    <a href="{{ site.baseurl }}/zivot/" class="nav-link">Život s diagnózou</a>
+                </li> -->
                 <li class="nav-item">
                     <a href="{{ site.baseurl }}/vwch/" class="nav-link">Von Willebrandova choroba</a>
                 </li>
