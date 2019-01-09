@@ -5,7 +5,7 @@
 <body>
 
   {% include header.html %}
-  {% include banner.html %}
+  <!-- {% include banner.html %} -->
   
   <div class="container">
     
@@ -21,7 +21,7 @@
             <p class="card-text">IV. Společenský večer ČSH a Hemojunioru</p>
             <a href="{{ site.baseurl }}/4-spolecensky-vecer-je-za-dvermi-hemofilici-se-sejdou-uz-v-lednu/" class="card-link">12.1.2019</a>
             {% for highlight in site.highlights %}
-              <p class="card-text">highlight.title</p>
+              <p class="card-text">{{ highlight.title }}</p>
               
             {% endfor %}
           </div>
