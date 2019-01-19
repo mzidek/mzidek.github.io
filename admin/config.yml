@@ -20,8 +20,8 @@ collections:
           name: "images",
           widget: "list",
           fields:
-           - {label: "Titulek", name: "title", widget: "string"}
-           - {label: "Obrázek", name: "image_path", widget: "image"} 
+          - {label: "Titulek", name: "title", widget: "string"}
+          - {label: "Obrázek", name: "image_path", widget: "image"} 
       }
   
   - name: "highlights"
