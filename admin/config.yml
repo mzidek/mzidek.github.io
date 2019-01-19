@@ -17,11 +17,11 @@ collections:
       - {label: "Featured Image", name: "featured-image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Gallery"
-          name: "images"
-          widget: "object"
-          fields:
-          - {label: "Titulek", name: "title", widget: "string"}
-          - {label: "Obrázek", name: "image_path", widget: "image"} 
+      name: "images"
+      widget: "object"
+      fields:
+      - {label: "Titulek", name: "title", widget: "string"}
+      - {label: "Obrázek", name: "image_path", widget: "image"} 
       
   
   - name: "highlights"
