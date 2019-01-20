@@ -17,24 +17,12 @@ collections:
       - {label: "Featured Image", name: "featured-image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Gallery"
-        name: "images"
+        name: "image"
         allow_add: true
-        widget: "object"
+        widget: "list"
         fields:
           - {label: "Titulek", name: "title", widget: "string"}
           - {label: "Obrázek", name: "image_path", widget: "image"} 
-  - label: "Testimonials"
-    name: "testimonials"
-    widget: "list"
-    fields:
-      - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-      - label: Author
-        name: author
-        widget: object
-        fields:
-          - {label: Name, name: name, widget: string, default: "Emmet"}
-          - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
-      
   
   - name: "highlights"
     label: "Nepřehlédněte"
