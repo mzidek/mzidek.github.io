@@ -6,5 +6,10 @@
     {% include banner.html %}
     {% include post.html %}
     {% include footer.html %}
+
+    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+      event.preventDefault();
+      $(this).ekkoLightbox();
+  });
   </body>
 </html>

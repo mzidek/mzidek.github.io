@@ -10,7 +10,7 @@
     
     {% assign filenameparts = image.image_path | split: "/" %}
     {% assign filename = filenameparts | last | replace: file.extname,"" %}
-    <a href="{{ image.image_path }}" title="{{ image.title }}">
+    <a href="{{ image.image_path }}" title="{{ image.title }}" data-toggle="lightbox">
         <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ image.image_path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ image.title }}" title="{{ image.title }}" />
         <span>{{ image.title }}</span>
         </a>
