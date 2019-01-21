@@ -1,7 +1,11 @@
 .navbar{
     box-shadow: 1px 1px 3px $primary;
     opacity: 0.8;
-    background: #cc0000;
+    background: #ff3019;
+    background: -moz-linear-gradient(top, #ff3019 0%, #cf0404 100%);
+    background: -webkit-linear-gradient(top, #ff3019 0%,#cf0404 100%);
+    background: linear-gradient(to bottom, #ff3019 0%,#cf0404 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 );
   
     .nav-item{
       font-size: 1.4rem;
