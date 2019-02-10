@@ -1,7 +1,22 @@
 <section id="posts" class="py-5">
   <!-- <div class="container"> -->
-    <div class="row mt-sm-4 mt-md-0">
+    <!-- <div class="row mt-sm-4 mt-md-0">
       {% include carousel.html %}
+    </div> -->
+    <div class="row">
+      
+      <div class="card-group col-md-10">
+        {% for post in site.posts limit:3 %}
+        <div class="card">
+          <img class="card-img-top img-fluid" src="{{ post.featured-image }}">
+          <div class="card-body">
+            <h4 class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+            <p class="card-text"> {{ post.excerpt }}</p>
+          </div>
+          
+        </div>
+        {% endfor %}
+      </div>
     </div>
     <div class="row">
       <!-- <div class="col"> -->
