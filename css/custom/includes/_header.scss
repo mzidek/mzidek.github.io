@@ -8,10 +8,12 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cf0404', endColorstr='#ff3019',GradientType=0 );
   
     .nav-item{
-      font-size: 1.2rem;
+      font-size: 1.0rem;
+      font-weight: bold;
       padding-right: 15px;
     }
   }
+
   
   .nav-link {
     color: $white !important;
