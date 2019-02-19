@@ -7,13 +7,13 @@
       
       <div class="card-deck col-md-10">
         {% for post in site.posts limit:3 %}
-        <div class="card">
+        <div class="card text-justify">
           <img class="card-img-top img-fluid" src="{{ post.featured-image }}">
           <div class="card-body">
-            <h4 class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+            <h5 class="card-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
             <p class="card-text" style="font-size: 0.9rem"> {{ post.excerpt }}</p>
           </div>
-          <div class="card-footer">{{ post.date }}</div>
+          <div class="card-footer">{{ post.date | date: "%d.%m.%Y" }}</div>
           
         </div>
         {% endfor %}
